@@ -1,3 +1,8 @@
+@extends('layouts.app')
+@section('title', 'Home')
+	
+	
+@section('content')
 <main id="main" class="clearfix ">
 	<div class="fusion-row" style="">
 		<script type="text/javascript" src="../static.sureoakdata.com/progressbar.html"></script>
@@ -697,3 +702,5 @@
 			</script>
 		</div>
 </main>
+
+@endsection
