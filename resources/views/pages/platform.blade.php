@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'Sure Oak Software Platform')
 	
 	
 @section('content')

@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'Get my free SEO strategy session')
 	
 	
 @section('content')
