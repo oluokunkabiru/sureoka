@@ -1,5 +1,6 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'Scholarship Edu Backlink Case
+Studies')
 	
 	
 @section('content')
