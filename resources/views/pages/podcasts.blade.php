@@ -1,3 +1,8 @@
+@extends('layouts.app')
+@section('title', 'Home')
+	
+	
+@section('content')
 <main id="main" class="clearfix width-100">
 	<div class="fusion-row" style="max-width:100%;">
 		<section id="content" class="full-width">
@@ -767,3 +772,4 @@
 		</section>
 	</div>
 </main>
+@endsection
