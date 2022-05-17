@@ -16,7 +16,7 @@
                         <div class="textwidget custom-html-widget">
                             <div class="footer-cta-button mobile"
                                 style="margin-top:50px; max-width:70%; margin: 0 auto;"><a
-                                    href="strategy-call.html"
+                                    href="{{route('strategy-call')}}"
                                     style="color:#fff !important; font-size:90;">Get my free SEO strategy
                                     session</a></div>
                         </div>
@@ -29,18 +29,18 @@
                             <ul id="menu-footer-column-1-tools" class="menu">
                                 <li id="menu-item-23900"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23900">
-                                    <a href="seo-tools.html">All SEO Tools</a></li>
+                                    <a href="{{ route('seo-plan') }}">All SEO Tools</a></li>
                                 <li id="menu-item-23901"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23901">
-                                    <a href="seo-tools/seo-checker-analysis-tool.html">SEO Score Checker</a>
+                                    <a href="{{ route('seo-competitor-analysis') }}">SEO Score Checker</a>
                                 </li>
                                 <li id="menu-item-23899"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23899">
-                                    <a href="seo-tools/seo-website-crawler-tool.html">Website Crawler</a>
+                                    <a href="#">Website Crawler</a>
                                 </li>
                                 <li id="menu-item-23883"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23883">
-                                    <a href="seo-tools/domain-authority-checker.html">DA Checker</a></li>
+                                    <a href="#">DA Checker</a></li>
                             </ul>
                         </div>
                         <div style="clear:both;"></div>
@@ -59,18 +59,18 @@
                             <ul id="menu-footer-column-1-tools-1" class="menu">
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23900">
-                                    <a href="seo-tools.html">All SEO Tools</a></li>
+                                    <a href="{{ route('seo') }}">All SEO Tools</a></li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23901">
-                                    <a href="seo-tools/seo-checker-analysis-tool.html">SEO Score Checker</a>
+                                    <a href="#">SEO Score Checker</a>
                                 </li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23899">
-                                    <a href="seo-tools/seo-website-crawler-tool.html">Website Crawler</a>
+                                    <a href="#">Website Crawler</a>
                                 </li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23883">
-                                    <a href="seo-tools/domain-authority-checker.html">DA Checker</a></li>
+                                    <a href="#">DA Checker</a></li>
                             </ul>
                         </div>
                         <div style="clear:both;"></div>
@@ -91,16 +91,16 @@
                             <ul id="menu-footer-column-2-insights" class="menu">
                                 <li id="menu-item-17729"
                                     class="subnav-blog-podcast menu-item menu-item-type-post_type menu-item-object-page menu-item-17729">
-                                    <a href="podcasts.html">Podcast</a></li>
+                                    <a href="{{ route('podcasts') }}">Podcast</a></li>
                                 <li id="menu-item-18721"
                                     class="subnav-blog-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18721">
-                                    <a href="seo.html">SEO</a></li>
+                                    <a href="{{ route('seo') }}">SEO</a></li>
                                 <li id="menu-item-26716"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26716">
-                                    <a href="industries/saas-seo.html">B2B SaaS SEO</a></li>
+                                    <a href="{{ route('b2b-saas-case-study') }}">B2B SaaS SEO</a></li>
                                 <li id="menu-item-26715"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26715">
-                                    <a href="industries/b2b-seo.html">B2B SEO</a></li>
+                                    <a href="{{ route('b2b-saas-case-study') }}">B2B SEO</a></li>
                             </ul>
                         </div>
                         <div style="clear:both;"></div>
@@ -120,16 +120,16 @@
                             <ul id="menu-footer-column-2-insights-1" class="menu">
                                 <li
                                     class="subnav-blog-podcast menu-item menu-item-type-post_type menu-item-object-page menu-item-17729">
-                                    <a href="podcasts.html">Podcast</a></li>
+                                    <a href="{{ route('podcasts') }}">Podcast</a></li>
                                 <li
                                     class="subnav-blog-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18721">
-                                    <a href="seo.html">SEO</a></li>
+                                    <a href="{{ route('seo') }}">SEO</a></li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26716">
-                                    <a href="industries/saas-seo.html">B2B SaaS SEO</a></li>
+                                    <a href="{{ route('b2b-saas-case-study') }}">B2B SaaS SEO</a></li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26715">
-                                    <a href="industries/b2b-seo.html">B2B SEO</a></li>
+                                    <a href="{{ route('b2b-saas-case-study') }}">B2B SEO</a></li>
                             </ul>
                         </div>
                         <div style="clear:both;"></div>
@@ -151,16 +151,16 @@
                             <ul id="menu-footer-column-3-services" class="menu">
                                 <li id="menu-item-20599"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20599">
-                                    <a href="services.html">All Services</a></li>
+                                    <a href="{{ route('service') }}">All Services</a></li>
                                 <li id="menu-item-20600"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20600">
-                                    <a href="services/link-building-services.html">Link Building</a></li>
+                                    <a href="{{ route('link-building') }}">Link Building</a></li>
                                 <li id="menu-item-20598"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20598">
-                                    <a href="services/seo-plan.html">SEO Game Plan</a></li>
+                                    <a href="{{ route('seo-plan') }}">SEO Game Plan</a></li>
                                 <li id="menu-item-18720"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18720">
-                                    <a href="services/how-to-get-edu-backlinks.html">EDU Backlinks</a></li>
+                                    <a href="{{ route('how-to-get-edu-backlinks') }}l">EDU Backlinks</a></li>
                             </ul>
                         </div>
                         <div style="clear:both;"></div>
@@ -180,16 +180,16 @@
                             <ul id="menu-footer-column-3-services-1" class="menu">
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20599">
-                                    <a href="services.html">All Services</a></li>
+                                    <a href="{{ route('service') }}">All Services</a></li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20600">
-                                    <a href="services/link-building-services.html">Link Building</a></li>
+                                    <a href="{{ route('link-building') }}">Link Building</a></li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20598">
-                                    <a href="services/seo-plan.html">SEO Game Plan</a></li>
+                                    <a href="{{ route('seo-plan') }}">SEO Game Plan</a></li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18720">
-                                    <a href="services/how-to-get-edu-backlinks.html">EDU Backlinks</a></li>
+                                    <a href="{{ route('how-to-get-edu-backlinks') }}">EDU Backlinks</a></li>
                             </ul>
                         </div>
                         <div style="clear:both;"></div>
@@ -203,16 +203,16 @@
                             <ul id="menu-footer-column-4-about" class="menu">
                                 <li id="menu-item-89"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89">
-                                    <a href="about.html">Mission</a></li>
+                                    <a href="{{ route('about') }}">Mission</a></li>
                                 <li id="menu-item-27970"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27970">
-                                    <a href="partner.html">Partnerships</a></li>
+                                    <a href="{{ route('partner') }}">Partnerships</a></li>
                                 <li id="menu-item-17723"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17723">
-                                    <a href="careers.html">Careers</a></li>
+                                    <a href="{{ route('careers') }}">Careers</a></li>
                                 <li id="menu-item-93"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93">
-                                    <a href="contact.html">Contact</a></li>
+                                    <a href="{{ route('contact') }}">Contact</a></li>
                             </ul>
                         </div>
                         <div style="clear:both;"></div>
@@ -232,16 +232,16 @@
                             <ul id="menu-footer-column-4-about-1" class="menu">
                                 <li
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89">
-                                    <a href="about.html">Mission</a></li>
+                                    <a href="{{ route('about') }}">Mission</a></li>
                                 <li
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27970">
-                                    <a href="partner.html">Partnerships</a></li>
+                                    <a href="{{ route('partner') }}">Partnerships</a></li>
                                 <li
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17723">
-                                    <a href="careers.html">Careers</a></li>
+                                    <a href="{{ route('careers') }}">Careers</a></li>
                                 <li
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93">
-                                    <a href="contact.html">Contact</a></li>
+                                    <a href="{{ route('contact') }}">Contact</a></li>
                             </ul>
                         </div>
                         <div style="clear:both;"></div>
@@ -253,7 +253,7 @@
                         style="border-style: solid;border-color:transparent;border-width:0px;">
                         <div class="textwidget custom-html-widget">
                             <div class="footer-cta-button" style="font-size:.9em; "><a
-                                    href="strategy-call.html" style="color:#fff !important;">Get my free SEO
+                                    href="{{ route('strategy-call') }}" style="color:#fff !important;">Get my free SEO
                                     strategy session</a></div>
                         </div>
                         <div style="clear:both;"></div>
@@ -372,9 +372,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> ©2022 Sure Oak Solutions LLC. <a href="terms-of-service.html"
-                            target="_blank">Terms of Use</a>, <a href="privacy-policy.html"
-                            target="_blank">Privacy Policy</a>, <a href="sitemap.html" target="_blank">Site
+                        </div> ©2022 Sure Oak Solutions LLC. <a href="{{ route('terms-of-service') }}"
+                            target="_blank">Terms of Use</a>, <a href="{{ route('privacy-policy') }}"
+                            target="_blank">Privacy Policy</a>, <a href="{{ route('sitemap') }}" target="_blank">Site
                             Map</a>
                     </div>
                 </div>
@@ -405,7 +405,7 @@ type="text/javascript">var fusionNavIsCollapsed = function (e) { var t, n; windo
                 <div class="cli-bar-btn_container"><a id="wt-cli-settings-btn" tabindex="0" role='button'
                         style="border-bottom:1px solid rgb(137, 136, 136); text-decoration:none; border-top-color:rgb(137, 136, 136); border-right-color:rgb(137, 136, 136); border-left-color:rgb(137, 136, 136);"
                         class="wt-cli-element cli_settings_button">Cookie settings</a> | <a
-                        id="wt-cli-policy-link" tabindex="0" href="privacy-policy.html"
+                        id="wt-cli-policy-link" tabindex="0" href="{{ route('terms-of-service') }}"
                         style="border-color:rgb(137, 136, 136); text-decoration:none; border-bottom:1px solid rgb(137, 136, 136);"
                         class="wt-cli-element wt-cli-element cli-plugin-main-link">Privacy Policy</a><a
                         id="wt-cli-accept-btn" tabindex="0" role='button'
