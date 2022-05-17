@@ -15,7 +15,7 @@
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:5%;padding-right:25%;padding-bottom:5%;padding-left:25%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-header-desktop.png') }}"
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-desktop.png') }}"
 						id="desktop-header">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
@@ -36,7 +36,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:30px;padding-right:10%;padding-bottom:30px;padding-left:10%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -57,7 +57,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:10%;padding-right:5%;padding-bottom:0px;padding-left:5%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -87,11 +87,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 												width="397" height="54" alt="AdvancePoint Capital logo"
 												title="AdvancePoint-Capital-logo"
-												src="../wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }}"
+												src="{{ asset('wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }}"
 												class="lazyload img-responsive wp-image-25463"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27397%27%20height%3D%2754%27%20viewBox%3D%270%200%20397%2054%27%3E%3Crect%20width%3D%27397%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/03/AdvancePoint-Capital-logo-200x27.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }} 397w"
+												data-srcset="{{ asset('wp-content/uploads/2020/03/AdvancePoint-Capital-logo-200x27.png') }} 200w, {{ asset('wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }} 397w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 397px" /></span>
 									</div>
@@ -111,11 +111,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"><img
 												width="397" height="54" alt="AdvancePoint Capital logo"
 												title="AdvancePoint-Capital-logo"
-												src="../wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }}"
+												src="{{ asset('wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }}"
 												class="lazyload img-responsive wp-image-25463"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27397%27%20height%3D%2754%27%20viewBox%3D%270%200%20397%2054%27%3E%3Crect%20width%3D%27397%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/03/AdvancePoint-Capital-logo-200x27.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }} 397w"
+												data-srcset="{{ asset('wp-content/uploads/2020/03/AdvancePoint-Capital-logo-200x27.png') }} 200w, {{ asset('wp-content/uploads/2020/03/AdvancePoint-Capital-logo.png') }} 397w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 397px" /></span>
 									</div>
@@ -136,11 +136,11 @@
 											style="max-width:175px;"><img width="228" height="223"
 												alt="Domain authority increase"
 												title="Responsify Monthly Traffic"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
 												class="lazyload img-responsive wp-image-21392"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27228%27%20height%3D%27223%27%20viewBox%3D%270%200%20228%20223%27%3E%3Crect%20width%3D%27228%27%20height%3D%27223%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 228px" /></span>
 									</div>
@@ -161,11 +161,11 @@
 											style="max-width:175px;"><img width="247" height="238"
 												alt="Increase in total organic keyword rankings"
 												title="case-studies-sub-pages_06"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
 												class="lazyload img-responsive wp-image-21389"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27247%27%20height%3D%27238%27%20viewBox%3D%270%200%20247%20238%27%3E%3Crect%20width%3D%27247%27%20height%3D%27238%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 247px" /></span>
 									</div>
@@ -187,11 +187,11 @@
 											style="max-width:205px;"><img width="380" height="313"
 												alt="Number of leads from organic search"
 												title="case study improvements"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
 												class="lazyload img-responsive wp-image-21388"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27313%27%20viewBox%3D%270%200%20380%20313%27%3E%3Crect%20width%3D%27380%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 380px" /></span>
 									</div>
@@ -241,11 +241,11 @@
 												width="789" height="457"
 												alt="AdvancePoint Capital website montage"
 												title="apc-website-screen"
-												src="../wp-content/uploads/2020/05/apc-website-screen.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/apc-website-screen.png') }}"
+												src="{{ asset('wp-content/uploads/2020/05/apc-website-screen.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/apc-website-screen.png') }}"
 												class="lazyload img-responsive wp-image-25846"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27789%27%20height%3D%27457%27%20viewBox%3D%270%200%20789%20457%27%3E%3Crect%20width%3D%27789%27%20height%3D%27457%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/apc-website-screen-600x348.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/05/apc-website-screen.png') }} 789w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/apc-website-screen-600x348.png') }} 600w, {{ asset('wp-content/uploads/2020/05/apc-website-screen.png') }} 789w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 789px" /></span>
 									</div>
@@ -395,11 +395,11 @@
 												width="1024" height="452"
 												alt="Leads from Organic Search Graph"
 												title="apc-leads-from-organic-search"
-												src="../wp-content/uploads/2020/05/apc-leads-from-organic-search.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/apc-leads-from-organic-search.png') }}"
+												src="{{ asset('wp-content/uploads/2020/05/apc-leads-from-organic-search.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/apc-leads-from-organic-search.png') }}"
 												class="lazyload img-responsive wp-image-25849"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27452%27%20viewBox%3D%270%200%201024%20452%27%3E%3Crect%20width%3D%271024%27%20height%3D%27452%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/apc-leads-from-organic-search-600x265.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/05/apc-leads-from-organic-search.png') }} 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/apc-leads-from-organic-search-600x265.png') }} 600w, {{ asset('wp-content/uploads/2020/05/apc-leads-from-organic-search.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -431,11 +431,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img
 												width="1024" height="527" alt="Organic Keyword Growth Graph"
 												title="apc-organic-keyword-growth"
-												src="../wp-content/uploads/2020/05/apc-organic-keyword-growth.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/apc-organic-keyword-growth.png') }}"
+												src="{{ asset('wp-content/uploads/2020/05/apc-organic-keyword-growth.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/apc-organic-keyword-growth.png') }}"
 												class="lazyload img-responsive wp-image-25850"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27527%27%20viewBox%3D%270%200%201024%20527%27%3E%3Crect%20width%3D%271024%27%20height%3D%27527%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/apc-organic-keyword-growth-600x309.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/05/apc-organic-keyword-growth.png') }} 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/apc-organic-keyword-growth-600x309.png') }} 600w, {{ asset('wp-content/uploads/2020/05/apc-organic-keyword-growth.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -474,11 +474,11 @@
 												width="1024" height="457"
 												alt="Clicks from Organic Search graph"
 												title="apc-clicks-from-organic-search"
-												src="../wp-content/uploads/2020/05/apc-clicks-from-organic-search.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/apc-clicks-from-organic-search.png') }}"
+												src="{{ asset('wp-content/uploads/2020/05/apc-clicks-from-organic-search.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/apc-clicks-from-organic-search.png') }}"
 												class="lazyload img-responsive wp-image-25851"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27457%27%20viewBox%3D%270%200%201024%20457%27%3E%3Crect%20width%3D%271024%27%20height%3D%27457%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/apc-clicks-from-organic-search-600x268.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/05/apc-clicks-from-organic-search.png') }} 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/apc-clicks-from-organic-search-600x268.png') }} 600w, {{ asset('wp-content/uploads/2020/05/apc-clicks-from-organic-search.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -495,7 +495,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-12 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:40px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-13 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -553,7 +553,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-13 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-14 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">

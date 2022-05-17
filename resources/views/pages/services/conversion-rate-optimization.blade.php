@@ -231,7 +231,7 @@ Optimization')
 										class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none verticalalignbottom tom-logan"
 										style="margin-left:25px;float:right;max-width:450px;"><img
 											width="800" height="606" alt="Tom Casano and Logan Palmer"
-											src="../wp-content/uploads/2019/02/tom-logan-copy.png') }}"
+											src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
 											data-orig-src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}')}}"
 											class="lazyload img-responsive wp-image-19742"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27606%27%20viewBox%3D%270%200%20800%20606%27%3E%3Crect%20width%3D%27800%27%20height%3D%27606%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"

@@ -15,7 +15,7 @@
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:5%;padding-right:25%;padding-bottom:5%;padding-left:25%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-desktop.png') }}">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-desktop.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -35,7 +35,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:30px;padding-right:10%;padding-bottom:30px;padding-left:10%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -56,7 +56,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:10%;padding-right:5%;padding-bottom:0px;padding-left:5%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -87,11 +87,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"
 											style="max-width:65%;"><img width="366" height="94"
 												alt="responsify-Logo" title="responsify-Logo"
-												src="../wp-content/uploads/2019/04/responsify-Logo.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/responsify-Logo.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/responsify-Logo.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/responsify-Logo.png') }}"
 												class="lazyload img-responsive wp-image-21359"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27366%27%20height%3D%2794%27%20viewBox%3D%270%200%20366%2094%27%3E%3Crect%20width%3D%27366%27%20height%3D%2794%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/responsify-Logo-200x51.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/responsify-Logo.png') }} 366w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/responsify-Logo-200x51.png') }} 200w, {{ asset('wp-content/uploads/2019/04/responsify-Logo.png') }} 366w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 366px" /></span>
 									</div>
@@ -118,11 +118,11 @@
 											style="max-width:175px;"><img width="228" height="223"
 												alt="Responsify Monthly Traffic"
 												title="Responsify Monthly Traffic"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
 												class="lazyload img-responsive wp-image-21392"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27228%27%20height%3D%27223%27%20viewBox%3D%270%200%20228%20223%27%3E%3Crect%20width%3D%27228%27%20height%3D%27223%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 228px" /></span>
 									</div>
@@ -144,11 +144,11 @@
 											style="max-width:175px;"><img width="247" height="238"
 												alt="Increase in organic traffic"
 												title="case-studies-sub-pages_06"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
 												class="lazyload img-responsive wp-image-21389"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27247%27%20height%3D%27238%27%20viewBox%3D%270%200%20247%20238%27%3E%3Crect%20width%3D%27247%27%20height%3D%27238%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 247px" /></span>
 									</div>
@@ -169,11 +169,11 @@
 											style="max-width:205px;"><img width="380" height="313"
 												alt="case study improvements"
 												title="case study improvements"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
 												class="lazyload img-responsive wp-image-21388"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27313%27%20viewBox%3D%270%200%20380%20313%27%3E%3Crect%20width%3D%27380%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 380px" /></span>
 									</div>
@@ -222,11 +222,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"
 											style="max-width:450px;"><img width="646" height="83"
 												alt="responsify challenges" title="responsify challenges"
-												src="../wp-content/uploads/2019/04/responsify-case-study-chanllenges.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/responsify-case-study-chanllenges.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/responsify-case-study-chanllenges.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/responsify-case-study-chanllenges.png') }}"
 												class="lazyload img-responsive wp-image-21422"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27646%27%20height%3D%2783%27%20viewBox%3D%270%200%20646%2083%27%3E%3Crect%20width%3D%27646%27%20height%3D%2783%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/responsify-case-study-chanllenges-200x26.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/responsify-case-study-chanllenges-400x51.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2019/04/responsify-case-study-chanllenges-600x77.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2019/04/responsify-case-study-chanllenges.png') }} 646w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/responsify-case-study-chanllenges-200x26.png') }} 200w, {{ asset('wp-content/uploads/2019/04/responsify-case-study-chanllenges-400x51.png') }} 400w, {{ asset('wp-content/uploads/2019/04/responsify-case-study-chanllenges-600x77.png') }} 600w, {{ asset('wp-content/uploads/2019/04/responsify-case-study-chanllenges.png') }} 646w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 646px" /></span>
 									</div>
@@ -234,11 +234,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"
 											style="max-width:75%;" id="computerScreen"><img width="1024"
 												height="590" alt="web page mockup" title="web page mockup"
-												src="../wp-content/uploads/2019/04/Mockup.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/Mockup-1024x590.png') }}"
+												src="{{ asset('wp-content/uploads/2019/04/Mockup.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/Mockup-1024x590.png') }}"
 												class="lazyload img-responsive wp-image-21426"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271750%27%20height%3D%271008%27%20viewBox%3D%270%200%201750%201008%27%3E%3Crect%20width%3D%271750%27%20height%3D%271008%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/Mockup-200x115.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/Mockup-400x230.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2019/04/Mockup-600x346.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2019/04/Mockup-800x461.png') }} 800w, https://www.sureoak.com/wp-content/uploads/2019/04/Mockup-1200x691.png') }} 1200w, https://www.sureoak.com/wp-content/uploads/2019/04/Mockup.png') }} 1750w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/Mockup-200x115.png') }} 200w, {{ asset('wp-content/uploads/2019/04/Mockup-400x230.png') }} 400w, {{ asset('wp-content/uploads/2019/04/Mockup-600x346.png') }} 600w, {{ asset('wp-content/uploads/2019/04/Mockup-800x461.png') }} 800w, {{ asset('wp-content/uploads/2019/04/Mockup-1200x691.png') }} 1200w, {{ asset('wp-content/uploads/2019/04/Mockup.png') }} 1750w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1200px" /></span>
 									</div>
@@ -396,11 +396,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"><img
 												width="1024" height="313" alt="Linking Domains Chart"
 												title="responsify-domains-chart"
-												src="../wp-content/uploads/2020/04/responsify-domains-chart.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/04/responsify-domains-chart.png') }}"
+												src="{{ asset('wp-content/uploads/2020/04/responsify-domains-chart.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/04/responsify-domains-chart.png') }}"
 												class="lazyload img-responsive wp-image-25767"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27313%27%20viewBox%3D%270%200%201024%20313%27%3E%3Crect%20width%3D%271024%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/04/responsify-domains-chart-600x183.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/04/responsify-domains-chart.png') }} 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/04/responsify-domains-chart-600x183.png') }} 600w, {{ asset('wp-content/uploads/2020/04/responsify-domains-chart.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -438,11 +438,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img
 												width="1024" height="275" alt="Ranking keywords"
 												title="responsify-keywords-chart"
-												src="../wp-content/uploads/2020/04/responsify-keywords-chart.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/04/responsify-keywords-chart.png') }}"
+												src="{{ asset('wp-content/uploads/2020/04/responsify-keywords-chart.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/04/responsify-keywords-chart.png') }}"
 												class="lazyload img-responsive wp-image-25768"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27275%27%20viewBox%3D%270%200%201024%20275%27%3E%3Crect%20width%3D%271024%27%20height%3D%27275%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/04/responsify-keywords-chart-600x161.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/04/responsify-keywords-chart.png') }} 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/04/responsify-keywords-chart-600x161.png') }} 600w, {{ asset('wp-content/uploads/2020/04/responsify-keywords-chart.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -471,11 +471,11 @@
 												width="1024" height="256"
 												alt="Organic monthly users year on year"
 												title="responsify-users-chart"
-												src="../wp-content/uploads/2020/04/responsify-users-chart.png') }}"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/04/responsify-users-chart.png') }}"
+												src="{{ asset('wp-content/uploads/2020/04/responsify-users-chart.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/04/responsify-users-chart.png') }}"
 												class="lazyload img-responsive wp-image-25769"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27256%27%20viewBox%3D%270%200%201024%20256%27%3E%3Crect%20width%3D%271024%27%20height%3D%27256%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/04/responsify-users-chart-600x150.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/04/responsify-users-chart.png') }} 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/04/responsify-users-chart-600x150.png') }} 600w, {{ asset('wp-content/uploads/2020/04/responsify-users-chart.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -499,7 +499,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-12 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-17 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -558,7 +558,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-13 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-18 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">

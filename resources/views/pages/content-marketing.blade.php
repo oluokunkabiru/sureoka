@@ -47,7 +47,7 @@
 											higher and get more traffic.</p>
 										<p><img class="lazyload aligncenter size-full wp-image-13820"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2769%27%20viewBox%3D%270%200%201000%2069%27%3E%3Crect%20width%3D%271000%27%20height%3D%2769%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2017/04/credibility-2.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2017/04/credibility-2.png') }}"
 												alt="" width="1000" height="69" /></p>
 										<h4>Overview</h4>
 										<p>Imagine getting press and earning the most coveted links from

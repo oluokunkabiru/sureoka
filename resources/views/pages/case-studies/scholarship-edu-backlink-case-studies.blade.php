@@ -16,7 +16,7 @@ Studies')
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:80px;padding-right:20%;padding-bottom:200px;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
+						data-bg="{{ asset('wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -34,7 +34,7 @@ Studies')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:80px;padding-right:15%;padding-bottom:80px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
+						data-bg="{{ asset('wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -52,7 +52,7 @@ Studies')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:50px;padding-right:10%;padding-bottom:50px;padding-left:10%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
+						data-bg="{{ asset('wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -145,12 +145,12 @@ Studies')
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 												src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_one_one-1.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2018/10/client_one_one-1.jpg') }}"
 												alt class="lazyload img-responsive" /></span></div>
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"><img
 												src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_one_TWO.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2018/10/client_one_TWO.jpg') }}"
 												alt class="lazyload img-responsive" /></span></div>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -162,7 +162,7 @@ Studies')
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none"><img
 												src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_one_three.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2018/10/client_one_three.jpg') }}"
 												alt class="lazyload img-responsive" /></span></div>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -250,7 +250,7 @@ Studies')
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_two_one.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/10/client_two_one.jpg') }}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-text fusion-text-12">
 										<p>There was also Organic Traffic growth of 2020%. The number of
@@ -259,7 +259,7 @@ Studies')
 									</div><span
 										class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_two_two.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/10/client_two_two.jpg') }}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -271,7 +271,7 @@ Studies')
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_two_three.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/10/client_two_three.jpg') }}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -283,7 +283,7 @@ Studies')
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_two_four.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/10/client_two_four.jpg') }}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -345,7 +345,7 @@ Studies')
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_three_one.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/10/client_three_one.jpg') }}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -357,7 +357,7 @@ Studies')
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-9 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_three_two.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/10/client_three_two.jpg') }}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -435,7 +435,7 @@ Studies')
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_four_one.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/10/client_four_one.jpg') }}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -447,7 +447,7 @@ Studies')
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-11 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/10/client_four_two.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/10/client_four_two.jpg') }}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -474,7 +474,7 @@ Studies')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:55px;padding-right:30px;padding-bottom:0px;padding-left:30px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png') }}">
+						data-bg="{{ asset('wp-content/uploads/2018/11/landing-page-section-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-20 fusion_builder_column_1_3 1_3 fusion-one-third fusion-column-first"
 								style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% + 4% ) * 0.33333333333333 ) );margin-right: 4%;margin-top:-75px;margin-bottom:0px;">
@@ -484,11 +484,11 @@ Studies')
 										class=" fusion-imageframe imageframe-none imageframe-12 hover-type-none verticalalignbottom"
 										style="margin-left:25px;float:right;max-width:275px;"><img
 											width="824" height="1240" alt="Tom Casano"
-											src="../wp-content/uploads/2018/11/tom-1.png') }}"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/11/tom-1.png') }}"
+											src="{{ asset('wp-content/uploads/2018/11/tom-1.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/11/tom-1.png') }}"
 											class="lazyload img-responsive wp-image-17333"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27824%27%20height%3D%271240%27%20viewBox%3D%270%200%20824%201240%27%3E%3Crect%20width%3D%27824%27%20height%3D%271240%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2018/11/tom-1-200x301.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2018/11/tom-1-400x602.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2018/11/tom-1-600x903.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2018/11/tom-1-800x1204.png') }} 800w, https://www.sureoak.com/wp-content/uploads/2018/11/tom-1.png') }} 824w"
+											data-srcset="{{ asset('wp-content/uploads/2018/11/tom-1-200x301.png') }} 200w, {{ asset('wp-content/uploads/2018/11/tom-1-400x602.png') }} 400w, {{ asset('wp-content/uploads/2018/11/tom-1-600x903.png') }} 600w, {{ asset('wp-content/uploads/2018/11/tom-1-800x1204.png') }} 800w, {{ asset('wp-content/uploads/2018/11/tom-1.png') }} 824w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									<div class="fusion-clearfix"></div>

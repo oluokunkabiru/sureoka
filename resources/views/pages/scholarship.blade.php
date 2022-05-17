@@ -79,7 +79,7 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/08/teamwork-600x419.jpeg"
+											data-orig-src="{{ asset('wp-content/uploads/2018/08/teamwork-600x419.jpeg"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -378,7 +378,7 @@
 												Here</a></p>
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27150%27%20height%3D%27150%27%20viewBox%3D%270%200%20150%20150%27%3E%3Crect%20width%3D%27150%27%20height%3D%27150%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/08/image1-150x150.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2018/08/image1-150x150.png') }}"
 												alt="" width="150" height="150" />Darren Chow<br />
 											University of California &#8211; Berkeley<br /> Award:
 											$1,000<br /> August 1, 2018</p>
