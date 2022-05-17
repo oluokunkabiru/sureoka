@@ -44,7 +44,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center top;background-repeat: no-repeat;padding-top:0px;padding-right:10%;padding-bottom:0px;padding-left:10%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2019/09/bg_careers-video-block_v2.jpg"
+						data-bg="https://www.sureoak.com/wp-content/uploads/2019/09/bg_careers-video-block_v2.jpg') }}"
 						id="career-header-video">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
@@ -126,7 +126,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:300px;padding-right:0px;padding-bottom:300px;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="wp-content/uploads/2019/08/careers-office-pic.jpg">
+						data-bg="wp-content/uploads/2019/08/careers-office-pic.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -143,7 +143,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="wp-content/uploads/2019/08/careers-office-pic.jpg">
+						data-bg="wp-content/uploads/2019/08/careers-office-pic.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -154,7 +154,7 @@
 											width="1024" height="358" alt="office"
 											title="careers-office-pic"
 											src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271903%27%20height%3D%27665%27%20viewBox%3D%270%200%201903%20665%27%3E%3Crect%20width%3D%271903%27%20height%3D%27665%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/08/careers-office-pic-1024x358.jpg"
+											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/08/careers-office-pic-1024x358.jpg') }}"
 											class="lazyload img-responsive wp-image-24386" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -182,8 +182,8 @@
 								style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% + 4% ) * 0.33333333333333 ) );margin-right: 4%;margin-top:0px;margin-bottom:40px;">
 								<div class="fusion-column-wrapper lazyload fusion-column-has-shadow fusion-flex-column-wrapper-legacy"
 									style="background-position:center top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;box-shadow:2px 2px 4px 0px #808080;;padding: 0px 0px 0px 0px;"
-									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/09/join1-hug.jpg"
-									data-bg="wp-content/uploads/2019/09/join1-hug.jpg">
+									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/09/join1-hug.jpg') }}"
+									data-bg="wp-content/uploads/2019/09/join1-hug.jpg') }}">
 									<style type="text/css"></style>
 									<div class="fusion-title title fusion-title-6 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-five"
 										style="font-size:20px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
@@ -198,8 +198,8 @@
 								style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% + 4% ) * 0.33333333333333 ) );margin-right: 4%;margin-top:0px;margin-bottom:40px;">
 								<div class="fusion-column-wrapper lazyload fusion-column-has-shadow fusion-flex-column-wrapper-legacy"
 									style="background-position:center top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;box-shadow:2px 2px 4px 0px #808080;;padding: 0px 0px 0px 0px;"
-									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join2-team-collaboration_v2.jpg"
-									data-bg="wp-content/uploads/2019/12/join2-team-collaboration_v2.jpg">
+									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join2-team-collaboration_v2.jpg') }}"
+									data-bg="wp-content/uploads/2019/12/join2-team-collaboration_v2.jpg') }}">
 									<style type="text/css"></style>
 									<div class="fusion-title title fusion-title-7 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-five"
 										style="font-size:20px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
@@ -214,8 +214,8 @@
 								style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% + 4% ) * 0.33333333333333 ) );margin-top:0px;margin-bottom:40px;">
 								<div class="fusion-column-wrapper lazyload fusion-column-has-shadow fusion-flex-column-wrapper-legacy"
 									style="background-position:center top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;box-shadow:2px 2px 4px 0px #808080;;padding: 0px 0px 0px 0px;"
-									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join3-work-remotely_v2.jpg"
-									data-bg="wp-content/uploads/2019/12/join3-work-remotely_v2.jpg">
+									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join3-work-remotely_v2.jpg') }}"
+									data-bg="wp-content/uploads/2019/12/join3-work-remotely_v2.jpg') }}">
 									<style type="text/css"></style>
 									<div class="fusion-title title fusion-title-8 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-five"
 										style="font-size:20px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
@@ -230,8 +230,8 @@
 								style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% + 4% ) * 0.33333333333333 ) );margin-right: 4%;margin-top:0px;margin-bottom:40px;">
 								<div class="fusion-column-wrapper lazyload fusion-column-has-shadow fusion-flex-column-wrapper-legacy"
 									style="background-position:center top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;box-shadow:2px 2px 4px 0px #808080;;padding: 0px 0px 0px 0px;"
-									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join4-career-growth_v2.jpg"
-									data-bg="wp-content/uploads/2019/12/join4-career-growth_v2.jpg">
+									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join4-career-growth_v2.jpg') }}"
+									data-bg="wp-content/uploads/2019/12/join4-career-growth_v2.jpg') }}">
 									<style type="text/css"></style>
 									<div class="fusion-title title fusion-title-9 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-five"
 										style="font-size:20px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
@@ -246,8 +246,8 @@
 								style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% + 4% ) * 0.33333333333333 ) );margin-right: 4%;margin-top:0px;margin-bottom:40px;">
 								<div class="fusion-column-wrapper lazyload fusion-column-has-shadow fusion-flex-column-wrapper-legacy"
 									style="background-position:center top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;box-shadow:2px 2px 4px 0px #808080;;padding: 0px 0px 0px 0px;"
-									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join5-flex-schedule_v2.jpg"
-									data-bg="wp-content/uploads/2019/12/join5-flex-schedule_v2.jpg">
+									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join5-flex-schedule_v2.jpg') }}"
+									data-bg="wp-content/uploads/2019/12/join5-flex-schedule_v2.jpg') }}">
 									<style type="text/css"></style>
 									<div class="fusion-title title fusion-title-10 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-five"
 										style="font-size:20px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
@@ -262,8 +262,8 @@
 								style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% + 4% ) * 0.33333333333333 ) );margin-top:0px;margin-bottom:40px;">
 								<div class="fusion-column-wrapper lazyload fusion-column-has-shadow fusion-flex-column-wrapper-legacy"
 									style="background-position:center top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;box-shadow:2px 2px 4px 0px #808080;;padding: 0px 0px 0px 0px;"
-									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join6-supportive_v2.jpg"
-									data-bg="wp-content/uploads/2019/12/join6-supportive_v2.jpg">
+									data-bg-url="https://www.sureoak.com/wp-content/uploads/2019/12/join6-supportive_v2.jpg') }}"
+									data-bg="wp-content/uploads/2019/12/join6-supportive_v2.jpg') }}">
 									<style type="text/css"></style>
 									<div class="fusion-title title fusion-title-11 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-five"
 										style="font-size:20px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">

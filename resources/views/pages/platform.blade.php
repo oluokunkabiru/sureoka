@@ -113,11 +113,11 @@
 													data-animationOffset="bottom-in-view"><img width="588"
 														height="383" alt="Platform Dashboard"
 														title="platform-dashboard"
-														src="wp-content/uploads/2020/01/platform-dashboard.jpg"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-dashboard.jpg"
+														src="wp-content/uploads/2020/01/platform-dashboard.jpg') }}"
+														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-dashboard.jpg') }}"
 														class="lazyload img-responsive wp-image-25292"
 														srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27588%27%20height%3D%27383%27%20viewBox%3D%270%200%20588%20383%27%3E%3Crect%20width%3D%27588%27%20height%3D%27383%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-dashboard-200x130.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-dashboard-400x261.jpg 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-dashboard.jpg 588w"
+														data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-dashboard-200x130.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-dashboard-400x261.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-dashboard.jpg') }} 588w"
 														data-sizes="auto"
 														data-orig-sizes="(max-width: 800px) 100vw, 588px" /></span>
 											</div>
@@ -178,11 +178,11 @@
 													data-animationOffset="bottom-in-view"><img width="588"
 														height="383" alt="Platform Keyword Clustering"
 														title="platform-keyword-clustering"
-														src="wp-content/uploads/2020/01/platform-keyword-clustering.jpg"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-clustering.jpg"
+														src="wp-content/uploads/2020/01/platform-keyword-clustering.jpg') }}"
+														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-clustering.jpg') }}"
 														class="lazyload img-responsive wp-image-25293"
 														srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27588%27%20height%3D%27383%27%20viewBox%3D%270%200%20588%20383%27%3E%3Crect%20width%3D%27588%27%20height%3D%27383%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-clustering-200x130.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-clustering-400x261.jpg 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-clustering.jpg 588w"
+														data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-clustering-200x130.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-clustering-400x261.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-clustering.jpg') }} 588w"
 														data-sizes="auto"
 														data-orig-sizes="(max-width: 800px) 100vw, 588px" /></span>
 											</div>
@@ -204,11 +204,11 @@
 													data-animationOffset="bottom-in-view"><img width="589"
 														height="384" alt="Don&#039;t Go It Alone -Travis"
 														title="platform-travis"
-														src="wp-content/uploads/2020/01/platform-travis.jpg"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-travis.jpg"
+														src="wp-content/uploads/2020/01/platform-travis.jpg') }}"
+														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-travis.jpg') }}"
 														class="lazyload img-responsive wp-image-25298"
 														srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27589%27%20height%3D%27384%27%20viewBox%3D%270%200%20589%20384%27%3E%3Crect%20width%3D%27589%27%20height%3D%27384%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-travis-200x130.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-travis-400x261.jpg 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-travis.jpg 589w"
+														data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-travis-200x130.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-travis-400x261.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-travis.jpg') }} 589w"
 														data-sizes="auto"
 														data-orig-sizes="(max-width: 800px) 100vw, 589px" /></span>
 											</div>
@@ -245,11 +245,11 @@
 												width="600" height="393"
 												alt="Keyword Optimization Made Easy"
 												title="platform-keyword-optimization"
-												src="wp-content/uploads/2020/01/platform-keyword-optimization.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-optimization.jpg"
+												src="wp-content/uploads/2020/01/platform-keyword-optimization.jpg') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-optimization.jpg') }}"
 												class="lazyload img-responsive wp-image-25304"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27393%27%20viewBox%3D%270%200%20600%20393%27%3E%3Crect%20width%3D%27600%27%20height%3D%27393%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-optimization-200x131.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-optimization-400x262.jpg 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-optimization.jpg 600w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-optimization-200x131.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-optimization-400x262.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-keyword-optimization.jpg') }} 600w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									</div>
@@ -264,11 +264,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img
 												width="600" height="394" alt="Targeted Content Planning"
 												title="platform-target-planning"
-												src="wp-content/uploads/2020/01/platform-target-planning.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-target-planning.jpg"
+												src="wp-content/uploads/2020/01/platform-target-planning.jpg') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/platform-target-planning.jpg') }}"
 												class="lazyload img-responsive wp-image-25303"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27394%27%20viewBox%3D%270%200%20600%20394%27%3E%3Crect%20width%3D%27600%27%20height%3D%27394%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-target-planning-200x131.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-target-planning-400x263.jpg 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-target-planning.jpg 600w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/platform-target-planning-200x131.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-target-planning-400x263.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2020/01/platform-target-planning.jpg') }} 600w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									</div>
@@ -307,7 +307,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:60px;padding-right:10%;padding-bottom:60px;padding-left:10%;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="wp-content/uploads/2020/01/bg_platform-cta.jpg">
+						data-bg="wp-content/uploads/2020/01/bg_platform-cta.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-13 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:0px;">

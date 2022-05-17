@@ -29,7 +29,7 @@
 					<div class="post-content">
 						<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none seo-tools-boxes nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns lazyload"
 							style="background-color: #b0f4ff;background-position: center top;background-repeat: no-repeat;padding-top:30px;padding-right:8%;padding-bottom:0px;padding-left:8%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-							data-bg="wp-content/uploads/2019/06/bg_tools_blue.jpg">
+							data-bg="wp-content/uploads/2019/06/bg_tools_blue.jpg') }}">
 							<div class="fusion-builder-row fusion-row">
 								<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height"
 									style="margin-top:0px;margin-bottom:20px;">
@@ -445,7 +445,7 @@
 				<div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1"
 					style="margin-top:0px;margin-bottom:0px;">
 					<div class="fusion-column-wrapper"
-						style="padding:90px 0px 110px 0px;background-image: url('wp-content/uploads/2019/05/SureOak-Tools.jpg');background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
+						style="padding:90px 0px 110px 0px;background-image: url('wp-content/uploads/2019/05/SureOak-Tools.jpg') }}');background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
 						data-bg-url="wp-content/uploads/2018/12/blog-ebook-cta-bg.png') }}">
 						<div class="fusion-text">
 							<h1 style="text-align: center;"><span style="color: #ffffff;">Need help

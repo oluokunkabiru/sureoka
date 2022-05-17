@@ -75,7 +75,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-parallax-none hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center top;background-repeat: no-repeat;padding-top:0px;padding-right:4%;padding-bottom:0px;padding-left:4%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/01/background.jpg">
+						data-bg="../wp-content/uploads/2019/01/background.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -95,7 +95,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-parallax-none hundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center top;background-repeat: no-repeat;padding-top:0px;padding-right:12%;padding-bottom:0px;padding-left:12%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/01/background.jpg">
+						data-bg="../wp-content/uploads/2019/01/background.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last fusion-no-small-visibility"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -124,11 +124,11 @@
 											width="800" height="538"
 											alt="Organic Keyword Ranking Case Study"
 											title="MountedTV-_organic-keyword-ranking-case-study"
-											src="../wp-content/uploads/2020/03/MountedTV-_organic-keyword-ranking-case-study.jpg"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/MountedTV-_organic-keyword-ranking-case-study.jpg"
+											src="../wp-content/uploads/2020/03/MountedTV-_organic-keyword-ranking-case-study.jpg') }}"
+											data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/MountedTV-_organic-keyword-ranking-case-study.jpg') }}"
 											class="lazyload img-responsive wp-image-25500"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27538%27%20viewBox%3D%270%200%20800%20538%27%3E%3Crect%20width%3D%27800%27%20height%3D%27538%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2020/03/MountedTV-_organic-keyword-ranking-case-study-600x404.jpg 600w, https://www.sureoak.com/wp-content/uploads/2020/03/MountedTV-_organic-keyword-ranking-case-study.jpg 800w"
+											data-srcset="https://www.sureoak.com/wp-content/uploads/2020/03/MountedTV-_organic-keyword-ranking-case-study-600x404.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/03/MountedTV-_organic-keyword-ranking-case-study.jpg') }} 800w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 800px" /></span>
 									<div class="fusion-clearfix"></div>

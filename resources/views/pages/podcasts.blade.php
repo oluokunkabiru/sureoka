@@ -208,7 +208,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:50px;padding-right:30px;padding-bottom:80px;padding-left:30px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="wp-content/uploads/2019/01/blog-bg.jpg">
+						data-bg="wp-content/uploads/2019/01/blog-bg.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -280,12 +280,12 @@
 																		href="insights/cold-outreach-sales-podcast.html"
 																		aria-label="Finding a Winning Sales and Cold Outreach Strategy with Lior Ohayon">
 																		<img width="353" height="176"
-																			src="wp-content/uploads/2019/11/podcast-lior-ohayon-featured.jpg"
+																			src="wp-content/uploads/2019/11/podcast-lior-ohayon-featured.jpg') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="Lior Ohayon"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27353%27%20height%3D%27176%27%20viewBox%3D%270%200%20353%20176%27%3E%3Crect%20width%3D%27353%27%20height%3D%27176%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/11/podcast-lior-ohayon-featured.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2019/11/podcast-lior-ohayon-featured-200x100.jpg 200w, https://www.sureoak.com/wp-content/uploads/2019/11/podcast-lior-ohayon-featured.jpg 353w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/11/podcast-lior-ohayon-featured.jpg') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2019/11/podcast-lior-ohayon-featured-200x100.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/11/podcast-lior-ohayon-featured.jpg') }} 353w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -386,13 +386,13 @@
 																		href="insights/googles-perfect-world-podcast.html"
 																		aria-label="The Benefits of Taking Part in Google’s Perfect World with Geoff Atkinson">
 																		<img width="1500" height="800"
-																			src="wp-content/uploads/2019/10/Geoff.jpg"
+																			src="wp-content/uploads/2019/10/Geoff.jpg') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="Geoff Atkinson"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271500%27%20height%3D%27800%27%20viewBox%3D%270%200%201500%20800%27%3E%3Crect%20width%3D%271500%27%20height%3D%27800%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/10/Geoff.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2019/10/Geoff-600x320.jpg 600w, https://www.sureoak.com/wp-content/uploads/2019/10/Geoff.jpg 1500w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/10/Geoff.jpg') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2019/10/Geoff-600x320.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2019/10/Geoff.jpg') }} 1500w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -439,12 +439,12 @@
 																		href="insights/develop-customer-conversations-podcast.html"
 																		aria-label="How to Leverage LinkedIn for More Promising Conversations with Customers">
 																		<img width="353" height="176"
-																			src="wp-content/uploads/2019/09/featured-image-guest.jpg"
+																			src="wp-content/uploads/2019/09/featured-image-guest.jpg') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="" loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27353%27%20height%3D%27176%27%20viewBox%3D%270%200%20353%20176%27%3E%3Crect%20width%3D%27353%27%20height%3D%27176%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/09/featured-image-guest.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2019/09/featured-image-guest-200x100.jpg 200w, https://www.sureoak.com/wp-content/uploads/2019/09/featured-image-guest.jpg 353w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/09/featured-image-guest.jpg') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2019/09/featured-image-guest-200x100.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/09/featured-image-guest.jpg') }} 353w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -492,12 +492,12 @@
 																		href="insights/marketing-budget-podcast.html"
 																		aria-label="How to Scale Your Business by Using Your Marketing Budget More Wisely with Garrett Mehrguth">
 																		<img width="1597" height="899"
-																			src="wp-content/uploads/2019/08/GarrettMehrguth.jpg"
+																			src="wp-content/uploads/2019/08/GarrettMehrguth.jpg') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="" loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271597%27%20height%3D%27899%27%20viewBox%3D%270%200%201597%20899%27%3E%3Crect%20width%3D%271597%27%20height%3D%27899%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-400x225.jpg 400w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-600x338.jpg 600w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-800x450.jpg 800w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-1200x676.jpg 1200w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth.jpg 1597w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth.jpg') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-200x113.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-400x225.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-600x338.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-800x450.jpg') }} 800w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth-1200x676.jpg') }} 1200w, https://www.sureoak.com/wp-content/uploads/2019/08/GarrettMehrguth.jpg') }} 1597w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>

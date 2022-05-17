@@ -263,7 +263,7 @@
 										<p><a href="2021-scholarship-winner.html"><img
 													class="lazyload alignleft" style="width: 150px;"
 													src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-													data-orig-src="/wp-content/uploads/2021/08/carneal-owens-scholarship-winner-2021.jpg"
+													data-orig-src="/wp-content/uploads/2021/08/carneal-owens-scholarship-winner-2021.jpg') }}"
 													alt="Carneal Owens II - 2021 Sure Oak Scholarship Winner"
 													width="150" /></a>Carneal Owens II<br />Washington
 											University<br />Award $1000<br />August 15, 2021</p>
@@ -301,7 +301,7 @@
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"
 												style="width: 150px;"
 												src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-												data-orig-src="/wp-content/uploads/2020/08/akeena-obaze.jpg"
+												data-orig-src="/wp-content/uploads/2020/08/akeena-obaze.jpg') }}"
 												alt="Akeena Obaze - 2020 Sure Oak Scholarship Winner"
 												width="150" />Akeena Obaze<br /> Louisiana Tech
 											University<br /> Award $1000<br /> August 1, 2020</p>
@@ -340,7 +340,7 @@
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"
 												style="width: 150px;"
 												src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-												data-orig-src="/wp-content/uploads/2019/08/tanner-geng-sure-oak-scholarship-winner-2019.jpg"
+												data-orig-src="/wp-content/uploads/2019/08/tanner-geng-sure-oak-scholarship-winner-2019.jpg') }}"
 												alt="Tanner Geng - 2019 Sure Oak Scholarship Winner"
 												width="150" />Tanner Geng<br /> University of Central
 											Florida<br /> Award $1000<br /> August 1, 2019</p>

@@ -14,7 +14,7 @@
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:80px;padding-right:20%;padding-bottom:200px;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg">
+						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -52,7 +52,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:80px;padding-right:15%;padding-bottom:80px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg">
+						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -90,7 +90,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:50px;padding-right:10%;padding-bottom:50px;padding-left:10%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg">
+						data-bg="../wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -472,11 +472,11 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img
 											width="741" height="524" title="spirituallifecoach3"
-											src="../wp-content/uploads/2017/01/spirituallifecoach3.jpg"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3.jpg"
+											src="../wp-content/uploads/2017/01/spirituallifecoach3.jpg') }}"
+											data-orig-src="https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3.jpg') }}"
 											alt class="lazyload img-responsive wp-image-13199"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27741%27%20height%3D%27524%27%20viewBox%3D%270%200%20741%20524%27%3E%3Crect%20width%3D%27741%27%20height%3D%27524%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-200x141.jpg 200w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-400x283.jpg 400w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-600x424.jpg 600w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3.jpg 741w"
+											data-srcset="https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-200x141.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-400x283.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-600x424.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3.jpg') }} 741w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -531,11 +531,11 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"><img
 											width="741" height="524" title="spirituallifecoach3"
-											src="../wp-content/uploads/2017/01/spirituallifecoach3.jpg"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3.jpg"
+											src="../wp-content/uploads/2017/01/spirituallifecoach3.jpg') }}"
+											data-orig-src="https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3.jpg') }}"
 											alt class="lazyload img-responsive wp-image-13199"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27741%27%20height%3D%27524%27%20viewBox%3D%270%200%20741%20524%27%3E%3Crect%20width%3D%27741%27%20height%3D%27524%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-200x141.jpg 200w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-400x283.jpg 400w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-600x424.jpg 600w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3.jpg 741w"
+											data-srcset="https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-200x141.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-400x283.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3-600x424.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2017/01/spirituallifecoach3.jpg') }} 741w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -590,11 +590,11 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-12 hover-type-none"><img
 											width="699" height="497" title="howtofindyourself3-1"
-											src="../wp-content/uploads/2018/12/howtofindyourself3-1.jpg"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1.jpg"
+											src="../wp-content/uploads/2018/12/howtofindyourself3-1.jpg') }}"
+											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1.jpg') }}"
 											alt class="lazyload img-responsive wp-image-18608"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27699%27%20height%3D%27497%27%20viewBox%3D%270%200%20699%20497%27%3E%3Crect%20width%3D%27699%27%20height%3D%27497%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1-200x142.jpg 200w, https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1-400x284.jpg 400w, https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1-600x427.jpg 600w, https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1.jpg 699w"
+											data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1-200x142.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1-400x284.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1-600x427.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2018/12/howtofindyourself3-1.jpg') }} 699w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -649,11 +649,11 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-14 hover-type-none"><img
 											width="709" height="528" title="feelinglost3"
-											src="../wp-content/uploads/2018/12/feelinglost3.jpg"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3.jpg"
+											src="../wp-content/uploads/2018/12/feelinglost3.jpg') }}"
+											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3.jpg') }}"
 											alt class="lazyload img-responsive wp-image-18609"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27709%27%20height%3D%27528%27%20viewBox%3D%270%200%20709%20528%27%3E%3Crect%20width%3D%27709%27%20height%3D%27528%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3-200x149.jpg 200w, https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3-400x298.jpg 400w, https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3-600x447.jpg 600w, https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3.jpg 709w"
+											data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3-200x149.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3-400x298.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3-600x447.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2018/12/feelinglost3.jpg') }} 709w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>

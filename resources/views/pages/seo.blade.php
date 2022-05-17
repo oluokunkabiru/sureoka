@@ -206,7 +206,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:50px;padding-right:30px;padding-bottom:80px;padding-left:30px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="wp-content/uploads/2019/01/blog-bg.jpg">
+						data-bg="wp-content/uploads/2019/01/blog-bg.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -457,13 +457,13 @@
 																		href="insights/goodfirm-interview-kim-melillo-ceo-top-seo-company-in-new-york.html"
 																		aria-label="Sure Oak&#8217;s CEO Kim K. Melillo Is Driving the Firm with Innovative Thinking, Customized Strategies, &#038; Reliable Connections: GoodFirms">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2021/07/kim-melillo-interview-list.jpg"
+																			src="wp-content/uploads/2021/07/kim-melillo-interview-list.jpg') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="Kim K. Melillo interview"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/07/kim-melillo-interview-list.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/07/kim-melillo-interview-list-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2021/07/kim-melillo-interview-list.jpg 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/07/kim-melillo-interview-list.jpg') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/07/kim-melillo-interview-list-200x113.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2021/07/kim-melillo-interview-list.jpg') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>

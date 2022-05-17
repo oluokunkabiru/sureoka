@@ -59,7 +59,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:80px;padding-right:20%;padding-bottom:200px;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="wp-content/uploads/2018/11/services_hero-2x-1.jpg">
+						data-bg="wp-content/uploads/2018/11/services_hero-2x-1.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -98,11 +98,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none"
 											style="max-width:300px;"><img width="1600" height="1600"
 												alt="Sure Oak Podcast" title="Sure Oak Podcast"
-												src="wp-content/uploads/2019/01/sure-oak-podcast-2019.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019.jpg"
+												src="wp-content/uploads/2019/01/sure-oak-podcast-2019.jpg') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019.jpg') }}"
 												class="lazyload img-responsive wp-image-19242"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271600%27%20height%3D%271600%27%20viewBox%3D%270%200%201600%201600%27%3E%3Crect%20width%3D%271600%27%20height%3D%271600%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-200x200.jpg 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-400x400.jpg 400w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-600x600.jpg 600w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-800x800.jpg 800w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-1200x1200.jpg 1200w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019.jpg 1600w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-200x200.jpg') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-400x400.jpg') }} 400w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-600x600.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-800x800.jpg') }} 800w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019-1200x1200.jpg') }} 1200w, https://www.sureoak.com/wp-content/uploads/2019/01/sure-oak-podcast-2019.jpg') }} 1600w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									</div>

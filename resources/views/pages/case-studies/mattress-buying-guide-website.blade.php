@@ -259,11 +259,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"><img
 												width="789" height="457" alt="Mattress Nerd website"
 												title="matress-nerd-screen"
-												src="../wp-content/uploads/2020/05/matress-nerd-screen.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen.jpg"
+												src="../wp-content/uploads/2020/05/matress-nerd-screen.jpg') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen.jpg') }}"
 												class="lazyload img-responsive wp-image-25834"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27789%27%20height%3D%27457%27%20viewBox%3D%270%200%20789%20457%27%3E%3Crect%20width%3D%27789%27%20height%3D%27457%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen-600x348.jpg 600w, https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen.jpg 789w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen-600x348.jpg') }} 600w, https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen.jpg') }} 789w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 789px" /></span>
 									</div>
@@ -600,7 +600,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-16 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:40px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-18 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -658,7 +658,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-17 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-19 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
