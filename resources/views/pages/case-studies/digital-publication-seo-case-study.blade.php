@@ -15,7 +15,7 @@
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:5%;padding-right:25%;padding-bottom:5%;padding-left:25%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-header-desktop.png"
+						data-bg="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-header-desktop.png') }}"
 						id="desktop-header">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
@@ -35,7 +35,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:30px;padding-right:10%;padding-bottom:30px;padding-left:10%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -55,7 +55,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:10%;padding-right:5%;padding-bottom:0px;padding-left:5%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -97,11 +97,11 @@
 											style="max-width:175px;"><img width="228" height="223"
 												alt="Domain authority increase"
 												title="Responsify Monthly Traffic"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
+												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
 												class="lazyload img-responsive wp-image-21392"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27228%27%20height%3D%27223%27%20viewBox%3D%270%200%20228%20223%27%3E%3Crect%20width%3D%27228%27%20height%3D%27223%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png 228w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 228px" /></span>
 									</div>
@@ -123,11 +123,11 @@
 											style="max-width:175px;"><img width="247" height="238"
 												alt="Increase in total organic keyword rankings"
 												title="case-studies-sub-pages_06"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
+												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
 												class="lazyload img-responsive wp-image-21389"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27247%27%20height%3D%27238%27%20viewBox%3D%270%200%20247%20238%27%3E%3Crect%20width%3D%27247%27%20height%3D%27238%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png 247w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 247px" /></span>
 									</div>
@@ -149,11 +149,11 @@
 											style="max-width:205px;"><img width="380" height="313"
 												alt="Number of leads from organic search"
 												title="case study improvements"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
+												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
 												class="lazyload img-responsive wp-image-21388"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27313%27%20viewBox%3D%270%200%20380%20313%27%3E%3Crect%20width%3D%27380%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png 380w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 380px" /></span>
 									</div>
@@ -467,11 +467,11 @@
 												width="1024" height="575"
 												alt="The Doe - organic sessions graph"
 												title="the-doe-graph-organic-sessions"
-												src="../wp-content/uploads/2022/01/the-doe-graph-organic-sessions.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-1024x575.png"
+												src="../wp-content/uploads/2022/01/the-doe-graph-organic-sessions.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-1024x575.png') }}"
 												class="lazyload img-responsive wp-image-28298"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271184%27%20height%3D%27665%27%20viewBox%3D%270%200%201184%20665%27%3E%3Crect%20width%3D%271184%27%20height%3D%27665%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-200x112.png 200w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-400x225.png 400w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-600x337.png 600w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-800x449.png 800w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions.png 1184w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-200x112.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-400x225.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-600x337.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions-800x449.png') }} 800w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-sessions.png') }} 1184w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -505,11 +505,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img
 												width="1024" height="558" alt="The Doe - impressions graph"
 												title="the-doe-graph-impressions"
-												src="../wp-content/uploads/2022/01/the-doe-graph-impressions.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions.png"
+												src="../wp-content/uploads/2022/01/the-doe-graph-impressions.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions.png') }}"
 												class="lazyload img-responsive wp-image-28299"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27558%27%20viewBox%3D%270%200%201024%20558%27%3E%3Crect%20width%3D%271024%27%20height%3D%27558%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions-200x109.png 200w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions-400x218.png 400w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions-600x327.png 600w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions-800x436.png 800w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions.png 1024w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions-200x109.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions-400x218.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions-600x327.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions-800x436.png') }} 800w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-impressions.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -544,11 +544,11 @@
 												width="1024" height="570"
 												alt="The Doe - organic keywords graph"
 												title="the-doe-graph-organic-keywords"
-												src="../wp-content/uploads/2022/01/the-doe-graph-organic-keywords.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords.png"
+												src="../wp-content/uploads/2022/01/the-doe-graph-organic-keywords.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords.png') }}"
 												class="lazyload img-responsive wp-image-28300"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27570%27%20viewBox%3D%270%200%201024%20570%27%3E%3Crect%20width%3D%271024%27%20height%3D%27570%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords-200x111.png 200w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords-400x223.png 400w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords-600x334.png 600w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords-800x445.png 800w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords.png 1024w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords-200x111.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords-400x223.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords-600x334.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords-800x445.png') }} 800w, https://www.sureoak.com/wp-content/uploads/2022/01/the-doe-graph-organic-keywords.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>

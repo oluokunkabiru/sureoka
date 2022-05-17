@@ -67,7 +67,7 @@
 												style="max-width:130px;"><img width="187" height="204"
 													alt="SEO Score Checker" title="tool_score-checker_v2"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27187%27%20height%3D%27204%27%20viewBox%3D%270%200%20187%20204%27%3E%3Crect%20width%3D%27187%27%20height%3D%27204%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/tool_score-checker_v2.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/tool_score-checker_v2.png') }}"
 													class="lazyload img-responsive wp-image-26779" /></span>
 										</div>
 										<div class="fusion-text fusion-text-1">
@@ -89,7 +89,7 @@
 													width="162" height="135" alt="Crawler Site Report"
 													title="tool_crawler"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27162%27%20height%3D%27135%27%20viewBox%3D%270%200%20162%20135%27%3E%3Crect%20width%3D%27162%27%20height%3D%27135%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_crawler.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_crawler.png') }}"
 													class="lazyload img-responsive wp-image-23861" /></span>
 										</div>
 										<div class="fusion-text fusion-text-2">
@@ -112,7 +112,7 @@
 													width="141" height="134" alt="Domain Authority Checker"
 													title="tool_domain-auth-checker"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27141%27%20height%3D%27134%27%20viewBox%3D%270%200%20141%20134%27%3E%3Crect%20width%3D%27141%27%20height%3D%27134%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_domain-auth-checker.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_domain-auth-checker.png') }}"
 													class="lazyload img-responsive wp-image-23862" /></span>
 										</div>
 										<div class="fusion-text fusion-text-3">
@@ -134,7 +134,7 @@
 													width="98" height="131" alt="Redirect Checker"
 													title="tool_redirect-checker"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2798%27%20height%3D%27131%27%20viewBox%3D%270%200%2098%20131%27%3E%3Crect%20width%3D%2798%27%20height%3D%27131%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_redirect-checker.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_redirect-checker.png') }}"
 													class="lazyload img-responsive wp-image-23866" /></span>
 										</div>
 										<div class="fusion-text fusion-text-4">
@@ -156,7 +156,7 @@
 													width="111" height="131" alt="HTTP Header Checker"
 													title="tool_http-header-checker"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27111%27%20height%3D%27131%27%20viewBox%3D%270%200%20111%20131%27%3E%3Crect%20width%3D%27111%27%20height%3D%27131%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_http-header-checker.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_http-header-checker.png') }}"
 													class="lazyload img-responsive wp-image-23863" /></span>
 										</div>
 										<div class="fusion-text fusion-text-5">
@@ -177,7 +177,7 @@
 												class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img
 													width="141" height="139" alt="Keyword Rank Checker Tool"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27141%27%20height%3D%27139%27%20viewBox%3D%270%200%20141%20139%27%3E%3Crect%20width%3D%27141%27%20height%3D%27139%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/08/tool_keyword-rank-checker.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/08/tool_keyword-rank-checker.png') }}"
 													class="lazyload img-responsive wp-image-24425" /></span>
 										</div>
 										<div class="fusion-text fusion-text-6">
@@ -199,7 +199,7 @@
 													width="117" height="139" alt="Keyword Density Checker"
 													title="tool_keyword-density-checker"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27117%27%20height%3D%27139%27%20viewBox%3D%270%200%20117%20139%27%3E%3Crect%20width%3D%27117%27%20height%3D%27139%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_keyword-density-checker.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_keyword-density-checker.png') }}"
 													class="lazyload img-responsive wp-image-23864" /></span>
 										</div>
 										<div class="fusion-text fusion-text-7">
@@ -221,7 +221,7 @@
 													width="136" height="139" alt="XML Sitemap Generator"
 													title="main-xml-sitemap-generator"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27136%27%20height%3D%27139%27%20viewBox%3D%270%200%20136%20139%27%3E%3Crect%20width%3D%27136%27%20height%3D%27139%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/main-xml-sitemap-generator.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/main-xml-sitemap-generator.png') }}"
 													class="lazyload img-responsive wp-image-23859" /></span>
 										</div>
 										<div class="fusion-text fusion-text-8">
@@ -243,7 +243,7 @@
 													width="123" height="134" alt="Robots.txt Generator"
 													title="tool_robots-txt"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27123%27%20height%3D%27134%27%20viewBox%3D%270%200%20123%20134%27%3E%3Crect%20width%3D%27123%27%20height%3D%27134%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_robots-txt.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_robots-txt.png') }}"
 													class="lazyload img-responsive wp-image-23867" /></span>
 										</div>
 										<div class="fusion-text fusion-text-9">
@@ -265,7 +265,7 @@
 													width="87" height="131" alt="Meta Tag Generator"
 													title="tool_meta-tag"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2787%27%20height%3D%27131%27%20viewBox%3D%270%200%2087%20131%27%3E%3Crect%20width%3D%2787%27%20height%3D%27131%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_meta-tag.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_meta-tag.png') }}"
 													class="lazyload img-responsive wp-image-23865" /></span>
 										</div>
 										<div class="fusion-text fusion-text-10">
@@ -286,7 +286,7 @@
 												class=" fusion-imageframe imageframe-none imageframe-11 hover-type-none"><img
 													width="134" height="134" alt="UTM Builder" title="tool_utm-builder"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27134%27%20height%3D%27134%27%20viewBox%3D%270%200%20134%20134%27%3E%3Crect%20width%3D%27134%27%20height%3D%27134%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_utm-builder.png"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_utm-builder.png') }}"
 													class="lazyload img-responsive wp-image-23869" /></span>
 										</div>
 										<div class="fusion-text fusion-text-11">
@@ -446,7 +446,7 @@
 					style="margin-top:0px;margin-bottom:0px;">
 					<div class="fusion-column-wrapper"
 						style="padding:90px 0px 110px 0px;background-image: url('wp-content/uploads/2019/05/SureOak-Tools.jpg');background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg-url="wp-content/uploads/2018/12/blog-ebook-cta-bg.png">
+						data-bg-url="wp-content/uploads/2018/12/blog-ebook-cta-bg.png') }}">
 						<div class="fusion-text">
 							<h1 style="text-align: center;"><span style="color: #ffffff;">Need help
 									improving your website’s SEO<br> to rank higher and grow faster?</span>

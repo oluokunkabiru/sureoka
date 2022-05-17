@@ -25,11 +25,11 @@
 											class="fusion-no-lightbox" href="index.html" target="_self"
 											aria-label="Sure Oak"><img width="448" height="126"
 												alt="Sure Oak"
-												src="wp-content/uploads/2018/11/sureoak_logo_2x-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1.png"
+												src="wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
 												class="lazyload img-responsive wp-image-9"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27448%27%20height%3D%27126%27%20viewBox%3D%270%200%20448%20126%27%3E%3Crect%20width%3D%27448%27%20height%3D%27126%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1-200x56.png 200w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1-400x113.png 400w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1.png 448w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1-200x56.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1-400x113.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }} 448w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 448px" /></a></span>
 									<div class="fusion-clearfix"></div>
@@ -44,11 +44,11 @@
 											style="max-width:200px;"><a class="fusion-no-lightbox"
 												href="index.html" target="_self" aria-label="Sure Oak"><img
 													width="448" height="126" alt="Sure Oak"
-													src="wp-content/uploads/2018/11/sureoak_logo_2x-1.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1.png"
+													src="wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
 													class="lazyload img-responsive wp-image-9"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27448%27%20height%3D%27126%27%20viewBox%3D%270%200%20448%20126%27%3E%3Crect%20width%3D%27448%27%20height%3D%27126%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1-200x56.png 200w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1-400x113.png 400w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1.png 448w"
+													data-srcset="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1-200x56.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1-400x113.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }} 448w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 800px) 100vw, 448px" /></a></span>
 									</div>
@@ -125,43 +125,43 @@
 												href="https://itunes.apple.com/us/podcast/id1315042673"
 												target="_blank" rel="noopener"><img
 													class="lazyload alignnone wp-image-19419 size-200"
-													src="wp-content/uploads/2019/01/sureoak-subscribe-itunes-200x73.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-itunes-200x73.png"
+													src="wp-content/uploads/2019/01/sureoak-subscribe-itunes-200x73.png') }}"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-itunes-200x73.png') }}"
 													alt="Subscribe on iTunes" width="200" height="73"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27200%27%20height%3D%2773%27%20viewBox%3D%270%200%20200%2073%27%3E%3Crect%20width%3D%27200%27%20height%3D%2773%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-itunes-200x73.png 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-itunes.png 300w"
+													data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-itunes-200x73.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-itunes.png') }} 300w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 200px) 100vw, 200px" /></a>  <a
 												href="https://www.stitcher.com/podcast/sure-oak-digital-marketing-seo-online-business-strategy/"
 												target="_blank" rel="noopener"><img
 													class="lazyload alignnone wp-image-19420 size-200"
-													src="wp-content/uploads/2019/01/sureoak-subscribe-stitcher-200x73.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-stitcher-200x73.png"
+													src="wp-content/uploads/2019/01/sureoak-subscribe-stitcher-200x73.png') }}"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-stitcher-200x73.png') }}"
 													alt="Available on Stitcher" width="200" height="73"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27200%27%20height%3D%2773%27%20viewBox%3D%270%200%20200%2073%27%3E%3Crect%20width%3D%27200%27%20height%3D%2773%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-stitcher-200x73.png 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-stitcher.png 300w"
+													data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-stitcher-200x73.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-stitcher.png') }} 300w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 200px) 100vw, 200px" /></a>
 										</div>
 										<div><a href="https://tunein.com/radio/Sure-Oak-Digital-Marketing-SEO-Online-Business-Strategy--More-p1065468/"
 												target="_blank" rel="noopener"><img
 													class="lazyload alignnone size-200 wp-image-19421"
-													src="wp-content/uploads/2019/01/sureoak-subscribe-tunein-200x73.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-tunein-200x73.png"
+													src="wp-content/uploads/2019/01/sureoak-subscribe-tunein-200x73.png') }}"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-tunein-200x73.png') }}"
 													alt="Subscribe on tunein" width="200" height="73"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27200%27%20height%3D%2773%27%20viewBox%3D%270%200%20200%2073%27%3E%3Crect%20width%3D%27200%27%20height%3D%2773%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-tunein-200x73.png 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-tunein.png 300w"
+													data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-tunein-200x73.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-tunein.png') }} 300w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 200px) 100vw, 200px" /></a>  <a
 												href="https://play.google.com/music/listen?u=0#/ps/Iwtxgzsdrfaej5gdtnjzve7r4te"
 												target="_blank" rel="noopener"><img
 													class="lazyload alignnone size-200 wp-image-19418"
-													src="wp-content/uploads/2019/01/sureoak-subscribe-google-200x73.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-google-200x73.png"
+													src="wp-content/uploads/2019/01/sureoak-subscribe-google-200x73.png') }}"
+													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-google-200x73.png') }}"
 													alt="Listen on Google Play Music" width="200"
 													height="73"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27200%27%20height%3D%2773%27%20viewBox%3D%270%200%20200%2073%27%3E%3Crect%20width%3D%27200%27%20height%3D%2773%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-google-200x73.png 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-google.png 300w"
+													data-srcset="https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-google-200x73.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/01/sureoak-subscribe-google.png') }} 300w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 200px) 100vw, 200px" /></a>
 										</div>

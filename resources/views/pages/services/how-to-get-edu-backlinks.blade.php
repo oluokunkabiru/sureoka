@@ -177,7 +177,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:40px;padding-bottom:0px;padding-left:10px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png">
+						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_2_5 2_5 fusion-two-fifth fusion-column-first"
 								style="width:40%;width:calc(40% - ( ( 4% ) * 0.4 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
@@ -187,11 +187,11 @@ Scholarship')
 										class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none verticalalignbottom"
 										style="margin-left:25px;float:right;max-width:450px;"><img
 											width="800" height="606" alt="Tom Casano and Logan Palmer"
-											src="../wp-content/uploads/2019/02/tom-logan-copy.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png"
+											src="../wp-content/uploads/2019/02/tom-logan-copy.png') }}"
+											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png') }}"
 											class="lazyload img-responsive wp-image-19742"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27606%27%20viewBox%3D%270%200%20800%20606%27%3E%3Crect%20width%3D%27800%27%20height%3D%27606%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png 800w"
+											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png') }} 800w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -258,11 +258,11 @@ Scholarship')
 									<div class="fusion-text fusion-text-3">
 										<h2>How to get .EDU scholarship backlinks</h2>
 										<p><img class="lazyload size-full wp-image-22334 aligncenter"
-												src="../wp-content/uploads/2019/05/scholarship-edu-backlinks1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1.png"
+												src="../wp-content/uploads/2019/05/scholarship-edu-backlinks1.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1.png') }}"
 												alt="scholarship-edu-backlinks" width="768" height="545"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27768%27%20height%3D%27545%27%20viewBox%3D%270%200%20768%20545%27%3E%3Crect%20width%3D%27768%27%20height%3D%27545%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-200x142.png 200w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-300x214.png 300w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-400x284.png 400w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-600x426.png 600w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1.png 768w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-200x142.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-300x214.png') }} 300w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-400x284.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-600x426.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1.png') }} 768w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 768px) 100vw, 768px" /></p>
 										<p>So, how do we get .EDU scholarship backlinks? The quick and easy
@@ -343,7 +343,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-parallax-none add-padding-desktop nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:45px;padding-right:15%;padding-bottom:45px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/01/sureoak-careers.png">
+						data-bg="../wp-content/uploads/2019/01/sureoak-careers.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -382,7 +382,7 @@ Scholarship')
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359"
 														alt="Sure Oak’s SEO strategy and execution grew our organic traffic by 300% in the first 6 months. Our Domain Authority went up by 14 points and we continue to get more leads every month. Trust in Sure Oak and you’ll get extraordinary results."
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/testimonials-1.png" />
+														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/testimonials-1.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -414,7 +414,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:45px;padding-right:15%;padding-bottom:45px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/01/sureoak-careers.png">
+						data-bg="../wp-content/uploads/2019/01/sureoak-careers.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -453,7 +453,7 @@ Scholarship')
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359"
 														alt="Sure Oak’s SEO strategy and execution grew our organic traffic by 300% in the first 6 months. Our Domain Authority went up by 14 points and we continue to get more leads every month. Trust in Sure Oak and you’ll get extraordinary results."
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/testimonials-1.png" />
+														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/testimonials-1.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -621,7 +621,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:40px;padding-bottom:0px;padding-left:10px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png">
+						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-10 fusion_builder_column_2_5 2_5 fusion-two-fifth fusion-column-first"
 								style="width:40%;width:calc(40% - ( ( 4% ) * 0.4 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
@@ -631,11 +631,11 @@ Scholarship')
 										class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none verticalalignbottom"
 										style="margin-left:25px;float:right;max-width:450px;"><img
 											width="800" height="606" alt="Tom Casano and Logan Palmer"
-											src="../wp-content/uploads/2019/02/tom-logan-copy.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png"
+											src="../wp-content/uploads/2019/02/tom-logan-copy.png') }}"
+											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png') }}"
 											class="lazyload img-responsive wp-image-19742"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27606%27%20viewBox%3D%270%200%20800%20606%27%3E%3Crect%20width%3D%27800%27%20height%3D%27606%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png 800w"
+											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png') }} 800w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>

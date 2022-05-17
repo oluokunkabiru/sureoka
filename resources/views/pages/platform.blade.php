@@ -15,7 +15,7 @@
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none services-heroblock nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:50px;padding-right:4%;padding-bottom:20px;padding-left:8%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="wp-content/uploads/2019/03/bg-hero-gameplan.png">
+						data-bg="wp-content/uploads/2019/03/bg-hero-gameplan.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first fusion-animated"
 								style="width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;margin-top:0px;margin-bottom:20px;"
@@ -27,7 +27,7 @@
 										href="https://www.youtube.com/watch?v=GmhXLuWJaLI?rel=0&amp;autoplay=1"
 										data-rel="iLightbox"><img class="lazyload"
 											src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27548%27%20height%3D%27295%27%20viewBox%3D%270%200%20548%20295%27%3E%3Crect%20width%3D%27548%27%20height%3D%27295%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-orig-src="wp-content/uploads/2020/08/sureoak-platform-video.png"></a>
+											data-orig-src="wp-content/uploads/2020/08/sureoak-platform-video.png') }}"></a>
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
@@ -369,7 +369,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center top;background-repeat: no-repeat;padding-top:60px;padding-right:10%;padding-bottom:60px;padding-left:10%;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="wp-content/uploads/2020/01/bg-platform-dots.png">
+						data-bg="wp-content/uploads/2020/01/bg-platform-dots.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-14 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:0px;">

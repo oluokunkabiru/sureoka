@@ -19,8 +19,8 @@
 								style="width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
 								<div class="fusion-column-wrapper lazyload fusion-flex-column-wrapper-legacy"
 									style="background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"
-									data-bg-url="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png"
-									data-bg="wp-content/uploads/2018/12/sure-oak-office-2.png">
+									data-bg-url="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png') }}"
+									data-bg="wp-content/uploads/2018/12/sure-oak-office-2.png') }}">
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-separator fusion-full-width-sep"
 										style="margin-left: auto;margin-right: auto;margin-top:100px;width:100%;">
@@ -116,16 +116,16 @@
 									style="margin-top:0px;margin-bottom:0px;">
 									<div class="fusion-column-wrapper lazyload fusion-flex-column-wrapper-legacy"
 										style="background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"
-										data-bg-url="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png"
-										data-bg="wp-content/uploads/2018/12/sure-oak-office-2.png"><span
+										data-bg-url="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png') }}"
+										data-bg="wp-content/uploads/2018/12/sure-oak-office-2.png') }}"><span
 											class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 												width="1658" height="1196" alt="Sure Oak office"
 												title="sure-oak-office-2"
-												src="wp-content/uploads/2018/12/sure-oak-office-2.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png"
+												src="wp-content/uploads/2018/12/sure-oak-office-2.png') }}"
+												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png') }}"
 												class="lazyload img-responsive wp-image-18818"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271658%27%20height%3D%271196%27%20viewBox%3D%270%200%201658%201196%27%3E%3Crect%20width%3D%271658%27%20height%3D%271196%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-200x144.png 200w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-400x289.png 400w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-600x433.png 600w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-800x577.png 800w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-1200x866.png 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png 1658w"
+												data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-200x144.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-400x289.png') }} 400w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-600x433.png') }} 600w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-800x577.png') }} 800w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-1200x866.png') }} 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png') }} 1658w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1658px" /></span>
 										<div class="fusion-clearfix"></div>

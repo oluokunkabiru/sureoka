@@ -99,3 +99,8 @@ Route::get('terms-of-service', 'PagesController@termsOfService')->name('terms-of
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});

@@ -15,7 +15,7 @@
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:5%;padding-right:25%;padding-bottom:5%;padding-left:25%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-header-desktop.png"
+						data-bg="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-header-desktop.png') }}"
 						id="desktop-header">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
@@ -35,7 +35,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:30px;padding-right:10%;padding-bottom:30px;padding-left:10%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -55,7 +55,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:10%;padding-right:5%;padding-bottom:0px;padding-left:5%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">

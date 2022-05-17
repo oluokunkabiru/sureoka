@@ -240,12 +240,12 @@
 																		href="insights/why-seo-important-for-business-growth.html"
 																		aria-label="Why SEO is Important for Business Growth in 2022">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2022/04/why-seo-is-important-for-business-growth.png"
+																			src="wp-content/uploads/2022/04/why-seo-is-important-for-business-growth.png') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="Why SEO Is Important for Business Growth"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/04/why-seo-is-important-for-business-growth.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2022/04/why-seo-is-important-for-business-growth-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2022/04/why-seo-is-important-for-business-growth.png 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/04/why-seo-is-important-for-business-growth.png') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2022/04/why-seo-is-important-for-business-growth-200x113.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2022/04/why-seo-is-important-for-business-growth.png') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -294,13 +294,13 @@
 																		href="insights/how-seo-cro-complement-each-other.html"
 																		aria-label="How SEO and CRO Complement Each Other">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2022/03/seo-serps-image.png"
+																			src="wp-content/uploads/2022/03/seo-serps-image.png') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="How SEO and CRO Complement Each Other"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/03/seo-serps-image.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2022/03/seo-serps-image-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2022/03/seo-serps-image.png 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/03/seo-serps-image.png') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2022/03/seo-serps-image-200x113.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2022/03/seo-serps-image.png') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -349,13 +349,13 @@
 																		href="insights/sure-oak-won-new-york-excellence-award-2021-upcity.html"
 																		aria-label="Sure Oak Announced as a 2021 Local Excellence Award Winner by UpCity!">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2021/08/local-excellence-award-winner.png"
+																			src="wp-content/uploads/2021/08/local-excellence-award-winner.png') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="2021 Local Excellence Award Winner"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/08/local-excellence-award-winner.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/08/local-excellence-award-winner-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2021/08/local-excellence-award-winner.png 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/08/local-excellence-award-winner.png') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/08/local-excellence-award-winner-200x113.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2021/08/local-excellence-award-winner.png') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -403,13 +403,13 @@
 																		href="insights/google-core-web-vitals-algorithm-update.html"
 																		aria-label="Google&#8217;s Core Web Vitals: Everything You Need to Know">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2021/08/google-core-web-vitals.png"
+																			src="wp-content/uploads/2021/08/google-core-web-vitals.png') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="Google’s Core Web Vitals"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/08/google-core-web-vitals.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/08/google-core-web-vitals-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2021/08/google-core-web-vitals.png 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/08/google-core-web-vitals.png') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/08/google-core-web-vitals-200x113.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2021/08/google-core-web-vitals.png') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -513,13 +513,13 @@
 																		href="insights/goodfirms-top-digital-marketing-company-2021.html"
 																		aria-label="Innovative Solutions, Expert Services, and Professionalism Makes Sure Oak Deliver Result-oriented Digital Marketing Services: GoodFirms">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2021/07/top-digital-marketing-company-list.png"
+																			src="wp-content/uploads/2021/07/top-digital-marketing-company-list.png') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="Top digital marketing company"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/07/top-digital-marketing-company-list.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/07/top-digital-marketing-company-list-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2021/07/top-digital-marketing-company-list.png 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/07/top-digital-marketing-company-list.png') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/07/top-digital-marketing-company-list-200x113.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2021/07/top-digital-marketing-company-list.png') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -569,13 +569,13 @@
 																		href="insights/link-building-tools-list-2021.html"
 																		aria-label="The Ultimate List of Link Building Tools in 2021">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2021/06/ultimate-link-building-tools.png"
+																			src="wp-content/uploads/2021/06/ultimate-link-building-tools.png') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="Link building tools"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/06/ultimate-link-building-tools.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/06/ultimate-link-building-tools-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2021/06/ultimate-link-building-tools.png 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/06/ultimate-link-building-tools.png') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/06/ultimate-link-building-tools-200x113.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2021/06/ultimate-link-building-tools.png') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -623,13 +623,13 @@
 																		href="insights/10-link-building-tips-2021.html"
 																		aria-label="10 Incredible Link Building Tips for 2021">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2021/05/link-building-tips.png"
+																			src="wp-content/uploads/2021/05/link-building-tips.png') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="10 Incredible Link Building Tips for 2021"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/05/link-building-tips.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/05/link-building-tips-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2021/05/link-building-tips.png 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/05/link-building-tips.png') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/05/link-building-tips-200x113.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2021/05/link-building-tips.png') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -677,13 +677,13 @@
 																		href="insights/google-passage-ranking-update-what-to-know.html"
 																		aria-label="Google’s Passage Ranking Update: Everything to Know About It">
 																		<img width="400" height="225"
-																			src="wp-content/uploads/2021/05/google-passage-ranking-update.png"
+																			src="wp-content/uploads/2021/05/google-passage-ranking-update.png') }}"
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="Google Passage Ranking Update"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/05/google-passage-ranking-update.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/05/google-passage-ranking-update-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2021/05/google-passage-ranking-update.png 400w"
+																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/05/google-passage-ranking-update.png') }}"
+																			data-srcset="https://www.sureoak.com/wp-content/uploads/2021/05/google-passage-ranking-update-200x113.png') }} 200w, https://www.sureoak.com/wp-content/uploads/2021/05/google-passage-ranking-update.png') }} 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
