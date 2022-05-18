@@ -145,8 +145,8 @@
                                     @enderror
                                 </div>
 
-
-                                <div class="mb-3 col-md-6">
+                                
+                                {{-- <div class="mb-3 col-md-6">
                                     <label for="address" class="form-label">Contact Address</label>
                                     <textarea class="form-control form-control-lg rounded @error('address') is-invalid @enderror" name="address" id="address" rows="3">
                                         {{ old('address') }}
@@ -156,6 +156,51 @@
                                         <strong>{{ $message }}</strong>
                                     </span>
                                     @enderror
+                                </div> --}}
+
+
+                            </div>
+
+                            <div class="row">
+                                <h4>Address</h4>
+                                <div class="mb-3 col-md-6">
+                                    <label for="street" class="form-label">Street</label>
+                                    <input type="text" class="form-control form-control-lg rounded @error('street') is-invalid @enderror" name="street" value="{{ old('street') }}" required>
+                                    @error('street')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                     @enderror
+                                </div>
+
+                                <div class="mb-3 col-md-6">
+                                    <label for="zipcode" class="form-label">Zipcode</label>
+                                    <input type="text" class="form-control form-control-lg rounded @error('zipcode') is-invalid @enderror" name="zipcode" value="{{ old('zipcode') }}" required>
+                                    @error('zipcode')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                     @enderror
+                                </div>
+
+                                <div class="mb-3 col-md-6">
+                                    <label for="state" class="form-label">State</label>
+                                    <input type="text" class="form-control form-control-lg rounded @error('state') is-invalid @enderror" name="state" value="{{ old('state') }}" required>
+                                    @error('state')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                     @enderror
+                                </div>
+
+                                <div class="mb-3 col-md-6">
+                                    <label for="city" class="form-label">City</label>
+                                    <input type="text" class="form-control form-control-lg rounded @error('city') is-invalid @enderror" name="city" value="{{ old('city') }}" required>
+                                    @error('city')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                     @enderror
                                 </div>
 
 
