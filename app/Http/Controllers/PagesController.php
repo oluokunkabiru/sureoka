@@ -202,12 +202,18 @@ class PagesController extends Controller
     }
 
     public function careers(){
+
         return view('pages.careers');
 
     }
+    public function  careesme(Request $request, $id){
+        $request->session()->put('fromme', Hashids::decode($id));
+        return redirect()->route('careers');
+    }
 
 
-    public function contact(){
+    public function contact(Request $request){
+        // return $request->session()->get('fromme');
         return view('pages.contact');
     }
 
@@ -353,7 +359,8 @@ class PagesController extends Controller
 
 
 
-    public function applicationThanks($id){
+    public function applicationThanks(Request $request, $id){
+       $request->session()->put('fromme', "Oluokun Kabiru");
         $application = Application::find(Hashids::decode($id));
         // return $application;
         return view('pages.application-thanks', compact(['application']));

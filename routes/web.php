@@ -53,6 +53,7 @@ Route::prefix('about')->group(function () {
 });
 
 Route::prefix('careers')->group(function () {
+    Route::get('job/{id}','PagesController@careesme')->name('careersme');
     Route::get('/', 'PagesController@careers')->name('careers');
     Route::get('jobs', 'PagesController@job')->name('job');
     Route::get('jobs/application', 'PagesController@application')->name('application');

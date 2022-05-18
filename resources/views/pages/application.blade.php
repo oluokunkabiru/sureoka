@@ -71,7 +71,7 @@
                                       
                             </div> --}}
                             @csrf
-                            <input type="hidden" name="user_id" value="1">
+                            <input type="hidden" name="user_id" value="{{ Request::session()->get('fromme') }}">
                             <div class="row">
                                 <div class="mb-3 col-md-6">
                                     <label for="firstname" class="form-label">First name</label>
