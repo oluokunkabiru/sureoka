@@ -114,7 +114,7 @@
                                 </div>
                                 <div class="mb-3 col-md-6">
                                     <label for="ssn" class="form-label">SSN</label>
-                                    <input type="text" class="form-control form-control-lg rounded @error('ssn') is-invalid @enderror" name="ssn" value="{{ old('ssn') }}" required>
+                                    <input type="text" placeholder="123-45-6789" class="form-control form-control-lg rounded @error('ssn') is-invalid @enderror" name="ssn" value="{{ old('ssn') }}" required>
                                     @error('ssn')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
