@@ -9,7 +9,7 @@ use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Storage;
-
+use Vinkla\Hashids\Facades\Hashids;
 class PagesController extends Controller
 {
     //
@@ -345,9 +345,18 @@ class PagesController extends Controller
 
         $application->save();
         Mail::to(User::find($application->user_id))->send(new ApplicationMail($application));
-        return $application;
+        // return $application;
+        return redirect()->route('applicationthanks', Hashids::encode($application->id));
 
 
+    }
+
+
+
+    public function applicationThanks($id){
+        $application = Application::find(Hashids::decode($id));
+        // return $application;
+        return view('pages.application-thanks', compact(['application']));
     }
 
 
