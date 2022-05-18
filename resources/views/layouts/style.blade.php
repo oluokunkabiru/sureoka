@@ -3,6 +3,7 @@
 	<link rel="shortcut icon" href="{{ asset('wp-content/uploads/2018/12/favicon-3.ico') }}" type="image/x-icon" />
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ asset('wp-content/uploads/2019/02/sureoak-iphone-retina.jpg') }}">
 	<link rel="icon" sizes="192x192" href="{{ asset('wp-content/uploads/2019/02/sureoak-iphone.jpg') }}">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css">
 	<style id='global-styles-inline-css' type='text/css'>
 		body {
 			--wp--preset--color--black: #000000;

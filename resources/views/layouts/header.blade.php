@@ -363,10 +363,9 @@
 									</li>
 									<li id="menu-item-17919"
 										class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-17919 fusion-menu-item-button"
-										data-classes="nav-button" data-item-id="17919"><a href="{{ route('strategy-call') }}"
+										data-classes="nav-button" data-item-id="17919"><a href="{{ route('careers') }}"
 											class="fusion-bar-highlight"><span
-												class="menu-text fusion-button button-default button-large">Get my free
-												SEO strategy session</span></a></li>
+												class="menu-text fusion-button button-default button-large">Career</span></a></li>
 								</ul>
 							</nav>
 							<nav class="fusion-main-menu fusion-sticky-menu" aria-label="Main Menu Sticky">
@@ -576,10 +575,9 @@
 										</ul>
 									</li>
 									<li class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-17919 fusion-menu-item-button"
-										data-classes="nav-button" data-item-id="17919"><a href="strategy-call.html{{ route('strategy-call') }}"
+										data-classes="nav-button" data-item-id="17919"><a href="{{ route('careers') }}"
 											class="fusion-bar-highlight"><span
-												class="menu-text fusion-button button-default button-large">Get my free
-												SEO strategy session</span></a></li>
+												class="menu-text fusion-button button-default button-large">Careers</span></a></li>
 								</ul>
 							</nav>
 							<div class="fusion-mobile-navigation">
@@ -789,10 +787,9 @@
 										</ul>
 									</li>
 									<li class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-17919 fusion-menu-item-button"
-										data-classes="nav-button" data-item-id="17919"><a href="{{ route('strategy-call') }}"
+										data-classes="nav-button" data-item-id="17919"><a href="{{ route('careers') }}"
 											class="fusion-bar-highlight"><span
-												class="menu-text fusion-button button-default button-large">Get my free
-												SEO strategy session</span></a></li>
+												class="menu-text fusion-button button-default button-large">Career</span></a></li>
 								</ul>
 							</div>
 							<div class="fusion-mobile-menu-icons"> <a href="#" class="fusion-icon awb-icon-bars"

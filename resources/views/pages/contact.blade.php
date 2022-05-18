@@ -231,80 +231,23 @@
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
-							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last hsformoverride fusion-no-small-visibility"
-								style="margin-top:0px;margin-bottom:20px;">
-								<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-color:#ffffff;border-width: 0 0 0 0;border-color:#cccccc;border-style:solid;padding: 10px 18% 0px 18%;">
-									<div class="fusion-text fusion-text-4">
-										<div id='wufoo-m1mwo04c05qkl65'> Fill out my <a
-												href="https://smartpatient.wufoo.com/forms/m1mwo04c05qkl65">online
-												form</a>.</div>
-										<script type='text/javascript'>
-											var m1mwo04c05qkl65;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName'      : 'smartpatient',    
-'formHash'      : 'm1mwo04c05qkl65',    
-'autoResize'    :  true,   
-'height'        : '667',      
-'async'         :  true,          
-'header'        : 'hide',      
-'host'          : 'wufoo.com',    
-'entSource'     : 'wordpress',   
-'defaultValues' : ''     
-,'ssl'          :  true           };
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { m1mwo04c05qkl65 = new WufooForm();m1mwo04c05qkl65.initialize(options);m1mwo04c05qkl65.display(); } catch (e) {}}
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');
-										</script> <noscript> <iframe height="667" allowTransparency="true"
-												frameborder="0" scrolling="no" style="width:100%;border:none;"
-												src="https://smartpatient.wufoo.com/embed/m1mwo04c05qkl65/def/entsource=wordpress"><a
-													href="https://smartpatient.wufoo.com/forms/m1mwo04c05qkl65/def/entsource=wordpress"
-													rel="nofollow">Fill out my Wufoo form!</a></iframe>
-										</noscript>
-									</div>
-									<div class="fusion-clearfix"></div>
+							
+							<form action="/action_page.php">
+								<div class="form-group">
+								  <label for="email">Email address:</label>
+								  <input type="email" class="form-control" placeholder="Enter email" id="email">
 								</div>
-							</div>
-							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-6 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last hsformoverride fusion-no-medium-visibility fusion-no-large-visibility"
-								style="margin-top:0px;margin-bottom:20px;">
-								<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-color:#ffffff;border-width: 0 0 0 0;border-color:#cccccc;border-style:solid;padding: 10px 5% 0px 5%;">
-									<div class="fusion-text fusion-text-5">
-										<div id='wufoo-m1mwo04c05qkl65'> Fill out my <a
-												href="https://smartpatient.wufoo.com/forms/m1mwo04c05qkl65">online
-												form</a>.</div>
-										<script type='text/javascript'>
-											var m1mwo04c05qkl65;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName'      : 'smartpatient',    
-'formHash'      : 'm1mwo04c05qkl65',    
-'autoResize'    :  true,   
-'height'        : '667',      
-'async'         :  true,          
-'header'        : 'hide',      
-'host'          : 'wufoo.com',    
-'entSource'     : 'wordpress',   
-'defaultValues' : ''     
-,'ssl'          :  true           };
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { m1mwo04c05qkl65 = new WufooForm();m1mwo04c05qkl65.initialize(options);m1mwo04c05qkl65.display(); } catch (e) {}}
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');
-										</script> <noscript> <iframe height="667" allowTransparency="true"
-												frameborder="0" scrolling="no" style="width:100%;border:none;"
-												src="https://smartpatient.wufoo.com/embed/m1mwo04c05qkl65/def/entsource=wordpress"><a
-													href="https://smartpatient.wufoo.com/forms/m1mwo04c05qkl65/def/entsource=wordpress"
-													rel="nofollow">Fill out my Wufoo form!</a></iframe>
-										</noscript>
-									</div>
-									<div class="fusion-clearfix"></div>
+								<div class="form-group">
+								  <label for="pwd">Password:</label>
+								  <input type="password" class="form-control" placeholder="Enter password" id="pwd">
 								</div>
-							</div>
+								<div class="form-group form-check">
+								  <label class="form-check-label">
+									<input class="form-check-input" type="checkbox"> Remember me
+								  </label>
+								</div>
+								<button type="submit" class="btn btn-primary">Submit</button>
+							  </form>
 						</div>
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 hundred-percent-fullwidth non-hundred-percent-height-scrolling"

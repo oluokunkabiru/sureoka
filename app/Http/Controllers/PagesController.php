@@ -299,4 +299,15 @@ class PagesController extends Controller
         return view('pages.case-studies.your-money-your-life-recovery-case-study');
     }
 
+
+    public function job(){
+        return view('pages.job');
+    }
+
+
+    public function application(){
+        return view('pages.application');
+    }
+
+
 }

@@ -52,8 +52,13 @@ Route::prefix('about')->group(function () {
     
 });
 
+Route::prefix('careers')->group(function () {
+    Route::get('/', 'PagesController@careers')->name('careers');
+    Route::get('jobs', 'PagesController@job')->name('job');
+    Route::get('jobs/application', 'PagesController@application')->name('application');
+  
+});
 Route::get('appointment', 'PagesController@appointment')->name('appointment');
-Route::get('careers', 'PagesController@careers')->name('careers');
 Route::get('contact', 'PagesController@contact')->name('contact');
 Route::get('content-marketing', 'PagesController@contentMarketing')->name('content-marketing');
 Route::get('guest-posting-service', 'PagesController@guestPostingService')->name('guest-posting-service');

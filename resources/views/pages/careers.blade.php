@@ -113,6 +113,64 @@
 												border-color: #ffffff;
 												background: #267399;
 											}
+
+											/* reworking layouts for the family boxes with the continuous gradient - this is pretty evil tbh */
+.family-box .fusion-title h5{
+	padding-left:10px !important;
+	padding-right:10px !important;
+	margin: 0 auto !important;
+}
+
+.family-box .fusion-title{
+    padding-top: 240px;
+    padding-bottom: 30px;
+}
+
+.family-box.single-line .fusion-title h5{
+    padding-bottom:26px !important;
+}
+
+@media only screen and (max-width: 767px){
+	.family-box .fusion-title{
+		padding-top: 240px;
+		padding-bottom: 20px;
+	}
+}
+
+@media only screen and (min-width:768px) and (max-width: 800px){
+	.family-box .fusion-title{
+		padding-top: 440px;
+		padding-bottom: 30px;
+	}
+}
+
+@media only screen and (min-width: 801px) and (max-width: 1130px){
+	.family-box .fusion-title h5{
+		font-size:16px !important;
+		padding-bottom:0px !important;
+	}
+	
+	.family-box.single-line .fusion-title h5{
+		padding-bottom:19px !important;
+	}
+}
+
+/* improving header layouts on mobile */
+@media only screen and (max-width: 767px){
+	#career-header-swoosh{
+		padding-right: 0 !important;
+		padding-bottom: 30px !important;
+		padding-left: 0 !important;
+	}
+	
+	#career-header-video{
+		padding-top: 0px !important;
+	}
+	
+	#career-header-video .fusion-column-wrapper{
+		padding-top: 0px !important;
+	}
+}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
 											target="_self" href="#opportunities"><span
@@ -768,7 +826,7 @@
 													</style><a
 														class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type"
 														target="_blank" rel="noopener noreferrer"
-														href="careers/seo-strategist-job/index.html"><span
+														href="{{ route('job') }}"><span
 															class="fusion-button-text">Apply</span></a>
 												</div>
 												<div class="fusion-clearfix"></div>
@@ -830,7 +888,7 @@
 													</style><a
 														class="fusion-button button-flat fusion-button-default-size button-custom button-3 fusion-button-default-span fusion-button-default-type"
 														target="_blank" rel="noopener noreferrer"
-														href="careers/link-building-specialist-position.html"><span
+														href="{{ route('job') }}"><span
 															class="fusion-button-text">Apply</span></a>
 												</div>
 												<div class="fusion-clearfix"></div>
@@ -891,7 +949,7 @@
 													</style><a
 														class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
 														target="_blank" rel="noopener noreferrer"
-														href="careers/internship.html"><span
+														href="{{ route('job') }}"><span
 															class="fusion-button-text">Apply</span></a>
 												</div>
 												<div class="fusion-clearfix"></div>
