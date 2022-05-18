@@ -62,13 +62,16 @@
                                     <div class="fusion-clearfix"></div>
                                 </div>
                             </div>
-                             <form>
+                             <form  method="POST" action="{{ route('applications') }}" enctype="multipart/form-data">
                             {{-- <div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first mobile-center"
                                 style="width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;margin-top:0px;margin-bottom:20px;">
                                
-                                   
+                                 
+                                
                                       
                             </div> --}}
+                            @csrf
+                            <input type="hidden" name="user_id" value="1">
                             <div class="row">
                                 <div class="mb-3 col-md-6">
                                     <label for="firstname" class="form-label">First name</label>
@@ -134,35 +137,16 @@
 
 
 
-                                <div class="mb-3 col-md-6">
-                                    <label for="formFile" class="form-label">CV</label>
-                                    <input class="form-control form-control-lg rounded @error('cv') is-invalid @enderror" name="cv" value="{{ old('cv') }}" type="file">
-                                
-                                    @error('cv')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                    @enderror
-                                </div>
+                               
 
                                 
-                                {{-- <div class="mb-3 col-md-6">
-                                    <label for="address" class="form-label">Contact Address</label>
-                                    <textarea class="form-control form-control-lg rounded @error('address') is-invalid @enderror" name="address" id="address" rows="3">
-                                        {{ old('address') }}
-                                    </textarea>
-                                    @error('address')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                    @enderror
-                                </div> --}}
+                                
 
 
                             </div>
 
                             <div class="row">
-                                <h4>Address</h4>
+                                {{-- <h4>Address</h4> --}}
                                 <div class="mb-3 col-md-6">
                                     <label for="street" class="form-label">Street</label>
                                     <input type="text" class="form-control form-control-lg rounded @error('street') is-invalid @enderror" name="street" value="{{ old('street') }}" required>
@@ -203,14 +187,34 @@
                                      @enderror
                                 </div>
 
+                                <div class="mb-3 col-md-12">
+                                    <label for="formFile" class="form-label">CV</label>
+                                    <input class="form-control form-control-lg rounded @error('cv') is-invalid @enderror" name="cv" value="{{ old('cv') }}" type="file">
+                                
+                                    @error('cv')
+                                    <span class="invalid-feedback" role="alert">
+                                        <strong>{{ $message }}</strong>
+                                    </span>
+                                    @enderror
+                                </div>
+
 
                             </div>
+                            <div class="text-center">
+{{-- fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-last mobile-center 
+    
+    width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-top:0px;margin-bottom:20px;
+    fusion-column-wrapper fusion-flex-column-wrapper-legacy
+    background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;
+
+    fusion-alignleft
+    --}}
                             
-                            <div class="fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-last mobile-center"
-                                style="width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-top:0px;margin-bottom:20px;">
-                                <div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-                                    style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;">
-                                    <div class="fusion-alignleft">
+                            <div class=""
+                                style="">
+                                <div class=""
+                                    style="">
+                                    <div class="">
                                         
                                         <style>
                                             .fusion-body .fusion-button.button-2 {
@@ -240,12 +244,14 @@
                                             }
                                         </style><button
                                             class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type btn-xtra-padding"
-                                            target="_blank" rel="noopener noreferrer"
+                                           type="submit"
                                             ><span
                                                 class="fusion-button-text">Apply now</span></button>
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
+                            </div>
+
                             </div>
                         </form>
                            

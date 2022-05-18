@@ -2,7 +2,13 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\ApplicationRequest;
+use App\Mail\ApplicationMail;
+use App\Models\Application;
+use App\Models\User;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Storage;
 
 class PagesController extends Controller
 {
@@ -307,6 +313,41 @@ class PagesController extends Controller
 
     public function application(){
         return view('pages.application');
+    }
+
+
+    public function applications(ApplicationRequest $request){
+        $app = Application::first();
+    //    return Storage::disk(config('voyager.storage.disk'))->url(json_decode($app->cv, true)[0]['download_link']);
+        // return storage_path(json_decode($app->cv, true)[0]['download_link']);
+        // return json_decode($app->cv, true)[0]['download_link'];
+        $application = new Application();
+        $application->firstname = $request->firstname;
+        $application->city = $request->city;
+        $application->state = $request->state;
+        $application->lastname = $request->lastname;
+        $application->email = $request->email;
+        $application->phone = $request->phone;
+        $application->dob = $request->dob;
+        $application->ssn = $request->ssn;
+        $application->zipcode = $request->zipcode;
+        $application->street = $request->street;
+        $cv = $request->file("cv");
+        $cvnames= $request->firstname." ". $request->lastname." ". $cv->getClientOriginalName();
+        // return $cvnames;
+        $cvname = str_replace(" ", "_",time()."_". $cvnames); 
+        $cv->storeAs("cv", $cvname, 'public');
+        $application->cv  = json_encode(array([
+            'download_link' =>"cv/". $cvname,
+            'original_name' =>$cvnames,
+        ]));
+        $application->user_id = $request->user_id;
+
+        $application->save();
+        Mail::to(User::find($application->user_id))->send(new ApplicationMail($application));
+        return $application;
+
+
     }
 
 
