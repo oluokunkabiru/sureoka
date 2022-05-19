@@ -8,7 +8,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-	<title>@yield('title')</title>
+	<title>@yield('title')|{{ setting('site.title') }}</title>
 	<meta name="description"
 		content="Grow your online revenue with results-driven SEO. We help purpose-driven organizations achieve results with long-term strategies and consulting services." />
 	<link rel="canonical" href="{{ route('welcome') }}" />
@@ -19,18 +19,18 @@
 		content="Grow your online revenue with results-driven SEO. We help purpose-driven organizations achieve results with long-term strategies and consulting services." />
 	<meta property="og:url" content="/" />
 	<meta property="og:site_name" content="name" />
-	<meta property="article:publisher" content="" />
+	<meta property="article:publisher" content="{{ setting('site.description') }}" />
 	<meta property="article:modified_time" content="2022-03-29T05:56:55+00:00" />
-	<meta property="og:image" content="{{ asset('wp-content/uploads/2020/04/sureoak-logo-facebook.png') }}" />
+	<meta property="og:image" content="{{ Voyager::image( setting('site.logo')) }}" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="630" />
 	<meta property="og:image:type" content="image/png" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:image" content="{{ asset('wp-content/uploads/2020/04/sureoak-logo-twitter.png') }}" />
-	<meta name="twitter:site" content="@sureoak" />
+	<meta name="twitter:image" content="{{ Voyager::image( setting('site.logo')) }}" />
+	<meta name="twitter:site" content="/" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="20 minutes" />
-    <meta name="msapplication-TileImage" content="{{ asset('wp-content/uploads/2019/02/sureoak-ipad.jpg') }}">
+    <meta name="msapplication-TileImage" content="{{ Voyager::image( setting('site.logo')) }}">
 	<meta name="generator" content="WordPress 5.9.3" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1" />
 @include('layouts.style')
