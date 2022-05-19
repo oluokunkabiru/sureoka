@@ -100,7 +100,7 @@
 
                                 <div class="mb-3 col-md-6">
                                     <label for="firstname" class="form-label">Phone Number</label>
-                                    <input type="tel" class="form-control form-control-lg rounded @error('phone') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required>
+                                    <input  type="number" onKeyPress="if(this.value.length==15) return false;" placeholder="123-45-6789"class="form-control form-control-lg rounded @error('phone') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required>
                                     @error('phone')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
@@ -109,7 +109,7 @@
                                 </div>
                                 <div class="mb-3 col-md-6">
                                     <label for="ssn" class="form-label">SSN</label>
-                                    <input type="text" placeholder="123-45-6789" class="form-control form-control-lg rounded @error('ssn') is-invalid @enderror" name="ssn" value="{{ old('ssn') }}" required>
+                                    <input type="number" id="ssn"  onKeyPress="if(this.value.length==9) return false;"  placeholder="123-45-6789" maxlength="9" class="form-control form-control-lg rounded @error('ssn') is-invalid @enderror" name="ssn" value="{{ old('ssn') }}" required>
                                     @error('ssn')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
@@ -154,7 +154,7 @@
 
                                 <div class="mb-3 col-md-6">
                                     <label for="zipcode" class="form-label">Zipcode</label>
-                                    <input type="text" class="form-control form-control-lg rounded @error('zipcode') is-invalid @enderror" name="zipcode" value="{{ old('zipcode') }}" required>
+                                    <input  type="number" onKeyPress="if(this.value.length==6) return false;" placeholder="123456" class="form-control form-control-lg rounded @error('zipcode') is-invalid @enderror" name="zipcode" value="{{ old('zipcode') }}" required>
                                     @error('zipcode')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
@@ -309,6 +309,18 @@
         </section>
     </div>
 </main>
+
+<script>
+	function addHyphen (element) {
+    	let ele = document.getElementById(element.id);
+        ele = ele.value.split('-').join('');    // Remove dash (-) if mistakenly entered.
+
+        let finalVal = ele.match(/.{1,3}/g).join('-');
+        document.getElementById(element.id).value = finalVal;
+    }
+
+    // alert("hello")
+</script>
 
 
 @endsection

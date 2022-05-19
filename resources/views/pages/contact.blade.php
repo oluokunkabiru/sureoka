@@ -3,7 +3,7 @@
 	
 	
 @section('content')
-{{-- <h1></h1> --}}
+{{-- <h1>{{ Request::session()->get('fromme') }}</h1> --}}
 
 <main id="main" class="clearfix width-100">
 	<div class="fusion-row" style="max-width:100%;">

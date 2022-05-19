@@ -316,7 +316,7 @@ class PagesController extends Controller
 
 
     public function application(){
-        return Cookie::get();
+        // return Cookie::get();
 
         return view('pages.application');
     }

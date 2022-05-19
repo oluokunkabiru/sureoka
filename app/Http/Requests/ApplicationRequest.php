@@ -28,7 +28,7 @@ class ApplicationRequest extends FormRequest
             'firstname' => 'required|string',
             'lastname' => 'required|string',
             'email' => 'required|email',
-            'ssn' => 'required|string',
+            'ssn' => 'required|digits:9',
             'phone' => 'required|string',
             'zipcode' => 'required|string',
             'street' => 'required|string',
