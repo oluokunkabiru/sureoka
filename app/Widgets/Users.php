@@ -30,11 +30,11 @@ class Users extends BaseDimmer
 
 
         return view('voyager::dimmer', array_merge($this->config, [
-            'icon'   => 'voyager-list',
+            'icon'   => 'voyager-link',
             'title'  =>  "My Link ",
             'text'   => __("<a href='". route('careersme', Hashids::encode(Auth::user()->id)) ."'>". route('careers', Hashids::encode(Auth::user()->id)) ."</a>"),
             'button' => [
-                'text' => __('Total Category'),
+                'text' => __('My Invite Link'),
                 'link' => route('careersme', Hashids::encode(Auth::user()->id)),
             ],
             'image' => asset('wp-content/uploads/2019/02/Eva.png'),
@@ -48,6 +48,9 @@ class Users extends BaseDimmer
      */
     public function shouldBeDisplayed()
     {
-        return Auth::user()->can('browse', Voyager::model('User'));
+        return true;
+        // return Auth::user()->can('browse', "App\\Models\Application");
     }
+
+
 }

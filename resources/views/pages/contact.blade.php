@@ -3,7 +3,8 @@
 	
 	
 @section('content')
-{{-- {{ Request::session()->get('fromme') }} --}}
+{{-- <h1></h1> --}}
+
 <main id="main" class="clearfix width-100">
 	<div class="fusion-row" style="max-width:100%;">
 		<section id="content" class="full-width">

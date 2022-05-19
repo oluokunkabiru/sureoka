@@ -7,8 +7,10 @@ use App\Mail\ApplicationMail;
 use App\Models\Application;
 use App\Models\User;
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
+use Illuminate\Support\Facades\Cookie;
 use Illuminate\Support\Facades\Mail;
-use Illuminate\Support\Facades\Storage;
+
 use Vinkla\Hashids\Facades\Hashids;
 class PagesController extends Controller
 {
@@ -206,11 +208,7 @@ class PagesController extends Controller
         return view('pages.careers');
 
     }
-    public function  careesme(Request $request, $id){
-        $request->session()->put('fromme', Hashids::decode($id));
-        return redirect()->route('careers');
-    }
-
+   
 
     public function contact(Request $request){
         // return $request->session()->get('fromme');
@@ -318,15 +316,13 @@ class PagesController extends Controller
 
 
     public function application(){
+        return Cookie::get();
+
         return view('pages.application');
     }
 
 
-    public function applications(ApplicationRequest $request){
-        $app = Application::first();
-    //    return Storage::disk(config('voyager.storage.disk'))->url(json_decode($app->cv, true)[0]['download_link']);
-        // return storage_path(json_decode($app->cv, true)[0]['download_link']);
-        // return json_decode($app->cv, true)[0]['download_link'];
+    public function applications(ApplicationRequest $request){   
         $application = new Application();
         $application->firstname = $request->firstname;
         $application->city = $request->city;
@@ -360,11 +356,34 @@ class PagesController extends Controller
 
 
     public function applicationThanks(Request $request, $id){
-       $request->session()->put('fromme', "Oluokun Kabiru");
+    //    $request->session()->put('fromme', "Oluokun Kabiru");
         $application = Application::find(Hashids::decode($id));
         // return $application;
         return view('pages.application-thanks', compact(['application']));
     }
+
+
+    public function  careesme(Request $request, $id){
+        $request->session()->put('fromme', Hashids::decode($id)[0]);
+        
+        //    $cookie =  Cookie::make('fromme',Hashids::decode($id)[0], 120 );
+        // $response = new Ressp;
+        // $cookie = $response->withCookie(cookie()->forever('fromme', Hashids::decode($id)[0]));//('name', Hashids::decode($id)[0], 10);
+        // return Cookie::get();
+        // $response = new Response('Set Cookie');
+        // $response->withCookie(cookie()->forever('fromme', Hashids::decode($id)[0]));
+        // $response->withCookie(cookie('name', 'MyValue'));
+        // echo $response;
+
+        // $cookie = Cookie::make('fromme', 'Village boy', 120);
+        // $cookie = Cookie::forever('fromme', "Village boy");
+        // $val = Cookie::get();
+        // return $val;
+        // return $cookie;
+
+            return redirect()->route('careers');
+        }
+    
 
 
 }

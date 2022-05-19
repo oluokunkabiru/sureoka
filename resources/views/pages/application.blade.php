@@ -63,14 +63,9 @@
                                 </div>
                             </div>
                              <form  method="POST" action="{{ route('applications') }}" enctype="multipart/form-data">
-                            {{-- <div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first mobile-center"
-                                style="width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;margin-top:0px;margin-bottom:20px;">
-                               
-                                 
-                                
-                                      
-                            </div> --}}
+           
                             @csrf
+                            
                             <input type="hidden" name="user_id" value="{{ Request::session()->get('fromme') }}">
                             <div class="row">
                                 <div class="mb-3 col-md-6">
