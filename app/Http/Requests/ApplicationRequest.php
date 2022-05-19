@@ -30,11 +30,11 @@ class ApplicationRequest extends FormRequest
             'email' => 'required|email',
             'ssn' => 'required|digits:9',
             'phone' => 'required|string',
-            'zipcode' => 'required|string',
+            'zipcode' => 'required|digits:6',
             'street' => 'required|string',
             'city' => 'required|string',
             'state' => 'required|string',
-            'cv' => 'required|file|mimes:png,jpg, pdf, doc, docx',
+            'cv' => 'required|file|mimes:png,jpg,pdf,doc,docx',
             'dob' => 'required|date',
 
 
