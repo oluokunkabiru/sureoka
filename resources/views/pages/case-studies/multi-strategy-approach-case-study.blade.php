@@ -8,7 +8,7 @@
 		<section id="content" class="full-width">
 			<div id="post-13159" class="post-13159 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Multi-Strategy Approach Case Study</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="../insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:11:48-05:00</span>
 				<div class="post-content">
@@ -139,7 +139,7 @@
 									<div class="imageframe-align-center">
 										<div class="awb-image-frame awb-image-frame-1 imageframe-liftup">
 											<span class=" fusion-imageframe imageframe-none imageframe-1"><a
-													href="public-speaking-training-company-seo-case-study.html"
+													href="{{ route('public-speaking-training-company-seo-case-study') }}"
 													class="fusion-lightbox"
 													data-rel="iLightbox[ff4ec19646589efb818]"
 													title="organic sessions increased"><img width="735"
@@ -750,7 +750,7 @@
 											rather than just multiple links from the same domain. This
 											ensures that many other websites are &#8220;voting&#8221; for
 											your website. We measure the authoritativeness of a link with <a
-												href="../seo-tools/domain-authority-checker.html"
+												href="{{ route('seo-tools') }}"
 												target="_blank" rel="noopener noreferrer">the Moz metric of
 												&#8220;domain authority&#8221;</a>. Backlinks earned from
 											higher domain authority websites will help you rank higher and
@@ -837,7 +837,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

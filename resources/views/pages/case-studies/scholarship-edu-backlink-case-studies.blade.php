@@ -10,7 +10,7 @@ Studies')
 			<div id="post-16781" class="post-16781 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Scholarship Edu Backlink Case
 					Studies</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/ritesh.html" title="Posts by ritesh"
+							href="#" title="Posts by ritesh"
 							rel="author">ritesh</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:52:11-05:00</span>
 				<div class="post-content">
@@ -122,9 +122,9 @@ Studies')
 											backlink profile and improve off-page SEO<br />
 											<strong>Goals:</strong> Increase high quality, authoritative
 											backlinks<br /> <strong>Services Provided:</strong> Traditional
-											<a href="../services/link-building-services.html"
+											<a href="{{ route('link-building') }}"
 												target="_blank" rel="noopener noreferrer">link building</a>
-											and <a href="../services/how-to-get-edu-backlinks.html"
+											and <a href="{{ route('how-to-get-edu-backlinks') }}"
 												target="_blank" rel="noopener noreferrer">scholarship link
 												building</a><br /> <strong>Duration:</strong> 6 months<br />
 											<strong>Strategy:</strong> Client faced a challenge of earning
@@ -175,7 +175,7 @@ Studies')
 										<p><strong>Execution: </strong>Reviewed content for link-worthy
 											assets and determined which pages would be most successful.
 											Traditional outreach was performed to earn links. Began <a
-												href="../services/how-to-get-edu-backlinks-scholarship/index.html"
+												href="{{ route('how-to-get-edu-backlinks') }}"
 												target="_blank" rel="noopener noreferrer">an edu scholarship
 												link building program</a> to acquire high-authority,
 											high-value backlinks to the<br /> website.<br />
@@ -225,7 +225,7 @@ Studies')
 											<strong>Strategy:</strong> Client partnered with Sure Oak to
 											earn additional links to their site. After reviewing Client’
 											site and needs, Sure Oak determined that <a
-												href="../services/how-to-get-edu-backlinks-scholarship/index.html"
+												href="{{ route('scholarship-edu-backlink-case-studies') }}"
 												target="_blank" rel="noopener noreferrer">a scholarship link
 												building campaign</a> would help to increase Client’ traffic
 											and referring domains.</p>
@@ -316,10 +316,10 @@ Studies')
 											backlink profile<br /> <strong>Goals: </strong>Increase high
 											quality, authoritative backlinks<br /> <strong>Services
 												Provided:</strong> <a
-												href="../services/how-to-get-edu-backlinks.html"
+												href="{{ route('scholarship-edu-backlink-case-studies') }}"
 												target="_blank" rel="noopener noreferrer">Scholarship link
 												building</a> and <a
-												href="../services/link-building-services.html"
+												href="{{ route('link-building') }}"
 												target="_blank" rel="noopener noreferrer">traditional link
 												building</a><br /> <strong>Duration:</strong> 9 months<br />
 											<strong>Strategy:</strong> Client approached Sure Oak looking
@@ -368,11 +368,11 @@ Studies')
 									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;">
 									<div class="fusion-text fusion-text-15">
 										<p><strong>Execution:</strong> Began <a
-												href="../services/how-to-get-edu-backlinks-scholarship/index.html"
+												href="{{ route('how-to-get-edu-backlinks') }}"
 												target="_blank" rel="noopener noreferrer">a scholarship .EDU
 												link building program</a> to acquire high-authority,
 											high-value backlinks to the website. Conducted <a
-												href="../services/seo-competitor-analysis/index.html"
+												href="{{ route('seo-competitor-analysis') }}"
 												target="_blank" rel="noopener noreferrer">competitor
 												analysis</a> to gain insight into competing link profiles.
 											Reviewed content for link-worthy assets and determined which
@@ -416,7 +416,7 @@ Studies')
 											to diversify backlink profile and improve off-page SEO<br />
 											<strong>Goals:</strong> Increase high quality, authoritative
 											backlinks<br /> <strong>Services Provided:</strong> <a
-												href="../services/how-to-get-edu-backlinks.html"
+												href="{{ route('scholarship-edu-backlink-case-studies') }}"
 												target="_blank" rel="noopener noreferrer">Scholarship link
 												building</a><br /> <strong>Duration: </strong>6 months<br />
 											<strong>Strategy:</strong> Client partnered with Sure Oak to
@@ -535,7 +535,7 @@ Studies')
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

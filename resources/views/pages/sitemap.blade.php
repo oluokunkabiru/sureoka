@@ -9,7 +9,7 @@
 			<div id="post-26530" class="post-26530 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Sitemap</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#insights/author/darrenjames13.html" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T09:45:17-05:00</span>
 				<div class="post-content">
@@ -31,63 +31,63 @@
 								<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
 									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;">
 									<div class="fusion-text fusion-text-2">
-										<h2><a href="services.html">SEO Services</a></h2>
+										<h2><a href="{{ route('service') }}">SEO Services</a></h2>
 										<ul>
-											<li><a href="services/seo-plan.html">SEO Game Plan</a></li>
-											<li><a href="services/link-building-services.html">Link Building
+											<li><a href="{{ route('seo-plan') }}">SEO Game Plan</a></li>
+											<li><a href="{{ route('link-building') }}">Link Building
 													Services</a></li>
-											<li><a href="services/seo-audit-service.html">Technical SEO
+											<li><a href="{{ route('seo') }}">Technical SEO
 													Audit</a></li>
-											<li><a href="services/keyword-research-service.html">Keyword
+											<li><a href="{{ route('keyword-research-service') }}">Keyword
 													Research</a></li>
-											<li><a href="services/seo-consultant-services/index.html">SEO
+											<li><a href="{{ route('seo-consultant-services') }}">SEO
 													Strategy Consulting</a></li>
-											<li><a href="services/seo-content-writing/index.html">Content
+											<li><a href="{{ route('content-marketing') }}">Content
 													Optimization</a></li>
-											<li><a href="services/inbound-marketing.html">Inbound
+											<li><a href="{{ route('inbound-marketing') }}">Inbound
 													Marketing</a></li>
-											<li><a href="services/seo-competitor-analysis/index.html">Competitor
+											<li><a href="{{ route('seo-competitor-analysis') }}">Competitor
 													Analysis</a></li>
-											<li><a href="services/seo-optimization-services/index.html">On-Page
+											<li><a href="{{ route('seo-optimization-services') }}">On-Page
 													Optimization</a></li>
-											<li><a href="services/conversion-rate-optimization.html">Conversion
+											<li><a href="{{ route('conversion-rate-optimization') }}">Conversion
 													Rate Optimization</a></li>
-											<li><a href="services/digital-public-relations.html">Digital
+											<li><a href="{{ route('digital-public-relations') }}">Digital
 													PR</a></li>
-											<li><a href="services/how-to-get-edu-backlinks/index.html">EDU
+											<li><a href="{{ route('how-to-get-edu-backlinks') }}">EDU
 													Link Building</a></li>
-											<li><a href="services/google-analytics-consultant/index.html">Analytics
+											<li><a href="{{ route('google-analytics-consultant') }}">Analytics
 													Configuration</a></li>
-											<li><a href="services/local-seo-services/index.html">Local
+											<li><a href="{{ route('local-seo-services') }}">Local
 													SEO</a></li>
-											<li><a href="services/ppc-management/index.html">Paid Search</a>
+											<li><a href="{{ route('ppc-management') }}">Paid Search</a>
 											</li>
-											<li><a href="services/voice-search-marketing/index.html">Voice
+											<li><a href="{{ route('voice-search-marketing') }}">Voice
 													Search</a></li>
-											<li><a href="services/social-media-advertising.html">Social
+											<li><a href="{{ route('social-media-advertising') }}">Social
 													Media Advertising</a></li>
-											<li><a href="services/website-design-development.html">Website
+											<li><a href="{{ route('website-design-development') }}">Website
 													Design &amp; Development</a></li>
 										</ul>
-										<h2><a href="platform.html">SEO Platform</a></h2>
-										<h2><a href="seo-tools.html">Free SEO Tools</a></h2>
+										<h2><a href="{{ route('platform') }}">SEO Platform</a></h2>
+										<h2><a href="{{ route('seo-tools') }}">Free SEO Tools</a></h2>
 										<ul>
-											<li><a href="seo-tools/seo-checker-analysis-tool.html">SEO Score
+											<li><a href="{{ route('seo-tools') }}#seo-tools/seo-checker-analysis-tool.html">SEO Score
 													Checker</a></li>
 											<li><a
-													href="seo-tools/seo-website-crawler-tool.html?websiteId=0">SEO
+													href="{{ route('seo-tools') }}#seo-tools/seo-website-crawler-tool.html?websiteId=0">SEO
 													Crawler Tool</a></li>
 											<li><a
-													href="seo-tools/domain-authority-checkerd384.html?websiteId=0">Domain
+													href="{{ route('seo-tools') }}#seo-tools/domain-authority-checkerd384.html?websiteId=0">Domain
 													Authority Checker</a></li>
 											<li><a
-													href="seo-tools/301-redirect-checkerd384.html?websiteId=0">Redirect
+													href="{{ route('seo-tools') }}#seo-tools/301-redirect-checkerd384.html?websiteId=0">Redirect
 													Checker</a></li>
 											<li><a
-													href="seo-tools/http-headers-checkerd384.html?websiteId=0">Header
+													href="{{ route('seo-tools') }}#seo-tools/http-headers-checkerd384.html?websiteId=0">Header
 													Status Checker</a></li>
 											<li><a
-													href="seo-tools/keyword-rank-checkerd384.html?websiteId=0">Keyword
+													href="{{ route('seo-tools') }}#seo-tools/keyword-rank-checkerd384.html?websiteId=0">Keyword
 													Rank Checker</a></li>
 											<li><a
 													href="seo-tools/keyword-density-checkerd384.html?websiteId=0">Keyword
@@ -96,11 +96,11 @@
 													href="seo-tools/google-xml-sitemap-generatord384.html?websiteId=0">Sitemap
 													Generator</a></li>
 											<li><a
-													href="seo-tools/robots-txt-generatord384.html?websiteId=0">Robots.txt
+													href="{{ route('seo-tools') }}#seo-tools/robots-txt-generatord384.html?websiteId=0">Robots.txt
 													Generator</a></li>
-											<li><a href="seo-tools/meta-tag-generatord384.html?websiteId=0">Meta
+											<li><a href="{{ route('seo-tools') }}#seo-tools/meta-tag-generatord384.html?websiteId=0">Meta
 													Tag Generator</a></li>
-											<li><a href="seo-tools/url-utm-builderd384.html?websiteId=0">UTM
+											<li><a href="{{ route('seo-tools') }}#seo-tools/url-utm-builderd384.html?websiteId=0">UTM
 													Builder</a></li>
 										</ul>
 										<p>
@@ -115,45 +115,45 @@
 									<div class="fusion-text fusion-text-3">
 										<h2>Industries</h2>
 										<ul>
-											<li><a href="industries/b2b-seo.html">B2B SEO</a></li>
-											<li><a href="industries/saas-seo.html">B2B SaaS</a></li>
-											<li><a href="industries/dental-seo.html">Dental</a></li>
-											<li><a href="industries/education-seo.html">Educational
+											<li><a href="{{ route('industry') }}">B2B SEO</a></li>
+											<li><a href="{{ route('industry') }}">B2B SaaS</a></li>
+											<li><a href="{{ route('industry') }}">Dental</a></li>
+											<li><a href="{{ route('industry') }}">Educational
 													Institutions</a></li>
-											<li><a href="industries/fintech-seo.html">FinTech</a></li>
-											<li><a href="industries/food-beverage-seo.html">Food &amp;
+											<li><a href="{{ route('industry') }}">FinTech</a></li>
+											<li><a href="{{ route('industry') }}">Food &amp;
 													Beverage</a></li>
-											<li><a href="industries/hotel-seo.html">Hotels</a></li>
-											<li><a href="industries/insurance-seo.html">Insurance</a></li>
-											<li><a href="industries/lawyer-seo.html">Legal</a></li>
-											<li><a href="industries/medical-seo.html">Medical
+											<li><a href="{{ route('industry') }}">Hotels</a></li>
+											<li><a href="{{ route('industry') }}">Insurance</a></li>
+											<li><a href="{{ route('industry') }}">Legal</a></li>
+											<li><a href="{{ route('industry') }}">Medical
 													Professionals</a></li>
-											<li><a href="industries/real-estate-seo.html">Real Estate</a>
+											<li><a href="{{ route('industry') }}">Real Estate</a>
 											</li>
-											<li><a href="industries/seo-for-startups.html">Startups</a></li>
-											<li><a href="industries/telecom-seo.html">Telecom</a></li>
+											<li><a href="{{ route('industry') }}">Startups</a></li>
+											<li><a href="{{ route('industry') }}">Telecom</a></li>
 										</ul>
-										<h2><a href="case-studies.html">Case Studies</a></h2>
+										<h2><a href="{{ route('case-studies') }}">Case Studies</a></h2>
 										<ul>
-											<li><a href="case-studies/game-plan.html">SEO Game Plan Case
+											<li><a href="{{ route('case-studies') }}">case-studies/game-plan.html">SEO Game Plan Case
 													Studies</a></li>
-											<li><a href="case-studies/seo.html">SEO Case Studies</a></li>
-											<li><a href="case-studies/link-building.html">Link Building Case
+											<li><a href="{{ route('case-studies') }}#case-studies/seo.html">SEO Case Studies</a></li>
+											<li><a href="{{ route('case-studies') }}#case-studies/link-building.html">Link Building Case
 													Studies</a></li>
-											<li><a href="case-studies/industry.html">By Industry</a></li>
-											<li><a href="case-studies/local.html">Local SEO Case Studies</a>
+											<li><a href="{{ route('case-studies') }}#case-studies/industry.html">By Industry</a></li>
+											<li><a href="{{ route('case-studies') }}#case-studies/local.html">Local SEO Case Studies</a>
 											</li>
 										</ul>
-										<h2><a href="about.html">About</a></h2>
+										<h2><a href="{{ route('about') }}">About</a></h2>
 										<ul>
-											<li><a href="services/boston-seo.html">Boston SEO Services</a>
+											<li><a href="{{ route('service') }}#services/boston-seo.html">Boston SEO Services</a>
 											</li>
-											<li><a href="services/philadelphia-seo.html">Philadelphia SEO
+											<li><a href="{{ route('service') }}#services/philadelphia-seo.html">Philadelphia SEO
 													Services</a></li>
 										</ul>
-										<h2><a href="insights.html">Insights</a></h2>
-										<h2><a href="privacy-policy.html">Privacy Policy</a></h2>
-										<h2><a href="terms-of-service.html">Terms of Use</a></h2>
+										<h2><a href="{{ route('insights') }}">Insights</a></h2>
+										<h2><a href="{{ route('privacy-policy') }}">Privacy Policy</a></h2>
+										<h2><a href="{{ route('terms-of-service') }}">Terms of Use</a></h2>
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div>

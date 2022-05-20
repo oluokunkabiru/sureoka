@@ -10,7 +10,7 @@ Solutions')
 			<div id="post-27989" class="post-27989 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Philadelphia SEO Services &#038;
 					Solutions</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-08-11T00:22:19-04:00</span>
 				<div class="post-content">
@@ -152,7 +152,7 @@ Solutions')
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="../case-studies.html"><span
+											href="{{ route('case-studies') }}"><span
 												class="fusion-button-text">View case studies</span></a>
 									</div>
 									<div class="fusion-sep-clear"></div>
@@ -278,7 +278,7 @@ Solutions')
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
-										class="fusion-column-anchor" href="seo-plan.html"><span
+										class="fusion-column-anchor" href="{{ route('seo-plan') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -309,7 +309,7 @@ Solutions')
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
-										class="fusion-column-anchor" href="../services.html"><span
+										class="fusion-column-anchor" href="{{ route('service') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -341,7 +341,7 @@ Solutions')
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="link-building-services.html"><span
+										href="{{ route('link-building') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -409,7 +409,7 @@ Solutions')
 											class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="../strategy-call.html"><span
+											href="{{ route('strategy') }}"><span
 												class="fusion-button-text">LET&#8217;S DO IT</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -493,7 +493,7 @@ Solutions')
 														of dedication and perseverance, Tom finally had an
 														SEO breakthrough.</p>
 													<p>Since then, Tom has recruited <a
-															href="../about.html#team">a team of like-minded
+															href="{{ route('about') }}#team">a team of like-minded
 															individuals</a> to form Sure Oak: a remote SEO
 														agency serving Philadelphia and beyond. And &#8211;
 														to this day &#8211; our commitment to authenticity
@@ -576,7 +576,7 @@ Solutions')
 									</div>
 									<div class="fusion-text fusion-text-17">
 										<p>We’re not just another <a
-												href="../insights/top-seo-companies-vs-fly-by-night-seos.html">fly-by-night
+												href="{{ route('seo') }}">fly-by-night
 												SEO agency</a>. At Sure Oak, we remain 100% transparent with
 											our clients. With frequent KPI updates and strategy reports,
 											you’ll know exactly where your marketing spend is going and how
@@ -847,7 +847,7 @@ Solutions')
 											Trusted SEO Partner for Philly Businesses</h2>
 									</div>
 									<div class="fusion-text fusion-text-18">
-										<p>As a <a href="../about.html">full-service SEO agency</a> serving
+										<p>As a <a href="{{ route('about') }}">full-service SEO agency</a> serving
 											the Greater Philadelphia area, Sure Oak leverages the power of
 											search engines to help businesses connect with more prospective
 											customers and clients. With customized services based on our
@@ -862,9 +862,9 @@ Solutions')
 											<li>Audience</li>
 											<li>Competitors</li>
 										</ul>
-										<p>From <a href="keyword-research-service.html">keywords</a>, to <a
-												href="seo-content-writing/index.html">content</a>, to <a
-												href="link-building-services/index.html">premium
+										<p>From <a href="{{ route('keyword-ranking-case-study') }}">keywords</a>, to <a
+												href="{{ route('seo-consultant-services') }}">content</a>, to <a
+												href="{{ route('link-building') }}">premium
 												backlinks</a>, we devise custom SEO strategies that resonate
 											with your target audience. Our quality-first approach sets you
 											up for SEO success, and our dedicated work drives long-term
@@ -942,7 +942,7 @@ Solutions')
 													class="fusion-button button-flat button-xlarge button-custom button-3 fusion-button-default-span fusion-button-default-type fusion-animated giant-button"
 													data-animationType="shake" data-animationDuration="0.5"
 													data-animationOffset="bottom-in-view" target="_self"
-													href="../strategy-call.html"><span
+													href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Schedule my free strategy
 														session</span></a>
 											</div>
@@ -996,7 +996,7 @@ Solutions')
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Schedule my free strategy
 												session</span></a>
 									</div>

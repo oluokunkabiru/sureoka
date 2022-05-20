@@ -539,7 +539,7 @@
                                             }
                                         </style><a
                                             class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
-                                            target="_self" href="index.html"><span
+                                            target="_self" href="{{ route('welcome') }}"><span
                                                 class="fusion-button-text">Learn more about Sure Oak&#x27;s
                                                 culture</span></a>
                                     </div>

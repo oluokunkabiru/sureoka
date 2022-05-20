@@ -9,7 +9,7 @@
 			<div id="post-21297" class="post-21297 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Link Building Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/maxdigital.html" title="Posts by Max Digital"
+							href="#" title="Posts by Max Digital"
 							rel="author">Max Digital</a></span></span><span
 					class="updated rich-snippet-hidden">2020-08-11T01:41:14-04:00</span>
 				<div class="post-content">
@@ -260,7 +260,7 @@
 											Responsify had specific goals when approaching Sure Oak SEO for
 											help. They sought to increase their domain authority to 30. By
 											having a specific goal in mind <a
-												href="../seo-tools/domain-authority-checker.html"
+												href="{{ route('seo-tools') }}"
 												target="_blank" rel="noopener noreferrer">for domain
 												authority</a>, they aimed to get a lift in high-intent
 											keywords and an increased presence on search with competitive
@@ -287,18 +287,18 @@
 										<h1 style="color: #007499; text-align: center;">Solution</h1>
 										<p style="line-height: 35px;">Before any link building could begin,
 											Sure Oak SEO completed a <a
-												href="../services/seo-audit-service/index.html"
+												href="{{ route('seo-audit-service') }}"
 												target="_blank" rel="noopener noreferrer">technical audit to
 												their website</a> and its existing content along with <a
-												href="../services/keyword-research-service/index.html"
+												href="{{ route('keyword-ranking-case-study') }}"
 												target="_blank" rel="noopener noreferrer">extensive keyword
 												research</a>. In a series of recommendations, new keywords
 											were identified and <a
-												href="../seo-tools/keyword-density-checker.html"
+												href="{{ route('keyword-ranking-case-study') }}"
 												target="_blank" rel="noopener noreferrer">keyword
 												density</a> was also implemented to drive more incoming
 											traffic. To increase their brand awareness and domain authority,
-											a variety of <a href="../services/link-building-services.html"
+											a variety of <a href="{{ route('link-building') }}"
 												target="_blank" rel="noopener noreferrer">link building
 												strategies</a> were executed. Once they established
 											citations and SERP stacking as foundational links, the focus
@@ -366,7 +366,7 @@
 											with their ideal audience.</p>
 										<p style="line-height: 35px;">In addition to the powerful editorial
 											links, Sure Oak SEO also <a
-												href="../services/how-to-get-edu-backlinks.html"
+												href="{{ route('how-to-get-edu-backlinks') }}"
 												target="_blank" rel="noopener noreferrer">ran a scholarship
 												campaign</a> which helped to acquire 80+ .edu links. These
 											links are typically websites with high trust and authority,
@@ -547,7 +547,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('strategy-call') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -605,7 +605,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

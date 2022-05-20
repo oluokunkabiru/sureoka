@@ -11,7 +11,7 @@
                         <div id="post-20379" class="post-20379 page type-page status-publish hentry"> <span
                                 class="entry-title rich-snippet-hidden">Results-Driven SEO Services</span><span
                                 class="vcard rich-snippet-hidden"><span class="fn"><a
-                                        href="insights/author/superadmin.html" title="Posts by superadmin"
+                                        href="#" title="Posts by superadmin"
                                         rel="author">superadmin</a></span></span><span
                                 class="updated rich-snippet-hidden">2022-03-07T14:56:30-05:00</span>
                             <div class="post-content">
@@ -156,7 +156,7 @@
                                                 <div class="fusion-text fusion-text-4" style="text-transform:none;">
                                                     <p>Tactical and effective digital marketing is the key to growing
                                                         your business. That’s why you’re here. Leverage our proprietary
-                                                        <a href="plan/index.html">SEO game plan</a>, digital strategies
+                                                        <a href="{{ route('platform') }}">SEO game plan</a>, digital strategies
                                                         and link building services to grow your business. Our team of
                                                         experts is wholly committed to your success.</p>
                                                 </div>
@@ -170,7 +170,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/link-building-services.html"
+                                                            href="{{ route('link-building-services') }}"
                                                             target="_self"><img width="457" height="457"
                                                                 alt="Link Building"
                                                                 src="{{ asset('wp-content/uploads/2019/03/Asset-2%402x.png') }}"
@@ -183,13 +183,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-5 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/link-building-services.html">Link<br />
+                                                            href="{{ route('link-building-services') }}">Link<br />
                                                             Building</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/link-building-services.html"><span
+                                                    href="{{ route('link-building-services') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -200,7 +200,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/seo-consultant-services.html"
+                                                            href="{{ route('seo-plan') }}"
                                                             target="_self"><img width="458" height="457"
                                                                 alt="Strategy Consulting"
                                                                 src="{{ asset('wp-content/uploads/2019/03/Asset-3%402x.png') }}"
@@ -213,13 +213,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-6 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/seo-consultant-services.html">Strategy<br />
+                                                            href="{{ route('seo-plan') }}">Strategy<br />
                                                             Consulting</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/seo-consultant-services.html"><span
+                                                    href="{{ route('seo-plan') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -230,7 +230,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/seo-audit-service/index.html"
+                                                            href="{{ route('seo-audit-service') }}"
                                                             target="_self"><img width="457" height="457"
                                                                 alt="Technical SEO &amp; Auditing"
                                                                 src="{{ asset('wp-content/uploads/2019/03/Asset-4%402x.png') }}"
@@ -243,13 +243,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-7 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/seo-audit-service/index.html">Technical<br />
+                                                            href="{{ route('seo-plan') }}">Technical<br />
                                                             SEO &amp; Auditing</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/seo-audit-service.html"><span
+                                                    href="{{ route('seo-plan') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -260,7 +260,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/keyword-research-service/index.html"
+                                                            href="{{ route('keyword-ranking-case-study') }}"
                                                             target="_self"><img width="457" height="458"
                                                                 alt="Advanced Keyword Research"
                                                                 src="{{ asset('wp-content/uploads/2019/03/Asset-5%402x.png') }}"
@@ -273,13 +273,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-8 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/keyword-research-service/index.html">Advanced<br />
+                                                            href="{{ route('keyword-ranking-case-study') }}">Advanced<br />
                                                             Keyword Research</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/keyword-research-service.html"><span
+                                                    href="{{ route('keyword-ranking-case-study') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -290,7 +290,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/seo-content-writing/index.html"
+                                                            href="{{ route('seo-competitor-analysis') }}"
                                                             target="_self"><img width="458" height="458"
                                                                 alt="Content Optimization"
                                                                 src="{{ asset('wp-content/uploads/2019/03/Asset-6%402x.png') }}"
@@ -303,13 +303,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-9 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/seo-content-writing/index.html">Content<br />
+                                                            href="{{ route('seo-content-writing') }}">Content<br />
                                                             Optimization</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/seo-content-writing.html"><span
+                                                    href="{{ route('seo-consultant-services') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -320,7 +320,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/seo-competitor-analysis/index.html"
+                                                            href="{{ route('seo-competitor-analysis') }}"
                                                             target="_blank" rel="noopener noreferrer"><img width="457"
                                                                 height="458" alt="Competitor Analysis"
                                                                 src="{{ asset('wp-content/uploads/2019/03/Asset-7%402x.png') }}"
@@ -333,13 +333,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-10 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/seo-competitor-analysis/index.html">Competitor<br />
+                                                            href="{{ route('seo-competitor-analysis') }}">Competitor<br />
                                                             Analysis</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/seo-competitor-analysis.html"><span
+                                                    href="{{ route('seo-competitor-analysis') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -350,7 +350,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/inbound-marketing.html" target="_blank"
+                                                            href="{{ route('seo-competitor-analysis') }}" target="_blank"
                                                             aria-label="services-icon_inbound-marketing"
                                                             rel="noopener noreferrer"><img width="400" height="400"
                                                                 alt="Inbound Marketing"
@@ -364,13 +364,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-11 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/inbound-marketing.html">Inbound Marketing</a>
+                                                            href="{{ route('inbound-marketing') }}">Inbound Marketing</a>
                                                     </h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/inbound-marketing.html"><span
+                                                    href="{{ route('inbound-marketing') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -381,7 +381,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/conversion-rate-optimization.html"
+                                                            href="{{ route('conversion-rate-optimization') }}"
                                                             target="_blank"
                                                             aria-label="services-icon_conversion-rate-optimization"
                                                             rel="noopener noreferrer"><img width="400" height="400"
@@ -396,13 +396,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-12 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/conversion-rate-optimization.html">Conversion
+                                                            href="{{ route('conversion-rate-optimization') }}">Conversion
                                                             Rate Optimization</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/conversion-rate-optimization.html"><span
+                                                    href="{{ route('conversion-rate-optimization') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -413,7 +413,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-9 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/conversion-rate-optimization.html"
+                                                            href="{{ route('conversion-rate-optimization') }}"
                                                             target="_blank" rel="noopener noreferrer"><img width="457"
                                                                 height="457" alt="On-Page Optimization"
                                                                 src="{{ asset('wp-content/uploads/2019/03/Asset-8%402x.png') }}"
@@ -426,13 +426,13 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-13 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/seo-optimization-services/index.html">On-Page
+                                                            href="{{ route('seo-optimization-services') }}">On-Page
                                                             Optimization</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/seo-optimization-services/index.html"><span
+                                                    href="{{ route('seo-optimization-services') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -443,7 +443,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"
                                                         style="max-width:200px;"><a class="fusion-no-lightbox"
-                                                            href="services/local-seo-services/index.html"
+                                                            href="{{ route('local-seo-services') }}"
                                                             target="_blank" rel="noopener noreferrer"><img width="457"
                                                                 height="458" alt="Local SEO"
                                                                 src="{{ asset('wp-content/uploads/2019/03/Asset-11%402x.png') }}"
@@ -456,12 +456,12 @@
                                                 </div>
                                                 <div class="fusion-text fusion-text-14 select-your-goal-title-links">
                                                     <h4 style="text-align: center;"><a
-                                                            href="services/local-seo-services.html">Local SEO</a></h4>
+                                                            href="{{ route('local-seo-services') }}">Local SEO</a></h4>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
                                             </div><span class="fusion-column-inner-bg hover-type-liftup"><a
                                                     class="fusion-column-anchor"
-                                                    href="services/local-seo-services.html"><span
+                                                    href="{{ route('local-seo-services') }}"><span
                                                         class="fusion-column-inner-bg-image"
                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;"></span></a></span>
                                         </div>
@@ -563,7 +563,7 @@
                                                                                         class=" fusion-imageframe imageframe-none imageframe-11 hover-type-none"
                                                                                         style="max-width:200px;"><a
                                                                                             class="fusion-no-lightbox"
-                                                                                            href="services/how-to-get-edu-backlinks/index.html"
+                                                                                            href="{{ route('how-to-get-edu-backlinks') }}"
                                                                                             target="_self"><img
                                                                                                 width="458" height="457"
                                                                                                 alt="EDU Link Building"
@@ -577,14 +577,14 @@
                                                                                 </div>
                                                                                 <div class="fusion-text fusion-text-15">
                                                                                     <h4 style="text-align: center;"><a
-                                                                                            href="services/how-to-get-edu-backlinks/index.html">EDU
+                                                                                            href="{{ route('how-to-get-edu-backlinks') }}">EDU
                                                                                             Link<br /> Building</a></h4>
                                                                                 </div>
                                                                                 <div class="fusion-clearfix"></div>
                                                                             </div><span
                                                                                 class="fusion-column-inner-bg hover-type-liftup"><a
                                                                                     class="fusion-column-anchor"
-                                                                                    href="services/how-to-get-edu-backlinks/index.html"><span
+                                                                                    href="{{ route('how-to-get-edu-backlinks') }}"><span
                                                                                         class="fusion-column-inner-bg-image"
                                                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border:1px solid #ffffff;"></span></a></span>
                                                                         </div>
@@ -597,7 +597,7 @@
                                                                                         class=" fusion-imageframe imageframe-none imageframe-12 hover-type-none"
                                                                                         style="max-width:200px;"><a
                                                                                             class="fusion-no-lightbox"
-                                                                                            href="services/google-analytics-consultant/index.html"
+                                                                                            href="{{ route('google-analytics-consultant') }}"
                                                                                             target="_self"><img
                                                                                                 width="457" height="457"
                                                                                                 alt="Analytics Configuration"
@@ -611,14 +611,14 @@
                                                                                 </div>
                                                                                 <div class="fusion-text fusion-text-16">
                                                                                     <h4 style="text-align: center;"><a
-                                                                                            href="services/google-analytics-consultant/index.html">Analytics<br />
+                                                                                            href="{{ route('google-analytics-consultant') }}">Analytics<br />
                                                                                             Configuration</a></h4>
                                                                                 </div>
                                                                                 <div class="fusion-clearfix"></div>
                                                                             </div><span
                                                                                 class="fusion-column-inner-bg hover-type-liftup"><a
                                                                                     class="fusion-column-anchor"
-                                                                                    href="services/google-analytics-consultant/index.html"><span
+                                                                                    href="{{ route('google-analytics-consultant') }}"><span
                                                                                         class="fusion-column-inner-bg-image"
                                                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border:1px solid #ffffff;"></span></a></span>
                                                                         </div>
@@ -631,7 +631,7 @@
                                                                                         class=" fusion-imageframe imageframe-none imageframe-13 hover-type-none"
                                                                                         style="max-width:200px;"><a
                                                                                             class="fusion-no-lightbox"
-                                                                                            href="services/paid-search/index.html"
+                                                                                            href="{{ route('keyword-ranking-case-study') }}"
                                                                                             target="_self"><img
                                                                                                 width="458" height="457"
                                                                                                 alt="Paid Search"
@@ -641,7 +641,7 @@
                                                                                 </div>
                                                                                 <div class="fusion-text fusion-text-17">
                                                                                     <h4 style="text-align: center;"><a
-                                                                                            href="services/ppc-management/index.html"
+                                                                                            href="{{ route('ppc-management') }}"
                                                                                             target="_self"
                                                                                             rel="noopener noreferrer">Paid
                                                                                             Search</a></h4>
@@ -650,7 +650,7 @@
                                                                             </div><span
                                                                                 class="fusion-column-inner-bg hover-type-liftup"><a
                                                                                     class="fusion-column-anchor"
-                                                                                    href="services/ppc-management/index.html"><span
+                                                                                    href="{{ route('ppc-management') }}"><span
                                                                                         class="fusion-column-inner-bg-image"
                                                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border:1px solid #ffffff;"></span></a></span>
                                                                         </div>
@@ -663,7 +663,7 @@
                                                                                         class=" fusion-imageframe imageframe-none imageframe-14 hover-type-none"
                                                                                         style="max-width:200px;"><a
                                                                                             class="fusion-no-lightbox"
-                                                                                            href="services/voice-search-marketing/index.html"
+                                                                                            href="{{ route('voice-search-marketing') }}"
                                                                                             target="_self"><img
                                                                                                 width="457" height="457"
                                                                                                 alt="Internal Linking"
@@ -673,7 +673,7 @@
                                                                                 </div>
                                                                                 <div class="fusion-text fusion-text-18">
                                                                                     <h4 style="text-align: center;"><a
-                                                                                            href="services/voice-search-marketing/index.html"
+                                                                                            href="{{ route('voice-search-marketing') }}"
                                                                                             target="_self"
                                                                                             rel="noopener noreferrer">Voice
                                                                                             Search Marketing</a></h4>
@@ -682,7 +682,7 @@
                                                                             </div><span
                                                                                 class="fusion-column-inner-bg hover-type-liftup"><a
                                                                                     class="fusion-column-anchor"
-                                                                                    href="services/voice-search-marketing/index.html"><span
+                                                                                    href="{{ route('voice-search-marketing') }}"><span
                                                                                         class="fusion-column-inner-bg-image"
                                                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border:1px solid #ffffff;"></span></a></span>
                                                                         </div>
@@ -695,7 +695,7 @@
                                                                                         class=" fusion-imageframe imageframe-none imageframe-15 hover-type-none"
                                                                                         style="max-width:200px;"><a
                                                                                             class="fusion-no-lightbox"
-                                                                                            href="services/digital-public-relations.html"
+                                                                                            href="{{ route('digital-public-relations') }}"
                                                                                             target="_self"
                                                                                             aria-label="services-icon_digital-pr"><img
                                                                                                 width="400" height="400"
@@ -710,7 +710,7 @@
                                                                                 </div>
                                                                                 <div class="fusion-text fusion-text-19">
                                                                                     <h4 style="text-align: center;"><a
-                                                                                            href="services/ppc-management/index.html"
+                                                                                            href="{{ route('ppc-management') }}"
                                                                                             target="_self"
                                                                                             rel="noopener noreferrer">Digital
                                                                                             PR and Online Reputation
@@ -720,7 +720,7 @@
                                                                             </div><span
                                                                                 class="fusion-column-inner-bg hover-type-liftup"><a
                                                                                     class="fusion-column-anchor"
-                                                                                    href="services/digital-public-relations.html"><span
+                                                                                    href="{{ route('digital-public-relations') }}"><span
                                                                                         class="fusion-column-inner-bg-image"
                                                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border:1px solid #ffffff;"></span></a></span>
                                                                         </div>
@@ -733,7 +733,7 @@
                                                                                         class=" fusion-imageframe imageframe-none imageframe-16 hover-type-none"
                                                                                         style="max-width:200px;"><a
                                                                                             class="fusion-no-lightbox"
-                                                                                            href="services/website-design-development.html"
+                                                                                            href="{{ route('website-design-development') }}"
                                                                                             target="_self"
                                                                                             aria-label="services-icon_website-design-development"><img
                                                                                                 width="400" height="400"
@@ -748,7 +748,7 @@
                                                                                 </div>
                                                                                 <div class="fusion-text fusion-text-20">
                                                                                     <h4 style="text-align: center;"><a
-                                                                                            href="services/website-design-development.html"
+                                                                                            href="{{ route('website-design-development') }}"
                                                                                             target="_self"
                                                                                             rel="noopener noreferrer">Website
                                                                                             Design and Development</a>
@@ -758,7 +758,7 @@
                                                                             </div><span
                                                                                 class="fusion-column-inner-bg hover-type-liftup"><a
                                                                                     class="fusion-column-anchor"
-                                                                                    href="services/website-design-development.html"><span
+                                                                                    href="{{ route('website-design-development') }}"><span
                                                                                         class="fusion-column-inner-bg-image"
                                                                                         style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border:1px solid #ffffff;"></span></a></span>
                                                                         </div>
@@ -826,7 +826,7 @@
                                                         }
                                                     </style><a
                                                         class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type button-addpadding"
-                                                        target="_self" href="services/link-building-services.html"><span
+                                                        target="_self" href="{{ route('link-building-services') }}"><span
                                                             class="fusion-button-text">Learn More</span></a>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
@@ -841,7 +841,7 @@
                                                 <span
                                                     class=" fusion-imageframe imageframe-none imageframe-17 hover-type-none"
                                                     style="max-width:400px;"><a class="fusion-no-lightbox"
-                                                        href="services/link-building-services.html" target="_blank"
+                                                        href="{{ route('link-building-services') }}" target="_blank"
                                                         aria-label="Traffic to Your Website"
                                                         rel="noopener noreferrer"><img width="1057" height="850"
                                                             alt="Traffic to Your Website"
@@ -870,7 +870,7 @@
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-18 hover-type-none"
                                                         style="max-width:375px;"><a class="fusion-no-lightbox"
-                                                            href="plan/index.html" target="_blank"
+                                                            href="{{ route('seo-plan') }}" target="_blank"
                                                             aria-label="Strategic SEO Game Plan"
                                                             rel="noopener noreferrer"><img width="851" height="862"
                                                                 alt="Strategic SEO Game Plan"
@@ -934,7 +934,7 @@
                                                         }
                                                     </style><a
                                                         class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type button-addpadding"
-                                                        target="_self" href="services/seo-plan.html"><span
+                                                        target="_self" href="{{ route('seo-plan') }}"><span
                                                             class="fusion-button-text">Learn More</span></a>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
@@ -1197,7 +1197,7 @@
                                                 style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;">
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-31 hover-type-none img-full-width"><a
-                                                            class="fusion-no-lightbox" href="case-study/index.html"
+                                                            class="fusion-no-lightbox" href="{{ route('case-studies') }}"
                                                             target="_self"
                                                             aria-label="Case Study 538% Increase in Organic Traffic in 2 Months"><img
                                                                 width="2870" height="1444"
@@ -1225,7 +1225,7 @@
                                                 style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;">
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-32 hover-type-none"><a
-                                                            class="fusion-no-lightbox" href="case-study/index.html"
+                                                            class="fusion-no-lightbox" href="{{ route('case-studies') }}"
                                                             target="_self"><img width="2136" height="1828"
                                                                 alt="See case study"
                                                                 src="{{ asset('wp-content/uploads/2018/12/graph_tablet.png') }}"
@@ -1251,7 +1251,7 @@
                                                 style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;">
                                                 <div class="imageframe-align-center"><span
                                                         class=" fusion-imageframe imageframe-none imageframe-33 hover-type-none"><a
-                                                            class="fusion-no-lightbox" href="case-study/index.html"
+                                                            class="fusion-no-lightbox" href="{{ route('case-studies') }}"
                                                             target="_self"><img width="1430" height="1246"
                                                                 alt="See case study"
                                                                 src="{{ asset('wp-content/uploads/2018/12/graph_mobile.png') }}"
@@ -1769,7 +1769,7 @@
                                                         }
                                                     </style><a
                                                         class="fusion-button button-flat fusion-button-default-size button-custom button-3 fusion-button-default-span fusion-button-default-type"
-                                                        target="_self" href="strategy-call.html"><span
+                                                        target="_self" href="{{ route('strategy') }}"><span
                                                             class="fusion-button-text">Request my SEO strategy session
                                                             now</span></a>
                                                 </div>

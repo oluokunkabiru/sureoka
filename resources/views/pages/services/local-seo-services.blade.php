@@ -9,7 +9,7 @@
 			<div id="post-22612" class="post-22612 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; Local SEO</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2022-01-05T06:27:59-05:00</span>
 				<div class="post-content">
@@ -65,7 +65,7 @@
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"
+													target="_self" href="{{ route('strategy') }}"
 													style="margin-bottom:10px;"><span
 														class="fusion-button-text">Speak with a local SEO
 														specialist now!</span></a>
@@ -262,7 +262,7 @@
 															</style><a
 																class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span "
 																target="_self"
-																href="../strategy-call.html"><span
+																href="{{ route('strategy-call') }}"><span
 																	class="fusion-button-text">Get
 																	Started</span></a>
 														</div>
@@ -350,7 +350,7 @@
 															</style><a
 																class="fusion-button button-flat fusion-button-default-size button-custom button-3 fusion-button-default-span "
 																target="_self"
-																href="../strategy-call.html"><span
+																href="{{ route('strategy-call') }}"><span
 																	class="fusion-button-text">Get
 																	Started</span></a>
 														</div>
@@ -643,7 +643,7 @@
 											class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.3"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="../case-studies/organic-seo-case-study.html"><span
+											href="{{ route('organic-seo-case-study') }}"><span
 												class="fusion-button-text">Read the full Case
 												Study</span></a>
 									</div>
@@ -909,7 +909,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-5 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Let&#8217;s do it</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -1134,7 +1134,7 @@
 															the tactics and services that are necessary.</p>
 														<p>If you&#8217;d like to get a better idea of where
 															your SEO stands vs. where it needs to be, <a
-																href="../strategy-call.html">schedule a free
+																href="{{ route('strategy-call') }}">schedule a free
 																consultation</a> with us. Once we assess
 															your needs and your position in the market,
 															we&#8217;ll provide you with an estimate.</p>
@@ -1205,7 +1205,7 @@
 											businesses get found online.</h2>
 									</div>
 									<div class="fusion-text fusion-text-17">
-										<p>As a <a href="../about.html">full-service SEO agency</a>, Sure
+										<p>As a <a href="{{ route('about') }}">full-service SEO agency</a>, Sure
 											Oak offers local SEO services to help your business succeed in
 											the digital age. Through proven SEO tactics, our team of
 											experienced professionals will help you find more customers and
@@ -1286,7 +1286,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-6 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Schedule my free strategy
 												session</span></a>
 									</div>

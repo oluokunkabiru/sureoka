@@ -10,7 +10,7 @@ Management')
 			<div id="post-22917" class="post-22917 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; Paid Search &#038; PPC
 					Management</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-03-19T23:05:40-04:00</span>
 				<div class="post-content">
@@ -131,7 +131,7 @@ Management')
 											bread and butter of a solid SEO strategy. That being said, PPC
 											is an effective, affordable way to generate short-term revenue,
 											build brand awareness, and support your overall <a
-												href="seo-plan.html">SEO game plan</a>!</p>
+												href="{{ route('seo') }}">SEO game plan</a>!</p>
 										<p><b>Quickly increase your traffic.<br /> </b>SEO is a long game,
 											but pay-per-click ads can get you immediate visibility when you
 											target the right keywords. Go straight to the top of Google and

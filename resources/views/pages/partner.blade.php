@@ -8,7 +8,7 @@
 		<section id="content" class="full-width">
 			<div id="post-26862" class="post-26862 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Partner</span><span class="vcard rich-snippet-hidden"><span
-						class="fn"><a href="insights/author/darrenjames13.html" title="Posts by Darren James"
+						class="fn"><a href="#insights/author/darrenjames13.html" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-08-03T01:03:07-04:00</span>
 				<div class="post-content">
@@ -283,7 +283,7 @@
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-liftup"><a
-										class="fusion-column-anchor" href="partner/referral.html"><span
+										class="fusion-column-anchor" href="{{ route('partner') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 5px 5px 5px 5px;border-color:#00cfff;border-style:solid;"></span></a></span>
 							</div>
@@ -322,7 +322,7 @@
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-liftup"><a
-										class="fusion-column-anchor" href="partner/whitelabel.html"><span
+										class="fusion-column-anchor" href="{{ route('partner') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 5px 5px 5px 5px;border-color:#00cfff;border-style:solid;"></span></a></span>
 							</div>

@@ -10,7 +10,7 @@ Online Reputation Management')
 			<div id="post-27399" class="post-27399 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; Digital Public Relations and
 					Online Reputation Management</span><span class="vcard rich-snippet-hidden"><span
-						class="fn"><a href="../insights/author/darrenjames13.html"
+						class="fn"><a href="#"
 							title="Posts by Darren James" rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2020-12-24T04:34:04-05:00</span>
 				<div class="post-content">
@@ -64,7 +64,7 @@ Online Reputation Management')
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"><span
+													target="_self" href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Book a FREE Digital PR
 														&amp; ORM consultation</span></a>
 											</div>
@@ -284,7 +284,7 @@ Online Reputation Management')
 										<p>A Digital PR campaign cannot go on forever, but in order to
 											remain competitive, you will need to consistently generate as
 											many backlinks as possible. A <a
-												href="link-building-services.html">link building
+												href="{{ route('link-building') }}">link building
 												campaign</a> can start after or at the same time as a
 											digital PR campaign to give you a boost in rankings. Deciding
 											between the two will also depend on your immediate goals. Are
@@ -554,7 +554,7 @@ Online Reputation Management')
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Schedule a free Digital PR and
 												ORM consultation</span></a>
 									</div>

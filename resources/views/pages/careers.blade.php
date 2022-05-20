@@ -8,7 +8,7 @@
 		<section id="content" class="full-width">
 			<div id="post-13523" class="post-13523 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Careers</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2021-09-17T11:11:54-04:00</span>
 				<div class="post-content">

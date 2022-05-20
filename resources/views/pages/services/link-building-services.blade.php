@@ -9,7 +9,7 @@
 			<div id="post-20432" class="post-20432 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Link Building Services</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/superadmin.html" title="Posts by superadmin"
+							href="#" title="Posts by superadmin"
 							rel="author">superadmin</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:27:59-05:00</span>
 				<div class="post-content">
@@ -65,7 +65,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Speak with a link building expert
 												now</span></a>
 									</div>
@@ -251,7 +251,7 @@
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type"
 											target="_blank" rel="noopener noreferrer"
-											href="../how-to-get-edu-backlinks/index.html"><span
+											href="{{ route('how-to-get-edu-backlinks') }}"><span
 												class="fusion-button-text">Learn now</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -347,7 +347,7 @@
 											we develop a custom link building strategy that aligns with the
 											keywords and pages you want to rank higher for. We use
 											competitor analysis to uncover new link building opportunities
-											to grow <a href="../seo-tools/domain-authority-checker.html"
+											to grow <a href="{{ route('seo-tools') }}"
 												target="_blank" rel="noopener noreferrer">your domain
 												authority</a>.</p>
 									</div>
@@ -568,7 +568,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-3 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('link-building') }}"><span
 												class="fusion-button-text">Request a link building strategy
 												session now</span></a>
 									</div>
@@ -985,7 +985,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Let&#8217;s Talk</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>

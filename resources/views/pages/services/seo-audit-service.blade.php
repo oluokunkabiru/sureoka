@@ -10,7 +10,7 @@ Auditing')
 			<div id="post-22519" class="post-22519 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; Technical SEO &#038;
 					Auditing</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-06-24T01:29:28-04:00</span>
 				<div class="post-content">
@@ -66,7 +66,7 @@ Auditing')
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"><span
+													target="_self" href="{{ route('strategy') }}"><span
 														class="fusion-button-text">Speak with an SEO expert
 														now</span></a>
 											</div>
@@ -115,22 +115,22 @@ Auditing')
 											without a solid technical foundation.</p>
 										<p>Technical SEO is the process of optimizing the infrastructure of
 											a website to enable search engines to <a
-												href="../difference-crawling-vs-indexing/index.html"
+												href="{{ route('digital-public-relations') }}"
 												target="_blank" rel="noopener noreferrer">crawl and
 												index</a> its pages properly. Technical SEO doesn’t deal
 											directly with the content of the website, but rather with its
 											setup and elements like XML sitemaps, structured data, page
 											speed, URL structure, navigation, robots.txt, etc. If these
 											terms seem strange, don&#8217;t worry &#8211; Sure Oak has a <a
-												href="../seo-tools.html" target="_blank"
+												href="{{ route('seo-tools') }}" target="_blank"
 												rel="noopener noreferrer">series of SEO free tools</a> to
 											understand your site&#8217;s performance and to support
 											technical features like <a
-												href="../tools/google-xml-sitemap-generator/index.html"
+												href="{{ route('google-analytics-consultant') }}"
 												target="_blank" rel="noopener noreferrer">XML sitemap</a>,
-											<a href="../tools/robots-txt-generator/index.html"
+											<a href="{{ route('seo-tools') }}"
 												target="_blank" rel="noopener noreferrer">robots.txt</a>, <a
-												href="../tools/http-headers-checker/index.html"
+												href="{{ route('seo-tools') }}"
 												target="_blank" rel="noopener noreferrer">http headers</a>,
 											and more.</p>
 										<h2>Our Approach to Technical SEO</h2>
@@ -226,7 +226,7 @@ Auditing')
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

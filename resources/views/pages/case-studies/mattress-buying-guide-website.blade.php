@@ -9,7 +9,7 @@
 			<div id="post-25829" class="post-25829 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Mattress Nerd Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:03:43-05:00</span>
 				<div class="post-content">
@@ -285,7 +285,7 @@
 										<h3 style="color: #007499;">Leveraging Links to Boost Organic
 											Traffic on Top Pages</h3>
 										<p>Before starting our <a
-												href="../services/link-building-services.html">link building
+												href="{{ route('link-building') }}">link building
 												campaigns</a>, Mattress Nerd was already a well-established
 											website and had respectable organic traffic numbers. However,
 											the number of backlinks gained organically wasn&#8217;t enough
@@ -647,7 +647,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('strategy') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -703,7 +703,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

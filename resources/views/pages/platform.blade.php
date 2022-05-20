@@ -9,7 +9,7 @@
 			<div id="post-25286" class="post-25286 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Sure Oak Software Platform</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#insights/author/darrenjames13.html" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2020-09-05T00:37:59-04:00</span>
 				<div class="post-content">
@@ -73,7 +73,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="strategy-call.html"><span
+											target="_self" href="{{ route('insights') }}"><span
 												class="fusion-button-text">Get my free SEO strategy
 												session</span></a>
 									</div>
@@ -138,7 +138,7 @@
 													pages and optimize them with actionable to-do items.
 													Execute targeted content to drive users to your site.
 													And go at your own pace.</p>
-												<p><a href="strategy-call.html">Get my free SEO Strategy
+												<p><a href="{{ route('welcome') }}">Get my free SEO Strategy
 														Session »</a></p>
 											</div>
 										</div>
@@ -157,7 +157,7 @@
 												<p>Keyword research is only the beginning. Know exactly what
 													to do and how to do it with our step-by-step strategic
 													guidance to optimize your onsite SEO.</p>
-												<p><a href="strategy-call.html">Get my free SEO Strategy
+												<p><a href="{{ route('strategy') }}">Get my free SEO Strategy
 														Session »</a></p>
 											</div>
 										</div>
@@ -228,7 +228,7 @@
 												<p>All our service plans include 1-on-1 consulting with an
 													SEO strategist. Because we believe the best software
 													should come with the best people.</p>
-												<p><a href="strategy-call.html">Get my free SEO Strategy
+												<p><a href="{{ route('strategy-call') }}">Get my free SEO Strategy
 														Session »</a></p>
 											</div>
 										</div>
@@ -359,7 +359,7 @@
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="contact/index.html"><span
+											href="{{ route('contact') }}"><span
 												class="fusion-button-text">Schedule A Demo</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>

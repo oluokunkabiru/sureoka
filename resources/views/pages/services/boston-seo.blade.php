@@ -9,7 +9,7 @@
 			<div id="post-27514" class="post-27514 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Boston SEO Services &#038; Solutions</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2020-12-27T01:28:00-05:00</span>
 				<div class="post-content">
@@ -151,7 +151,7 @@
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="../case-studies.html"><span
+											href="{{ route('case-studies') }}"><span
 												class="fusion-button-text">View case studies</span></a>
 									</div>
 									<div class="fusion-sep-clear"></div>
@@ -279,7 +279,7 @@
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
-										class="fusion-column-anchor" href="seo-plan.html"><span
+										class="fusion-column-anchor" href="{{ route('seo-plan') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -310,7 +310,7 @@
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
-										class="fusion-column-anchor" href="../services.html"><span
+										class="fusion-column-anchor" href="{{ route('service') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -343,7 +343,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="link-building-services.html"><span
+										href="{{ route('link-building') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -411,7 +411,7 @@
 											class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="../strategy-call.html"><span
+											href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">LET&#8217;S DO IT</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -507,7 +507,7 @@
 									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 10% 0px 10%;">
 									<div class="fusion-text fusion-text-14">
 										<p>As Tom&#8217;s expertise grew, so did his vision. He&#8217;s
-											since recruited a <a href="../about.html#team">dedicated
+											since recruited a <a href="{{ route('about') }}#team">dedicated
 												team</a> of talented professionals to form Sure Oak: a
 											remote SEO agency serving businesses up and down the east coast
 											and around the world.</p>
@@ -590,7 +590,7 @@
 									</div>
 									<div class="fusion-text fusion-text-18">
 										<p><a
-												href="../insights/top-seo-companies-vs-fly-by-night-seos.html">Fly-by-night
+												href="{{ route('service') }}">Fly-by-night
 												SEO agencies</a> guarantee high rankings without reporting
 											on their progress. At Sure Oak, we stay as transparent as
 											possible with frequent strategy and KPI reports. Our clients
@@ -914,7 +914,7 @@
 													class="fusion-button button-flat button-xlarge button-custom button-3 fusion-button-default-span fusion-button-default-type fusion-animated giant-button"
 													data-animationType="shake" data-animationDuration="0.5"
 													data-animationOffset="bottom-in-view" target="_self"
-													href="../strategy-call.html"><span
+													href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Schedule my free strategy
 														session</span></a>
 											</div>
@@ -969,7 +969,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Schedule my free strategy
 												session</span></a>
 									</div>

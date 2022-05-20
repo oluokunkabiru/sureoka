@@ -9,7 +9,7 @@
 			<div id="post-25407" class="post-25407 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">We Mount TVs Local Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:08:55-05:00</span>
 				<div class="post-content">
@@ -297,7 +297,7 @@
 											drive more leads from organic search, we developed a
 											comprehensive SEO strategy that involved revamping existing
 											pages, creating long-form guides for new pages and <a
-												href="../services/link-building-services.html">generating
+												href="{{ route('strategy-call') }}">generating
 												high-quality backlinks</a> to targeted pages.</p>
 										<p>For a company like We Mount TVs, which services several specific
 											areas spread across the southeastern U.S., location is
@@ -546,7 +546,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('strategy-call') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -602,7 +602,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

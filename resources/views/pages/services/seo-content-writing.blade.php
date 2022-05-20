@@ -10,7 +10,7 @@ Optimization')
 			<div id="post-22606" class="post-22606 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; Content
 					Optimization</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:59:19-05:00</span>
 				<div class="post-content">
@@ -65,7 +65,7 @@ Optimization')
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"><span
+													target="_self" href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Speak with a content
 														strategist now</span></a>
 											</div>
@@ -140,7 +140,7 @@ Optimization')
 													style="color:#2bace2;" aria-hidden="true"></i></span>
 											<div class="fusion-li-item-content"
 												style="margin-left:38.4px;color:#424242;">
-												<p><a href="seo-optimization-services/index.html"
+												<p><a href="{{ route('seo-optimization-services') }}"
 														target="_blank" rel="noopener noreferrer">On-page
 														optimizations</a> to coincide with targeted keywords
 													and content</p>
@@ -260,7 +260,7 @@ Optimization')
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

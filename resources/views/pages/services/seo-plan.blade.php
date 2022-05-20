@@ -9,7 +9,7 @@
 			<div id="post-20482" class="post-20482 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; The SEO Game Plan</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/superadmin.html" title="Posts by superadmin"
+							href="#" title="Posts by superadmin"
 							rel="author">superadmin</a></span></span><span
 					class="updated rich-snippet-hidden">2021-06-08T00:08:39-04:00</span>
 				<div class="post-content">
@@ -73,7 +73,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Learn More</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -1016,7 +1016,7 @@
 													class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type fusion-animated giant-button"
 													data-animationType="shake" data-animationDuration="0.5"
 													data-animationOffset="bottom-in-view" target="_self"
-													href="../strategy-call.html"><span
+													href="{{ route('strategy') }}"><span
 														class="fusion-button-text">Schedule my free strategy
 														call</span></a>
 											</div>
@@ -1071,7 +1071,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-3 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Schedule my free strategy
 												call</span></a>
 									</div>
