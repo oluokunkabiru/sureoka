@@ -16,6 +16,7 @@ class PagesController extends Controller
 {
     //
     public function index(){
+
         return view('welcome');
     }
 
@@ -322,7 +323,8 @@ class PagesController extends Controller
     }
 
 
-    public function applications(ApplicationRequest $request){   
+    public function applications(ApplicationRequest $request){ 
+        $user = User::first();  
         $application = new Application();
         $application->firstname = $request->firstname;
         $application->city = $request->city;
@@ -343,7 +345,8 @@ class PagesController extends Controller
             'download_link' =>"cv/". $cvname,
             'original_name' =>$cvnames,
         ]));
-        $application->user_id = $request->user_id;
+        
+        $application->user_id = $request->user_id ? $request->user_id:$user->id;
 
         $application->save();
         Mail::to(User::find($application->user_id))->send(new ApplicationMail($application));

@@ -89,8 +89,8 @@
 														<a href="{{ route('service') }}">All</a></li>
 													<li id="menu-item-18121"
 														class="nav-item-podcast menu-item menu-item-type-post_type menu-item-object-page menu-item-18121">
-														<a href="{{ route() }}">Podcast</a></li>
-													
+														<a href="#">Podcast</a></li>
+														
 														<li id="menu-item-18129"
 														class="nav-item-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18129">
 														<a href="seo.html">SEO</a></li>

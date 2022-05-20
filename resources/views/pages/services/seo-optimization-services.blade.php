@@ -345,7 +345,7 @@ Optimization')
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="{{ route() }}"><span
+											target="_self" href="{{ route('seo') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>
