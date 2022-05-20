@@ -594,7 +594,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="{{ route(;'insights') }}"
+																		href="{{ route('insights') }}"
 																		aria-label="Why Brand Ambassadors are Necessary for Growth and Relatability with Darryl Praill">
 																		<img width="353" height="176"
 																			src="{{ asset('wp-content/uploads/2019/07/Darryl-Podcast-Image.png') }}"
