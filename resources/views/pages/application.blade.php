@@ -27,7 +27,7 @@
                                         style="font-size:36px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
                                         <h1 class="title-heading-center"
                                             style="margin:0;font-size:1em;color:#ffffff;line-height:50px;">
-                                            Let&#8217;s grow together.</h1>
+                                            {{ $job->title }}</h1>
                                     </div>
                                     <div class="fusion-sep-clear"></div>
                                     <div class="fusion-separator fusion-full-width-sep"
@@ -39,10 +39,7 @@
                                         style="font-size:22px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
                                         <h3 class="title-heading-center"
                                             style="margin:0;font-size:1em;color:#ffffff;line-height:34px;">
-                                            We’ve found the secret to a happy work life.  It’s a zesty combo
-                                            of intention, purpose-driven service, and personal freedom. And
-                                            of course, awesome people.  Grow your career, make an impact,
-                                            and enjoy the freedom of working remotely with us.</h3>
+                                           {{$job->excerpt}}.</h3>
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
@@ -67,6 +64,7 @@
                             @csrf
                             
                             <input type="hidden" name="user_id" value="{{ Request::session()->get('fromme') }}">
+                            <input type="hidden" name="job_id" value="{{ $job->id }}">
                             <div class="row">
                                 <div class="mb-3 col-md-6">
                                     <label for="firstname" class="form-label">First name</label>
@@ -154,7 +152,7 @@
 
                                 <div class="mb-3 col-md-6">
                                     <label for="zipcode" class="form-label">Zipcode</label>
-                                    <input  type="number" onKeyPress="if(this.value.length==6) return false;" placeholder="123456" class="form-control form-control-lg rounded @error('zipcode') is-invalid @enderror" name="zipcode" value="{{ old('zipcode') }}" required>
+                                    <input  type="number" onKeyPress="if(this.value.length==6) return false;"  class="form-control form-control-lg rounded @error('zipcode') is-invalid @enderror" name="zipcode" value="{{ old('zipcode') }}" required>
                                     @error('zipcode')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
@@ -295,7 +293,7 @@
                                             }
                                         </style><a
                                             class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
-                                            target="_self" href="{{ route('job') }}"><span
+                                            target="_self" href="{{ route('job', $job->slug) }}"><span
                                                 class="fusion-button-text">Learn more about Sure Oak&#x27;s
                                                 culture</span></a>
                                     </div>

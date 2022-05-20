@@ -55,8 +55,8 @@ Route::prefix('about')->group(function () {
 Route::prefix('careers')->group(function () {
     Route::get('job/{id}','PagesController@careesme')->name('careersme');
     Route::get('/', 'PagesController@careers')->name('careers');
-    Route::get('jobs', 'PagesController@job')->name('job');
-    Route::get('jobs/application', 'PagesController@application')->name('application');
+    Route::get('jobs/{id}', 'PagesController@job')->name('job');
+    Route::get('jobs/application/{id}', 'PagesController@application')->name('application');
     Route::post('applications', 'PagesController@applications')->name('applications');
     Route::get('jobs/application/thanks/{id}', 'PagesController@applicationThanks')->name('applicationthanks');
   

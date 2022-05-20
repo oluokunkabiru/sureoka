@@ -150,30 +150,18 @@
                                         </style><a
                                             class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type btn-xtra-padding"
                                             target="_blank" rel="noopener noreferrer"
-                                            href="{{ route('application') }}"><span
+                                            href="{{ route('application', $job->slug) }}"><span
                                                 class="fusion-button-text">Apply now</span></a>
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
                             </div>
-                            <div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
+                            {{-- <div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
                                 style="margin-top:0px;margin-bottom:20px;">
                                 <div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
                                     style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 30px 0px 0px 0px;">
                                     <div class="fusion-text fusion-text-1">
-                                        <p>Are you an experienced SEO Strategist who wants to work remotely
-                                            and full-time with an awesome team?</p>
-                                        <p>We’re actively seeking a proven, professional, and reliable SEO
-                                            Strategist who can drive results for clients with great
-                                            attention to detail. You will already know SEO inside and out,
-                                            with the ability to properly craft and execute strategic
-                                            activities to meet client goals.</p>
-                                        <p>At Sure Oak, our mission is to empower people to reach their full
-                                            potential and live their wildest dreams. We believe in ethical
-                                            and results-driven SEO services that provide real value to our
-                                            customers. Our culture is fun, supportive, and forward-thinking.
-                                            We believe in continuous self-improvement and growth, and being
-                                            awesome human beings to each other.</p>
+                                        <p>{{ $job->excerpt }}</p>
                                         <p><a href="{{ route('careers') }}">Learn more about what a career at Sure Oak
                                                 is like here</a>.</p>
                                         <h3>Our Ideal Candidate:</h3>
@@ -429,34 +417,7 @@
                                         </li>
                                     </ul>
                                     <div class="fusion-text fusion-text-5">
-                                        <h3>About Sure Oak&#8217;s Culture:</h3>
-                                        <p>Sure Oak’s mission is to empower people to reach their full
-                                            potential and live their wildest dreams. We value being awesome,
-                                            continuous self-improvement, and learning. Our culture is fun,
-                                            supportive, forward-thinking, and open-minded.</p>
-                                        <p>At Sure Oak, growth is our thing. We live it, breathe it, eat it
-                                            for breakfast every morning. We’re helping grow businesses and
-                                            building dreams by being awesome every day, and in the process,
-                                            we’re growing too. Enjoy the freedom of working remotely, and
-                                            join us on our quest to live with intention and make the most of
-                                            every moment, every opportunity.</p>
-                                        <p>Our team is made up of go-getters and consummate learners. We are
-                                            the die-hard analysts, creative types, and problem solvers
-                                            toiling behind the scenes to get our clients ranking higher on
-                                            Google. Above all, our agency is a family that abides by the
-                                            mantra of giving first.</p>
-                                        <p>At Sure Oak, we deeply value personal freedom, which is why our
-                                            team has the ability to work 100% remotely. We have the freedom
-                                            to choose where we live, where we work, and what we wear. It’s a
-                                            beautiful thing!</p>
-                                        <p><strong>Location</strong>: Anywhere<br /> <strong>Hours</strong>:
-                                            Part-time<br /> <strong>Job Type</strong>: Contract<br />
-                                            <strong>Experience</strong>: Entry-level<br /> <strong>Date
-                                                Posted</strong>: 4/20/2018<br /> <strong>Status</strong>:
-                                             Open</p>
-                                        <p>Sure Oak LLC is an Affirmative Action/Equal Opportunity Employer,
-                                            and we are committed to hiring a diverse and talented workforce.
-                                            EOE/AA/M/F/D/V.</p>
+                                       {!! $job->description !!}
                                     </div>
                                     <div class="fusion-aligncenter">
                                         <style>
@@ -488,12 +449,14 @@
                                         </style><a
                                             class="fusion-button button-flat button-xlarge button-custom button-3 fusion-button-default-span fusion-button-default-type btn-xtra-padding"
                                             target="_blank" rel="noopener noreferrer"
-                                            href="{{ route('application') }}"><span
+                                            href="{{ route('application', $job->excerpt) }}"><span
                                                 class="fusion-button-text">Apply now</span></a>
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
-                            </div>
+                            </div> --}}
+
+                            {!! $job->description !!}
                         </div>
                     </div>
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"

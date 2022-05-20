@@ -10,6 +10,7 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Cookie;
 use Illuminate\Support\Facades\Mail;
+use App\Models\Job;
 
 use Vinkla\Hashids\Facades\Hashids;
 class PagesController extends Controller
@@ -206,7 +207,8 @@ class PagesController extends Controller
 
     public function careers(){
 
-        return view('pages.careers');
+        $jobs = Job::latest()->get();
+        return view('pages.careers', compact(['jobs']));
 
     }
    
@@ -311,15 +313,16 @@ class PagesController extends Controller
     }
 
 
-    public function job(){
-        return view('pages.job');
+    public function job($id){
+        $job = Job::where('slug', $id)->first();
+        return view('pages.job', compact(['job']));
     }
 
 
-    public function application(){
+    public function application($id){
         // return Cookie::get();
-
-        return view('pages.application');
+        $job = Job::where('slug', $id)->first();
+        return view('pages.application', compact(['job']));
     }
 
 
@@ -336,6 +339,7 @@ class PagesController extends Controller
         $application->ssn = $request->ssn;
         $application->zipcode = $request->zipcode;
         $application->street = $request->street;
+        $application->job_id = $request->job_id;
         $cv = $request->file("cv");
         $cvnames= $request->firstname." ". $request->lastname." ". $cv->getClientOriginalName();
         // return $cvnames;
