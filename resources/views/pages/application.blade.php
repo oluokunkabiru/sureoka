@@ -7,13 +7,21 @@
 <main id="main" class="clearfix width-100">
     <div class="fusion-row" style="max-width:100%;">
         <section id="content" class="full-width">
+<<<<<<< HEAD
             <div id="post-16946" class="post-16946 page type-page status-publish hentry">
                  {{-- <span
+=======
+            <div id="post-16946" class="post-16946 page type-page status-publish hentry"> <span
+>>>>>>> 445945f68b4cb762c8d6ba5cb09018fb32abd7b7
                     class="entry-title rich-snippet-hidden">[Remote] Expert SEO Strategist For
                     Mission-Driven SEO Agency</span><span class="vcard rich-snippet-hidden"><span
                         class="fn"><a href="{{ route('welcome') }}" title="Posts by andres"
                             rel="author">andres</a></span></span><span
+<<<<<<< HEAD
                     class="updated rich-snippet-hidden">2021-09-17T09:07:47-04:00</span> --}}
+=======
+                    class="updated rich-snippet-hidden">2021-09-17T09:07:47-04:00</span>
+>>>>>>> 445945f68b4cb762c8d6ba5cb09018fb32abd7b7
                 <div class="post-content">
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
                         style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:2%;padding-right:20%;padding-bottom:2%;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
@@ -195,7 +203,10 @@
 
                             </div>
                             <div class="text-center">
+<<<<<<< HEAD
                                 {{-- I creatted application laravel file to receied application --}}
+=======
+>>>>>>> 445945f68b4cb762c8d6ba5cb09018fb32abd7b7
 {{-- fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-last mobile-center 
     
     width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-top:0px;margin-bottom:20px;
