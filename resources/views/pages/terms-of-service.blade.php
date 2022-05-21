@@ -1,10 +1,15 @@
+@extends('layouts.app')
+@section('title', 'Terms of Service')
+	
+	
+@section('content')
 <main id="main" class="clearfix ">
 	<div class="fusion-row" style="">
 		<section id="content" style="width: 100%;">
 			<div id="post-17840" class="post-17840 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Terms of Service</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="insights/author/superadmin.html" title="Posts by superadmin"
+							href="#insights/author/superadmin.html" title="Posts by superadmin"
 							rel="author">superadmin</a></span></span><span
 					class="updated rich-snippet-hidden">2022-02-22T10:06:02-05:00</span>
 				<div class="post-content">
@@ -19,7 +24,8 @@
 										<h1>Terms of Service</h1>
 										<p>Sure Oak Solutions LLC Terms of Service</p>
 										<h3>I. Terms</h3>
-										<p>By accessing the website at <a href="index.html" target="_blank"
+										
+										<p>By accessing the website at <a href="{{ route('welcome') }}" target="_blank"
 												rel="nofollow noopener noreferrer">https://www.sureoak.com/</a>,
 											you are agreeing to be bound by these terms of service, all
 											applicable laws and regulations, and agree that you are
@@ -152,3 +158,4 @@
 		</section>
 	</div>
 </main>
+@endsection

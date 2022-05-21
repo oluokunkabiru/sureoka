@@ -1,9 +1,14 @@
+@extends('layouts.app')
+@section('title', 'Privacy Policy')
+	
+	
+@section('content')
 <main id="main" class="clearfix ">
 	<div class="fusion-row" style="">
 		<section id="content" style="width: 100%;">
 			<div id="post-13459" class="post-13459 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Privacy Policy</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#insights/author/tom.html"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T11:10:25-05:00</span>
 				<div class="post-content">
@@ -31,7 +36,7 @@
 											with our website. By visiting Sure Oak&#8217;s website and using
 											Sure Oak&#8217;s Platform or other Services, you are accepting
 											the practices described in this Privacy Policy, and consent to
-											<a href="terms-of-service.html">Sure Oak&#8217;s Terms of
+											<a href="{{ route('terms-of-service') }}">Sure Oak&#8217;s Terms of
 												Use</a>.</p>
 										<h4>What personal information do we collect from the people that
 											visit our blog, website or app?</h4>
@@ -284,7 +289,7 @@
 										<p>If at any time you would like to unsubscribe from receiving
 											future emails, you can follow the instructions at the bottom of
 											each email &#8211; or contact us at <a
-												href="cdn-cgi/l/email-protection.html#86eee3eaeae9c6f5f3f4e3e9e7eda8e5e9eb"><span
+												href="#cdn-cgi/l/email-protection.html#86eee3eaeae9c6f5f3f4e3e9e7eda8e5e9eb"><span
 													class="__cf_email__"
 													data-cfemail="d3bbb6bfbfbc93a0a6a1b6bcb2b8fdb0bcbe">[email&#160;protected]</span></a>
 											&#8211; and we will promptly remove you from ALL correspondence.
@@ -294,7 +299,7 @@
 											contact us using the information below.</p>
 										<p>www.sureoak.com<br /> 81 Prospect St<br /> Brooklyn, NY
 											11201<br /> United States<br /> <a
-												href="cdn-cgi/l/email-protection.html" class="__cf_email__"
+												href="#cdn-cgi/l/email-protection.html" class="__cf_email__"
 												data-cfemail="8de5e8e1e1e2cdfef8ffe8e2ece6a3eee2e0">[email&#160;protected]</a>
 										</p>
 										<p>Last Edited on 2020-10-15</p>
@@ -309,3 +314,4 @@
 		</section>
 	</div>
 </main>
+@endsection

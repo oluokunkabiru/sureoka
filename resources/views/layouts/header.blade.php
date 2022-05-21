@@ -133,23 +133,23 @@
 						<div class="fusion-row">
 							<div class="fusion-logo" data-margin-top="10px" data-margin-bottom="10px"
 								data-margin-left="0px" data-margin-right="0px"> <a class="fusion-logo-link"
-									href="{{ route('welcome') }}"> <img src="{{ asset('wp-content/uploads/2018/11/sureoak_logo-1x-1.png') }}"
-										srcset="{{ asset('wp-content/uploads/2018/11/sureoak_logo-1x-1.png 1x') }}, {{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png 2x') }}"
+									href="{{ route('welcome') }}"> <img src="{{ Voyager::image( setting('site.logo')) }}"
+										srcset="{{ Voyager::image( setting('site.logo')) }}, {{ Voyager::image( setting('site.logo')) }}"
 										width="223" height="63" style="max-height:63px;height:auto;"
-										alt="Sure Oak SEO Logo"
-										data-retina_logo_url="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
+										alt="{{ setting('site.title') }}"
+										data-retina_logo_url="{{ Voyager::image( setting('site.logo')) }}"
 										class="fusion-standard-logo" /> <img
-										src="{{ asset('wp-content/uploads/2019/04/sureoak_logo-1x-1-Mobile.jpg') }}"
-										srcset="{{ asset('wp-content/uploads/2019/04/sureoak_logo-1x-1-Mobile.jpg') }} 1x, {{ asset('wp-content/uploads/2019/04/sureoak_logo-ret.jpg') }} 2x"
+										src="{{ Voyager::image( setting('site.logo')) }}"
+										srcset="{{ Voyager::image( setting('site.logo')) }} 1x, {{ Voyager::image( setting('site.logo')) }} 2x"
 										width="150" height="42" style="max-height:42px;height:auto;"
-										alt="Sure Oak SEO Logo"
-										data-retina_logo_url="{{ asset('wp-content/uploads/2019/04/sureoak_logo-ret.jpg') }}"
+										alt="{{ setting('site.title') }}"
+										data-retina_logo_url="{{ Voyager::image( setting('site.logo')) }}"
 										class="fusion-mobile-logo" /> <img
-										src="{{ asset('wp-content/uploads/2018/11/sureoak_logo-1x-1.png') }}"
-										srcset="{{ asset('wp-content/uploads/2018/11/sureoak_logo-1x-1.png') }} 1x, {{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }} 2x"
+										src="{{ Voyager::image( setting('site.logo')) }}"
+										srcset="{{ Voyager::image( setting('site.logo')) }} 1x, {{ Voyager::image( setting('site.logo')) }} 2x"
 										width="223" height="63" style="max-height:63px;height:auto;"
-										alt="Sure Oak SEO Logo"
-										data-retina_logo_url="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
+										alt="{{ setting('site.title') }}"
+										data-retina_logo_url="{{ Voyager::image( setting('site.logo')) }}"
 										class="fusion-sticky-logo" /> </a></div>
 							<nav class="fusion-main-menu" aria-label="Main Menu">
 								<ul id="menu-primary-navigation-mega-menu" class="fusion-menu">
@@ -363,10 +363,9 @@
 									</li>
 									<li id="menu-item-17919"
 										class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-17919 fusion-menu-item-button"
-										data-classes="nav-button" data-item-id="17919"><a href="{{ route('strategy-call') }}"
+										data-classes="nav-button" data-item-id="17919"><a href="{{ route('careers') }}"
 											class="fusion-bar-highlight"><span
-												class="menu-text fusion-button button-default button-large">Get my free
-												SEO strategy session</span></a></li>
+												class="menu-text fusion-button button-default button-large">Career</span></a></li>
 								</ul>
 							</nav>
 							<nav class="fusion-main-menu fusion-sticky-menu" aria-label="Main Menu Sticky">
@@ -576,10 +575,9 @@
 										</ul>
 									</li>
 									<li class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-17919 fusion-menu-item-button"
-										data-classes="nav-button" data-item-id="17919"><a href="strategy-call.html{{ route('strategy-call') }}"
+										data-classes="nav-button" data-item-id="17919"><a href="{{ route('careers') }}"
 											class="fusion-bar-highlight"><span
-												class="menu-text fusion-button button-default button-large">Get my free
-												SEO strategy session</span></a></li>
+												class="menu-text fusion-button button-default button-large">Careers</span></a></li>
 								</ul>
 							</nav>
 							<div class="fusion-mobile-navigation">
@@ -789,10 +787,9 @@
 										</ul>
 									</li>
 									<li class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-17919 fusion-menu-item-button"
-										data-classes="nav-button" data-item-id="17919"><a href="{{ route('strategy-call') }}"
+										data-classes="nav-button" data-item-id="17919"><a href="{{ route('careers') }}"
 											class="fusion-bar-highlight"><span
-												class="menu-text fusion-button button-default button-large">Get my free
-												SEO strategy session</span></a></li>
+												class="menu-text fusion-button button-default button-large">Career</span></a></li>
 								</ul>
 							</div>
 							<div class="fusion-mobile-menu-icons"> <a href="#" class="fusion-icon awb-icon-bars"

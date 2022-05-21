@@ -9,13 +9,13 @@
 			<div id="post-26783" class="post-26783 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Awards</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="{{ route('insights') }}" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2022-03-29T23:41:47-04:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none services-heroblock nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:50px;padding-right:4%;padding-bottom:0px;padding-left:8%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/09/awards-header.jpg">
+						data-bg="{{ asset('wp-content/uploads/2020/09/awards-header.jpg') }}') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;" id="intro">
@@ -86,7 +86,7 @@
 												alt="Best SEO Agencies in New York City"
 												title="best-seo-company-2022"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27200%27%20height%3D%27200%27%20viewBox%3D%270%200%20200%20200%27%3E%3Crect%20width%3D%27200%27%20height%3D%27200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/03/best-seo-company-2022.png"
+												data-orig-src="{{ asset('wp-content/uploads/2022/03/best-seo-company-2022.png') }}"
 												class="lazyload img-responsive wp-image-28540" /></span>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -103,11 +103,11 @@
 												target="_blank" aria-label="2021-best-seo-firm-new-york"
 												rel="noopener noreferrer"><img width="250" height="250"
 													alt="2021 Best SEO Firms in New York City"
-													src="../wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png"
+													src="{{ asset('wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png') }}"
+													data-orig-src="{{ asset('wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png') }}"
 													class="lazyload img-responsive wp-image-27242"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2020/12/2021-best-seo-firm-new-york-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png 250w"
+													data-srcset="{{ asset('wp-content/uploads/2020/12/2021-best-seo-firm-new-york-200x200.png') }} 200w, {{ asset('wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png') }} 250w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 800px) 100vw, 200px" /></a></span>
 									</div>
@@ -125,11 +125,11 @@
 												aria-label="award-top-seo-company-2021"
 												rel="noopener noreferrer"><img width="250" height="250"
 													alt="Clutch Top SEO Company 2021"
-													src="../wp-content/uploads/2021/03/award-top-seo-company-2021.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/03/award-top-seo-company-2021.png"
+													src="{{ asset('wp-content/uploads/2021/03/award-top-seo-company-2021.png') }}"
+													data-orig-src="{{ asset('wp-content/uploads/2021/03/award-top-seo-company-2021.png') }}"
 													class="lazyload img-responsive wp-image-27680"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2021/03/award-top-seo-company-2021-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2021/03/award-top-seo-company-2021.png 250w"
+													data-srcset="{{ asset('wp-content/uploads/2021/03/award-top-seo-company-2021-200x200.png') }} 200w, {{ asset('wp-content/uploads/2021/03/award-top-seo-company-2021.png') }} 250w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 800px) 100vw, 200px" /></a></span>
 									</div>
@@ -147,11 +147,11 @@
 												target="_blank" aria-label="enterprise-seo-company"
 												rel="noopener noreferrer"><img width="250" height="250"
 													alt="Top 10 Enterprise SEO Company"
-													src="../wp-content/uploads/2020/09/enterprise-seo-company.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/enterprise-seo-company.png"
+													src="{{ asset('wp-content/uploads/2020/09/enterprise-seo-company.png') }}"
+													data-orig-src="{{ asset('wp-content/uploads/2020/09/enterprise-seo-company.png') }}"
 													class="lazyload img-responsive wp-image-26813"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/enterprise-seo-company-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/enterprise-seo-company.png 250w"
+													data-srcset="{{ asset('wp-content/uploads/2020/09/enterprise-seo-company-200x200.png') }} 200w, {{ asset('wp-content/uploads/2020/09/enterprise-seo-company.png') }} 250w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 800px) 100vw, 200px" /></a></span>
 									</div>
@@ -169,11 +169,11 @@
 												aria-label="goodfirms-top-seo-services-company"
 												rel="noopener noreferrer"><img width="250" height="250"
 													alt="Goodfirms Top SEO Services Company"
-													src="../wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png"
+													src="{{ asset('wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png') }}"
+													data-orig-src="{{ asset('wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png') }}"
 													class="lazyload img-responsive wp-image-26816"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/goodfirms-top-seo-services-company-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png 250w"
+													data-srcset="{{ asset('wp-content/uploads/2020/09/goodfirms-top-seo-services-company-200x200.png') }} 200w, {{ asset('wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png') }} 250w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 800px) 100vw, 200px" /></a></span>
 									</div>
@@ -188,11 +188,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img
 												width="250" height="250" alt="Top Rated SEO Agency"
 												title="top-rated-seo-agency"
-												src="../wp-content/uploads/2020/09/top-rated-seo-agency.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/top-rated-seo-agency.jpg"
+												src="{{ asset('wp-content/uploads/2020/09/top-rated-seo-agency.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/09/top-rated-seo-agency.jpg') }}"
 												class="lazyload img-responsive wp-image-26819"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/top-rated-seo-agency-200x200.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/09/top-rated-seo-agency.jpg 250w"
+												data-srcset="{{ asset('wp-content/uploads/2020/09/top-rated-seo-agency-200x200.jpg') }} 200w, {{ asset('wp-content/uploads/2020/09/top-rated-seo-agency.jpg') }} 250w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 200px" /></span>
 									</div>
@@ -242,11 +242,11 @@
 														style="max-width:152px;"><img width="250"
 															height="250" alt="Best SEM Company"
 															title="best-sem-company"
-															src="../wp-content/uploads/2020/12/best-sem-company.png"
-															data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/12/best-sem-company.png"
+															src="{{ asset('wp-content/uploads/2020/12/best-sem-company.png') }}"
+															data-orig-src="{{ asset('wp-content/uploads/2020/12/best-sem-company.png') }}"
 															class="lazyload img-responsive wp-image-27261"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-															data-srcset="https://www.sureoak.com/wp-content/uploads/2020/12/best-sem-company-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2020/12/best-sem-company.png 250w"
+															data-srcset="{{ asset('wp-content/uploads/2020/12/best-sem-company-200x200.png') }} 200w, {{ asset('wp-content/uploads/2020/12/best-sem-company.png') }} 250w"
 															data-sizes="auto"
 															data-orig-sizes="(max-width: 800px) 100vw, 250px" /></span>
 												</div>
@@ -268,11 +268,11 @@
 															height="250"
 															alt="Best Search Engine Marketing Agency - New York"
 															title="best-sem-agency-new-york"
-															src="../wp-content/uploads/2021/09/best-sem-agency-new-york.png"
-															data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/09/best-sem-agency-new-york.png"
+															src="{{ asset('wp-content/uploads/2021/09/best-sem-agency-new-york.png') }}"
+															data-orig-src="{{ asset('wp-content/uploads/2021/09/best-sem-agency-new-york.png') }}"
 															class="lazyload img-responsive wp-image-28085"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-															data-srcset="https://www.sureoak.com/wp-content/uploads/2021/09/best-sem-agency-new-york-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2021/09/best-sem-agency-new-york.png 250w"
+															data-srcset="{{ asset('wp-content/uploads/2021/09/best-sem-agency-new-york-200x200.png') }} 200w, {{ asset('wp-content/uploads/2021/09/best-sem-agency-new-york.png') }} 250w"
 															data-sizes="auto"
 															data-orig-sizes="(max-width: 800px) 100vw, 250px" /></span>
 												</div>
@@ -303,15 +303,15 @@
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-9 hover-type-none"
 											style="max-width:192px;"><a class="fusion-no-lightbox"
-												href="../insights/sure-oak-awarded-top-b2b-company.html"
+												href="{{ route('insights') }}"
 												target="_self" aria-label="clutch-top-seo-consultants"><img
 													width="250" height="250"
 													alt="Clutch Top SEO Consultants"
-													src="../wp-content/uploads/2020/09/clutch-top-seo-consultants.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/clutch-top-seo-consultants.png"
+													src="{{ asset('wp-content/uploads/2020/09/clutch-top-seo-consultants.png') }}"
+													data-orig-src="{{ asset('wp-content/uploads/2020/09/clutch-top-seo-consultants.png') }}"
 													class="lazyload img-responsive wp-image-26812"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/clutch-top-seo-consultants-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/clutch-top-seo-consultants.png 250w"
+													data-srcset="{{ asset('wp-content/uploads/2020/09/clutch-top-seo-consultants-200x200.png') }} 200w, {{ asset('wp-content/uploads/2020/09/clutch-top-seo-consultants.png') }} 250w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 800px) 100vw, 200px" /></a></span>
 									</div>
@@ -333,15 +333,15 @@
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"
 											style="max-width:192px;"><a class="fusion-no-lightbox"
-												href="../insights/sure-oak-awarded-top-b2b-company.html"
+												href="{{ route('insights') }}"
 												target="_self" aria-label="clutch-top-b2b-company"><img
 													width="250" height="250"
 													alt="Clutch Top B2B Company New York"
-													src="../wp-content/uploads/2020/10/clutch-top-b2b-company.png"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/10/clutch-top-b2b-company.png"
+													src="{{ asset('wp-content/uploads/2020/10/clutch-top-b2b-company.png') }}"
+													data-orig-src="{{ asset('wp-content/uploads/2020/10/clutch-top-b2b-company.png') }}"
 													class="lazyload img-responsive wp-image-27089"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-srcset="https://www.sureoak.com/wp-content/uploads/2020/10/clutch-top-b2b-company-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2020/10/clutch-top-b2b-company.png 250w"
+													data-srcset="{{ asset('wp-content/uploads/2020/10/clutch-top-b2b-company-200x200.png') }} 200w, {{ asset('wp-content/uploads/2020/10/clutch-top-b2b-company.png') }} 250w"
 													data-sizes="auto"
 													data-orig-sizes="(max-width: 800px) 100vw, 200px" /></a></span>
 									</div>
@@ -386,11 +386,11 @@
 															height="250"
 															alt="Clutch Top Digital Marketing Agency 2020"
 															title="awards-badges_17"
-															src="../wp-content/uploads/2020/09/awards-badges_17.png"
-															data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/awards-badges_17.png"
+															src="{{ asset('wp-content/uploads/2020/09/awards-badges_17.png') }}"
+															data-orig-src="{{ asset('wp-content/uploads/2020/09/awards-badges_17.png') }}"
 															class="lazyload img-responsive wp-image-26810"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-															data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/awards-badges_17-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/awards-badges_17.png 250w"
+															data-srcset="{{ asset('wp-content/uploads/2020/09/awards-badges_17-200x200.png') }} 200w, {{ asset('wp-content/uploads/2020/09/awards-badges_17.png') }} 250w"
 															data-sizes="auto"
 															data-orig-sizes="(max-width: 800px) 100vw, 250px" /></span>
 												</div>
@@ -407,11 +407,11 @@
 															height="250"
 															alt="Goodfirms Top Digital Marketing Company"
 															title="goodfirms-top-digital-marketing-company"
-															src="../wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png"
-															data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png"
+															src="{{ asset('wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png') }}"
+															data-orig-src="{{ asset('wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png') }}"
 															class="lazyload img-responsive wp-image-26815"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-															data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png 250w"
+															data-srcset="{{ asset('wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company-200x200.png') }} 200w, {{ asset('wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png') }} 250w"
 															data-sizes="auto"
 															data-orig-sizes="(max-width: 800px) 100vw, 250px" /></span>
 												</div>
@@ -429,7 +429,7 @@
 															alt="Marketing &amp; Advertising Winner"
 															title="marketing-advertising-winnner"
 															src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27200%27%20height%3D%27200%27%20viewBox%3D%270%200%20200%20200%27%3E%3Crect%20width%3D%27200%27%20height%3D%27200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-															data-orig-src="https://www.sureoak.com/wp-content/uploads/2022/03/marketing-advertising-winnner.png"
+															data-orig-src="{{ asset('wp-content/uploads/2022/03/marketing-advertising-winnner.png') }}"
 															class="lazyload img-responsive wp-image-28543" /></span>
 												</div>
 												<div class="fusion-clearfix"></div>
@@ -475,11 +475,11 @@
 														target="_blank" aria-label="featured-upcity"
 														rel="noopener noreferrer"><img width="448"
 															height="115" alt="Featured on UpCity"
-															src="../wp-content/uploads/2020/09/featured-upcity.png"
-															data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/featured-upcity.png"
+															src="{{ asset('wp-content/uploads/2020/09/featured-upcity.png') }}"
+															data-orig-src="{{ asset('wp-content/uploads/2020/09/featured-upcity.png') }}"
 															class="lazyload img-responsive wp-image-26814"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27448%27%20height%3D%27115%27%20viewBox%3D%270%200%20448%20115%27%3E%3Crect%20width%3D%27448%27%20height%3D%27115%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-															data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/featured-upcity-200x51.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/featured-upcity-400x103.png 400w, https://www.sureoak.com/wp-content/uploads/2020/09/featured-upcity.png 448w"
+															data-srcset="{{ asset('wp-content/uploads/2020/09/featured-upcity-200x51.png') }} 200w, {{ asset('wp-content/uploads/2020/09/featured-upcity-400x103.png') }} 400w, {{ asset('wp-content/uploads/2020/09/featured-upcity.png') }} 448w"
 															data-sizes="auto"
 															data-orig-sizes="(max-width: 800px) 100vw, 448px" /></a></span>
 											</div>
@@ -500,7 +500,7 @@
 														width="124" height="240" alt="2020 Centauri Winner"
 														title="2020-centauri-winner"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27124%27%20height%3D%27240%27%20viewBox%3D%270%200%20124%20240%27%3E%3Crect%20width%3D%27124%27%20height%3D%27240%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/2020-centauri-winner.png"
+														data-orig-src="{{ asset('wp-content/uploads/2020/09/2020-centauri-winner.png') }}"
 														class="lazyload img-responsive wp-image-26809" /></span>
 											</div>
 										</div>
@@ -520,11 +520,11 @@
 														width="385" height="115"
 														alt="Sortlist Verified Agency"
 														title="sl-verified-agency"
-														src="../wp-content/uploads/2020/09/sl-verified-agency.png"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/sl-verified-agency.png"
+														src="{{ asset('wp-content/uploads/2020/09/sl-verified-agency.png') }}"
+														data-orig-src="{{ asset('wp-content/uploads/2020/09/sl-verified-agency.png') }}"
 														class="lazyload img-responsive wp-image-26818"
 														srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27385%27%20height%3D%27115%27%20viewBox%3D%270%200%20385%20115%27%3E%3Crect%20width%3D%27385%27%20height%3D%27115%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/sl-verified-agency-200x60.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/sl-verified-agency.png 385w"
+														data-srcset="{{ asset('wp-content/uploads/2020/09/sl-verified-agency-200x60.png') }} 200w, {{ asset('wp-content/uploads/2020/09/sl-verified-agency.png') }} 385w"
 														data-sizes="auto"
 														data-orig-sizes="(max-width: 800px) 100vw, 385px" /></span>
 											</div>
@@ -537,7 +537,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns lazyload"
 						style="background-color: #145a84;background-position: center center;background-repeat: no-repeat;padding-top:40px;padding-right:15%;padding-bottom:20px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/09/awards-featured-in-bg.png">
+						data-bg="{{ asset('wp-content/uploads/2020/09/awards-featured-in-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-21 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height"
 								style="margin-top:0px;margin-bottom:0px;">
@@ -560,11 +560,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-17 hover-type-none"><img
 												width="250" height="90" alt="SEMRush logo"
 												title="icon_semrush"
-												src="../wp-content/uploads/2020/09/icon_semrush.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/icon_semrush.png"
+												src="{{ asset('wp-content/uploads/2020/09/icon_semrush.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/09/icon_semrush.png') }}"
 												class="lazyload img-responsive wp-image-26806"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%2790%27%20viewBox%3D%270%200%20250%2090%27%3E%3Crect%20width%3D%27250%27%20height%3D%2790%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/icon_semrush-200x72.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/icon_semrush.png 250w"
+												data-srcset="{{ asset('wp-content/uploads/2020/09/icon_semrush-200x72.png') }} 200w, {{ asset('wp-content/uploads/2020/09/icon_semrush.png') }} 250w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 250px" /></span>
 									</div>
@@ -595,11 +595,11 @@
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-18 hover-type-none"><img
 												width="250" height="90" alt="Moz logo" title="icon_moz"
-												src="../wp-content/uploads/2020/09/icon_moz.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/icon_moz.png"
+												src="{{ asset('wp-content/uploads/2020/09/icon_moz.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/09/icon_moz.png') }}"
 												class="lazyload img-responsive wp-image-26804"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%2790%27%20viewBox%3D%270%200%20250%2090%27%3E%3Crect%20width%3D%27250%27%20height%3D%2790%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/icon_moz-200x72.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/icon_moz.png 250w"
+												data-srcset="{{ asset('wp-content/uploads/2020/09/icon_moz-200x72.png') }} 200w, {{ asset('wp-content/uploads/2020/09/icon_moz.png') }} 250w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 250px" /></span>
 									</div>
@@ -632,11 +632,11 @@
 												width="250" height="90"
 												alt="Growth Marketing Conference logo"
 												title="icon_gmc-conference"
-												src="../wp-content/uploads/2020/09/icon_gmc-conference.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/icon_gmc-conference.png"
+												src="{{ asset('wp-content/uploads/2020/09/icon_gmc-conference.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/09/icon_gmc-conference.png') }}"
 												class="lazyload img-responsive wp-image-26803"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%2790%27%20viewBox%3D%270%200%20250%2090%27%3E%3Crect%20width%3D%27250%27%20height%3D%2790%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/icon_gmc-conference-200x72.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/icon_gmc-conference.png 250w"
+												data-srcset="{{ asset('wp-content/uploads/2020/09/icon_gmc-conference-200x72.png') }} 200w, {{ asset('wp-content/uploads/2020/09/icon_gmc-conference.png') }} 250w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 250px" /></span>
 									</div>
@@ -668,11 +668,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-20 hover-type-none"><img
 												width="250" height="90" alt="Search Engine Watch logo"
 												title="icon_search-engine-watch"
-												src="../wp-content/uploads/2020/09/icon_search-engine-watch.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/icon_search-engine-watch.png"
+												src="{{ asset('wp-content/uploads/2020/09/icon_search-engine-watch.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/09/icon_search-engine-watch.png') }}"
 												class="lazyload img-responsive wp-image-26805"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%2790%27%20viewBox%3D%270%200%20250%2090%27%3E%3Crect%20width%3D%27250%27%20height%3D%2790%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/09/icon_search-engine-watch-200x72.png 200w, https://www.sureoak.com/wp-content/uploads/2020/09/icon_search-engine-watch.png 250w"
+												data-srcset="{{ asset('wp-content/uploads/2020/09/icon_search-engine-watch-200x72.png') }} 200w, {{ asset('wp-content/uploads/2020/09/icon_search-engine-watch.png') }} 250w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 250px" /></span>
 									</div>
@@ -700,7 +700,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center top;background-repeat: no-repeat;padding-top:50px;padding-right:20px;padding-bottom:50px;padding-left:20px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2020/09/awards-dots-bg.png"
+						data-bg="{{ asset('wp-content/uploads/2020/09/awards-dots-bg.png') }}"
 						id="testimonials">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-26 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height"
@@ -882,7 +882,7 @@
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type fusion-animated giant-button"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="testimonials.html"><span class="fusion-button-text">Read
+											href="{{ route('testimonials') }}"><span class="fusion-button-text">Read
 												more testimonials</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>

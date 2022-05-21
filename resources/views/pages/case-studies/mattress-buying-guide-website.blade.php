@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'Mattress Nerd Case Study')
 	
 	
 @section('content')
@@ -9,13 +9,13 @@
 			<div id="post-25829" class="post-25829 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Mattress Nerd Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:03:43-05:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:5%;padding-right:25%;padding-bottom:5%;padding-left:25%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-header-desktop.png"
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-desktop.png') }}"
 						id="desktop-header">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
@@ -36,7 +36,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:30px;padding-right:10%;padding-bottom:30px;padding-left:10%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -56,7 +56,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:10%;padding-right:5%;padding-bottom:0px;padding-left:5%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -86,7 +86,7 @@
 												width="535" height="111" alt="Mattress Nerd logo"
 												title="mattress-nerd-logo"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27535%27%20height%3D%27111%27%20viewBox%3D%270%200%20535%20111%27%3E%3Crect%20width%3D%27535%27%20height%3D%27111%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-logo.png"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-logo.png') }}"
 												class="lazyload img-responsive wp-image-25832" /></span>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -106,7 +106,7 @@
 											style="max-width:450px;"><img width="535" height="111"
 												alt="Mattress Nerd logo" title="mattress-nerd-logo"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27535%27%20height%3D%27111%27%20viewBox%3D%270%200%20535%20111%27%3E%3Crect%20width%3D%27535%27%20height%3D%27111%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-logo.png"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-logo.png') }}"
 												class="lazyload img-responsive wp-image-25832" /></span>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -126,11 +126,11 @@
 											style="max-width:175px;"><img width="228" height="223"
 												alt="Responsify Monthly Traffic"
 												title="Responsify Monthly Traffic"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
 												class="lazyload img-responsive wp-image-21392"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27228%27%20height%3D%27223%27%20viewBox%3D%270%200%20228%20223%27%3E%3Crect%20width%3D%27228%27%20height%3D%27223%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png 228w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 228px" /></span>
 									</div>
@@ -151,11 +151,11 @@
 											style="max-width:175px;"><img width="247" height="238"
 												alt="Increase in organic traffic"
 												title="case-studies-sub-pages_06"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
 												class="lazyload img-responsive wp-image-21389"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27247%27%20height%3D%27238%27%20viewBox%3D%270%200%20247%20238%27%3E%3Crect%20width%3D%27247%27%20height%3D%27238%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png 247w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 247px" /></span>
 									</div>
@@ -177,11 +177,11 @@
 											style="max-width:205px;"><img width="380" height="313"
 												alt="case study improvements"
 												title="case study improvements"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
 												class="lazyload img-responsive wp-image-21388"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27313%27%20viewBox%3D%270%200%20380%20313%27%3E%3Crect%20width%3D%27380%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png 380w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 380px" /></span>
 									</div>
@@ -201,11 +201,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none chartsImage"
 											style="max-width:175px;"><img width="222" height="221"
 												alt="Pie Chart" title="case-studies-pie-chart"
-												src="../wp-content/uploads/2020/05/case-studies-pie-chart.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/case-studies-pie-chart.png"
+												src="{{ asset('wp-content/uploads/2020/05/case-studies-pie-chart.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/case-studies-pie-chart.png') }}"
 												class="lazyload img-responsive wp-image-25835"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27222%27%20height%3D%27221%27%20viewBox%3D%270%200%20222%20221%27%3E%3Crect%20width%3D%27222%27%20height%3D%27221%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/case-studies-pie-chart-200x199.png 200w, https://www.sureoak.com/wp-content/uploads/2020/05/case-studies-pie-chart.png 222w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/case-studies-pie-chart-200x199.png') }} 200w, {{ asset('wp-content/uploads/2020/05/case-studies-pie-chart.png') }} 222w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 222px" /></span>
 									</div>
@@ -259,11 +259,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"><img
 												width="789" height="457" alt="Mattress Nerd website"
 												title="matress-nerd-screen"
-												src="../wp-content/uploads/2020/05/matress-nerd-screen.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen.jpg"
+												src="{{ asset('wp-content/uploads/2020/05/matress-nerd-screen.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/matress-nerd-screen.jpg') }}"
 												class="lazyload img-responsive wp-image-25834"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27789%27%20height%3D%27457%27%20viewBox%3D%270%200%20789%20457%27%3E%3Crect%20width%3D%27789%27%20height%3D%27457%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen-600x348.jpg 600w, https://www.sureoak.com/wp-content/uploads/2020/05/matress-nerd-screen.jpg 789w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/matress-nerd-screen-600x348.jpg') }} 600w, {{ asset('wp-content/uploads/2020/05/matress-nerd-screen.jpg') }} 789w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 789px" /></span>
 									</div>
@@ -285,7 +285,7 @@
 										<h3 style="color: #007499;">Leveraging Links to Boost Organic
 											Traffic on Top Pages</h3>
 										<p>Before starting our <a
-												href="../services/link-building-services.html">link building
+												href="{{ route('link-building') }}">link building
 												campaigns</a>, Mattress Nerd was already a well-established
 											website and had respectable organic traffic numbers. However,
 											the number of backlinks gained organically wasn&#8217;t enough
@@ -353,11 +353,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img
 												width="1024" height="419" alt="Organic Traffic growth"
 												title="mattress-nerd-organic-traffic-growth"
-												src="../wp-content/uploads/2020/05/mattress-nerd-organic-traffic-growth.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-traffic-growth.png"
+												src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-traffic-growth.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-traffic-growth.png') }}"
 												class="lazyload img-responsive wp-image-25840"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27419%27%20viewBox%3D%270%200%201024%20419%27%3E%3Crect%20width%3D%271024%27%20height%3D%27419%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-traffic-growth-600x246.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-traffic-growth.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-traffic-growth-600x246.png') }} 600w, {{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-traffic-growth.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -389,11 +389,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-9 hover-type-none"><img
 												width="1024" height="378" alt="Organic keyword graph"
 												title="mattress-nerd-organic-keywords"
-												src="../wp-content/uploads/2020/05/mattress-nerd-organic-keywords.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-keywords.png"
+												src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-keywords.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-keywords.png') }}"
 												class="lazyload img-responsive wp-image-25838"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27378%27%20viewBox%3D%270%200%201024%20378%27%3E%3Crect%20width%3D%271024%27%20height%3D%27378%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-keywords-600x221.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-keywords.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-keywords-600x221.png') }} 600w, {{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-keywords.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -425,11 +425,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"><img
 												width="1024" height="359" alt="Referring domains graph"
 												title="mattress-nerd-organic-referring-domains"
-												src="../wp-content/uploads/2020/05/mattress-nerd-organic-referring-domains.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-referring-domains.png"
+												src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-referring-domains.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-referring-domains.png') }}"
 												class="lazyload img-responsive wp-image-25839"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27359%27%20viewBox%3D%270%200%201024%20359%27%3E%3Crect%20width%3D%271024%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-referring-domains-600x210.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-organic-referring-domains.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-referring-domains-600x210.png') }} 600w, {{ asset('wp-content/uploads/2020/05/mattress-nerd-organic-referring-domains.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -501,11 +501,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-11 hover-type-none"><img
 												width="1024" height="254" alt="Traffic increase - page 1"
 												title="mattress-nerd-traffic-increase-page1"
-												src="../wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page1.png"
+												src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page1.png') }}"
 												class="lazyload img-responsive wp-image-25841"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27254%27%20viewBox%3D%270%200%201024%20254%27%3E%3Crect%20width%3D%271024%27%20height%3D%27254%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page1-600x149.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page1.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page1-600x149.png') }} 600w, {{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page1.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -539,11 +539,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-12 hover-type-none"><img
 												width="1024" height="266" alt="Traffic increase - page 2"
 												title="mattress-nerd-traffic-increase-page2"
-												src="../wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page2.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page2.png"
+												src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page2.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page2.png') }}"
 												class="lazyload img-responsive wp-image-25842"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27266%27%20viewBox%3D%270%200%201024%20266%27%3E%3Crect%20width%3D%271024%27%20height%3D%27266%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page2-600x156.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page2.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page2-600x156.png') }} 600w, {{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page2.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -577,11 +577,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-13 hover-type-none"><img
 												width="1024" height="273" alt="Traffic increase - page 3"
 												title="mattress-nerd-traffic-increase-page3"
-												src="../wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page3.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page3.png"
+												src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page3.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page3.png') }}"
 												class="lazyload img-responsive wp-image-25843"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27273%27%20viewBox%3D%270%200%201024%20273%27%3E%3Crect%20width%3D%271024%27%20height%3D%27273%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page3-600x160.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page3.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page3-600x160.png') }} 600w, {{ asset('wp-content/uploads/2020/05/mattress-nerd-traffic-increase-page3.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -600,7 +600,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-16 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:40px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-18 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -647,7 +647,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('strategy') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -658,7 +658,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-17 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-19 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -703,7 +703,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

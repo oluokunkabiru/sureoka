@@ -9,13 +9,13 @@
 			<div id="post-20482" class="post-20482 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; The SEO Game Plan</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/superadmin.html" title="Posts by superadmin"
+							href="#" title="Posts by superadmin"
 							rel="author">superadmin</a></span></span><span
 					class="updated rich-snippet-hidden">2021-06-08T00:08:39-04:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none services-heroblock nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:50px;padding-right:4%;padding-bottom:0px;padding-left:8%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/03/bg-hero-gameplan.png">
+						data-bg="{{ asset('wp-content/uploads/2019/03/bg-hero-gameplan.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first fusion-animated"
 								style="width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;margin-top:0px;margin-bottom:20px;"
@@ -27,7 +27,7 @@
 										href="https://www.youtube.com/watch?v=Cq_QA-lX6Mo?rel=0&amp;autoplay=1"
 										data-rel="iLightbox"><img class="lazyload"
 											src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27548%27%20height%3D%27295%27%20viewBox%3D%270%200%20548%20295%27%3E%3Crect%20width%3D%27548%27%20height%3D%27295%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/07/seo-gameplan-screen.png"
+											data-orig-src="{{ asset('wp-content/uploads/2020/07/seo-gameplan-screen.png') }}"
 											alt="Watch our SEO Game Plan!"></a>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -73,7 +73,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Learn More</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -120,7 +120,7 @@
 													data-animationOffset="bottom-in-view"><img width="40"
 														height="42" alt="Question" title="question-mark"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2740%27%20height%3D%2742%27%20viewBox%3D%270%200%2040%2042%27%3E%3Crect%20width%3D%2740%27%20height%3D%2742%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/06/question-mark.png"
+														data-orig-src="{{ asset('wp-content/uploads/2020/06/question-mark.png') }}"
 														class="lazyload img-responsive wp-image-26140" /></span>
 												<div class="fusion-clearfix"></div>
 											</div>
@@ -150,7 +150,7 @@
 														width="40" height="42" alt="Question"
 														title="question-mark"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2740%27%20height%3D%2742%27%20viewBox%3D%270%200%2040%2042%27%3E%3Crect%20width%3D%2740%27%20height%3D%2742%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/06/question-mark.png"
+														data-orig-src="{{ asset('wp-content/uploads/2020/06/question-mark.png') }}"
 														class="lazyload img-responsive wp-image-26140" /></span>
 												<div class="fusion-clearfix"></div>
 											</div>
@@ -180,7 +180,7 @@
 														width="40" height="42" alt="Question"
 														title="question-mark"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2740%27%20height%3D%2742%27%20viewBox%3D%270%200%2040%2042%27%3E%3Crect%20width%3D%2740%27%20height%3D%2742%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/06/question-mark.png"
+														data-orig-src="{{ asset('wp-content/uploads/2020/06/question-mark.png') }}"
 														class="lazyload img-responsive wp-image-26140" /></span>
 												<div class="fusion-clearfix"></div>
 											</div>
@@ -210,7 +210,7 @@
 														width="40" height="42" alt="Question"
 														title="question-mark"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2740%27%20height%3D%2742%27%20viewBox%3D%270%200%2040%2042%27%3E%3Crect%20width%3D%2740%27%20height%3D%2742%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/06/question-mark.png"
+														data-orig-src="{{ asset('wp-content/uploads/2020/06/question-mark.png') }}"
 														class="lazyload img-responsive wp-image-26140" /></span>
 												<div class="fusion-clearfix"></div>
 											</div>
@@ -240,7 +240,7 @@
 														width="40" height="42" alt="Question"
 														title="question-mark"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2740%27%20height%3D%2742%27%20viewBox%3D%270%200%2040%2042%27%3E%3Crect%20width%3D%2740%27%20height%3D%2742%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/06/question-mark.png"
+														data-orig-src="{{ asset('wp-content/uploads/2020/06/question-mark.png') }}"
 														class="lazyload img-responsive wp-image-26140" /></span>
 												<div class="fusion-clearfix"></div>
 											</div>
@@ -270,7 +270,7 @@
 														width="40" height="42" alt="Question"
 														title="question-mark"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2740%27%20height%3D%2742%27%20viewBox%3D%270%200%2040%2042%27%3E%3Crect%20width%3D%2740%27%20height%3D%2742%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/06/question-mark.png"
+														data-orig-src="{{ asset('wp-content/uploads/2020/06/question-mark.png') }}"
 														class="lazyload img-responsive wp-image-26140" /></span>
 												<div class="fusion-clearfix"></div>
 											</div>
@@ -300,11 +300,11 @@
 										class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"
 										style="max-width:500px;"><img width="416" height="317"
 											alt="SEO Marketing Plan Details" title="gameplan-documents"
-											src="../wp-content/uploads/2020/07/gameplan-documents.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/07/gameplan-documents.png"
+											src="{{ asset('wp-content/uploads/2020/07/gameplan-documents.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2020/07/gameplan-documents.png') }}"
 											class="lazyload img-responsive wp-image-26202"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27416%27%20height%3D%27317%27%20viewBox%3D%270%200%20416%20317%27%3E%3Crect%20width%3D%27416%27%20height%3D%27317%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2020/07/gameplan-documents-200x152.png 200w, https://www.sureoak.com/wp-content/uploads/2020/07/gameplan-documents-400x305.png 400w, https://www.sureoak.com/wp-content/uploads/2020/07/gameplan-documents.png 416w"
+											data-srcset="{{ asset('wp-content/uploads/2020/07/gameplan-documents-200x152.png') }} 200w, {{ asset('wp-content/uploads/2020/07/gameplan-documents-400x305.png') }} 400w, {{ asset('wp-content/uploads/2020/07/gameplan-documents.png') }} 416w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 416px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -374,11 +374,11 @@
 												width="1140" height="615"
 												alt="Planning SEO Strategy - SEO Game Plan"
 												title="the-gameplan"
-												src="../wp-content/uploads/2020/07/the-gameplan.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/07/the-gameplan.png"
+												src="{{ asset('wp-content/uploads/2020/07/the-gameplan.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/07/the-gameplan.png') }}"
 												class="lazyload img-responsive wp-image-26201"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271140%27%20height%3D%27615%27%20viewBox%3D%270%200%201140%20615%27%3E%3Crect%20width%3D%271140%27%20height%3D%27615%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/07/the-gameplan-200x108.png 200w, https://www.sureoak.com/wp-content/uploads/2020/07/the-gameplan-400x216.png 400w, https://www.sureoak.com/wp-content/uploads/2020/07/the-gameplan-600x324.png 600w, https://www.sureoak.com/wp-content/uploads/2020/07/the-gameplan-800x432.png 800w, https://www.sureoak.com/wp-content/uploads/2020/07/the-gameplan.png 1140w"
+												data-srcset="{{ asset('wp-content/uploads/2020/07/the-gameplan-200x108.png') }} 200w, {{ asset('wp-content/uploads/2020/07/the-gameplan-400x216.png') }} 400w, {{ asset('wp-content/uploads/2020/07/the-gameplan-600x324.png') }} 600w, {{ asset('wp-content/uploads/2020/07/the-gameplan-800x432.png') }} 800w, {{ asset('wp-content/uploads/2020/07/the-gameplan.png') }} 1140w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1140px" /></span>
 									</div>
@@ -492,7 +492,7 @@
 																	<div class="fusion-text fusion-text-10">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-page-content.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-page-content.png') }}"
 																				alt="Page Content Analysis" />
 																		</p>
 																		<h4>Page Content Analysis</h4>
@@ -514,7 +514,7 @@
 																	<div class="fusion-text fusion-text-11">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-keyword-research.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-keyword-research.png') }}"
 																				alt="Keyword Research" />
 																		</p>
 																		<h4>Keyword Research</h4>
@@ -535,7 +535,7 @@
 																	<div class="fusion-text fusion-text-12">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-content-development.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-content-development.png') }}"
 																				alt="Content Development Strategy" />
 																		</p>
 																		<h4>Content Development Strategy
@@ -595,7 +595,7 @@
 																	<div class="fusion-text fusion-text-13">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-technical-seo.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-technical-seo.png') }}"
 																				alt="Technical SEO" /></p>
 																		<h4>Technical SEO</h4>
 																		<p>Our technical SEO audits spot
@@ -615,7 +615,7 @@
 																	<div class="fusion-text fusion-text-14">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-page-optimization.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-page-optimization.png') }}"
 																				alt="On-Page Optimization" />
 																		</p>
 																		<h4>On-Page Optimization</h4>
@@ -636,7 +636,7 @@
 																	<div class="fusion-text fusion-text-15">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-search-console.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-search-console.png') }}"
 																				alt="Analytics &amp; Search Console" />
 																		</p>
 																		<h4>Analytics &amp; Search Console
@@ -658,7 +658,7 @@
 																	<div class="fusion-text fusion-text-16">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-site-ux.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-site-ux.png') }}"
 																				alt="Site Architecture &amp; UX" />
 																		</p>
 																		<h4>Site Architecture &amp; UX</h4>
@@ -718,7 +718,7 @@
 																	<div class="fusion-text fusion-text-17">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-backlink.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-backlink.png') }}"
 																				alt="Backlink Analysis" />
 																		</p>
 																		<h4>Backlink Analysis</h4>
@@ -739,7 +739,7 @@
 																	<div class="fusion-text fusion-text-18">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-link-building-strategy.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-link-building-strategy.png') }}"
 																				alt="Link Building Strategy" />
 																		</p>
 																		<h4>Link Building Strategy</h4>
@@ -765,7 +765,7 @@
 																	<div class="fusion-text fusion-text-19">
 																		<p><img class="lazyload aligncenter size-full"
 																				src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																				data-orig-src="/wp-content/uploads/2020/07/icon-competitor-analysis.png"
+																				data-orig-src="/wp-content/uploads/2020/07/icon-competitor-analysis.png') }}"
 																				alt="Competitor Analysis" />
 																		</p>
 																		<h4>Competitor Analysis</h4>
@@ -850,7 +850,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:60px;padding-right:6%;padding-bottom:50px;padding-left:6%;margin-bottom: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/06/bg-sample-reports.png">
+						data-bg="{{ asset('wp-content/uploads/2020/06/bg-sample-reports.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-11 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -876,11 +876,11 @@
 											data-animationOffset="bottom-in-view"><img width="270"
 												height="348" alt="SEO Strategy Plan Sample Documents"
 												title="seo-gameplan"
-												src="../wp-content/uploads/2020/06/seo-gameplan.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/06/seo-gameplan.png"
+												src="{{ asset('wp-content/uploads/2020/06/seo-gameplan.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/06/seo-gameplan.png') }}"
 												class="lazyload img-responsive wp-image-26137"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27270%27%20height%3D%27348%27%20viewBox%3D%270%200%20270%20348%27%3E%3Crect%20width%3D%27270%27%20height%3D%27348%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/06/seo-gameplan-200x258.png 200w, https://www.sureoak.com/wp-content/uploads/2020/06/seo-gameplan.png 270w"
+												data-srcset="{{ asset('wp-content/uploads/2020/06/seo-gameplan-200x258.png') }} 200w, {{ asset('wp-content/uploads/2020/06/seo-gameplan.png') }} 270w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 270px" /></span>
 									</div>
@@ -952,7 +952,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-10 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:27%;padding-bottom:0px;padding-left:27%;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/06/get-started-bg.png">
+						data-bg="{{ asset('wp-content/uploads/2020/06/get-started-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-16 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first"
 								style="width:50%;width:calc(50% - ( ( 0% ) * 0.5 ) );margin-right: 0%;margin-top:0px;margin-bottom:0px;">
@@ -963,11 +963,11 @@
 												width="280" height="344"
 												alt="SEO Marketing Plan Personalized Consultants"
 												title="travis-short"
-												src="../wp-content/uploads/2019/12/travis-short.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/12/travis-short.png"
+												src="{{ asset('wp-content/uploads/2019/12/travis-short.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/12/travis-short.png') }}"
 												class="lazyload img-responsive wp-image-25236"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27280%27%20height%3D%27344%27%20viewBox%3D%270%200%20280%20344%27%3E%3Crect%20width%3D%27280%27%20height%3D%27344%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/12/travis-short-200x246.png 200w, https://www.sureoak.com/wp-content/uploads/2019/12/travis-short.png 280w"
+												data-srcset="{{ asset('wp-content/uploads/2019/12/travis-short-200x246.png') }} 200w, {{ asset('wp-content/uploads/2019/12/travis-short.png') }} 280w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 280px" /></span>
 									</div>
@@ -1016,7 +1016,7 @@
 													class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type fusion-animated giant-button"
 													data-animationType="shake" data-animationDuration="0.5"
 													data-animationOffset="bottom-in-view" target="_self"
-													href="../strategy-call.html"><span
+													href="{{ route('strategy') }}"><span
 														class="fusion-button-text">Schedule my free strategy
 														call</span></a>
 											</div>
@@ -1029,7 +1029,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-11 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:100px;padding-right:10%;padding-bottom:100px;padding-left:10%;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/06/bg-gameplan-bottom-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/06/bg-gameplan-bottom-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-18 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:0px;">
@@ -1071,7 +1071,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-3 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Schedule my free strategy
 												call</span></a>
 									</div>

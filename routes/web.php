@@ -52,8 +52,16 @@ Route::prefix('about')->group(function () {
     
 });
 
+Route::prefix('careers')->group(function () {
+    Route::get('job/{id}','PagesController@careesme')->name('careersme');
+    Route::get('/', 'PagesController@careers')->name('careers');
+    Route::get('jobs/{id}', 'PagesController@job')->name('job');
+    Route::get('jobs/application/{id}', 'PagesController@application')->name('application');
+    Route::post('applications', 'PagesController@applications')->name('applications');
+    Route::get('jobs/application/thanks/{id}', 'PagesController@applicationThanks')->name('applicationthanks');
+  
+});
 Route::get('appointment', 'PagesController@appointment')->name('appointment');
-Route::get('careers', 'PagesController@careers')->name('careers');
 Route::get('contact', 'PagesController@contact')->name('contact');
 Route::get('content-marketing', 'PagesController@contentMarketing')->name('content-marketing');
 Route::get('guest-posting-service', 'PagesController@guestPostingService')->name('guest-posting-service');
@@ -99,3 +107,8 @@ Route::get('terms-of-service', 'PagesController@termsOfService')->name('terms-of
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});

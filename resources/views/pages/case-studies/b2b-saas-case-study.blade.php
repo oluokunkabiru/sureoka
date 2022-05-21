@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'B2B SaaS Case Study')
 	
 	
 @section('content')
@@ -9,13 +9,13 @@
 			<div id="post-22362" class="post-22362 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">B2B SaaS Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/maxdigital.html" title="Posts by Max Digital"
+							href="#" title="Posts by Max Digital"
 							rel="author">Max Digital</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T11:39:08-05:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:5%;padding-right:25%;padding-bottom:5%;padding-left:25%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-desktop.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-desktop.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -36,7 +36,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:30px;padding-right:10%;padding-bottom:30px;padding-left:10%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -57,7 +57,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:10%;padding-right:5%;padding-bottom:0px;padding-left:5%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -88,11 +88,11 @@
 											style="max-width:65%;"><img width="400" height="131"
 												alt="SureOak Case Study for Maptive"
 												title="new_maptive_logo"
-												src="../wp-content/uploads/2019/05/new_maptive_logo.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/05/new_maptive_logo.png"
+												src="{{ asset('wp-content/uploads/2019/05/new_maptive_logo.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/05/new_maptive_logo.png') }}"
 												class="lazyload img-responsive wp-image-22367"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27131%27%20viewBox%3D%270%200%20400%20131%27%3E%3Crect%20width%3D%27400%27%20height%3D%27131%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/05/new_maptive_logo-200x66.png 200w, https://www.sureoak.com/wp-content/uploads/2019/05/new_maptive_logo.png 400w"
+												data-srcset="{{ asset('wp-content/uploads/2019/05/new_maptive_logo-200x66.png') }} 200w, {{ asset('wp-content/uploads/2019/05/new_maptive_logo.png') }} 400w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									</div>
@@ -113,11 +113,11 @@
 											style="max-width:175px;"><img width="228" height="223"
 												alt="Increase in conversions"
 												title="Responsify Monthly Traffic"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
 												class="lazyload img-responsive wp-image-21392"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27228%27%20height%3D%27223%27%20viewBox%3D%270%200%20228%20223%27%3E%3Crect%20width%3D%27228%27%20height%3D%27223%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png 228w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 228px" /></span>
 									</div>
@@ -139,11 +139,11 @@
 											style="max-width:175px;"><img width="247" height="238"
 												alt="Increase in organic traffic"
 												title="case-studies-sub-pages_06"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
 												class="lazyload img-responsive wp-image-21389"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27247%27%20height%3D%27238%27%20viewBox%3D%270%200%20247%20238%27%3E%3Crect%20width%3D%27247%27%20height%3D%27238%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png 247w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 247px" /></span>
 									</div>
@@ -165,11 +165,11 @@
 											style="max-width:205px;"><img width="380" height="313"
 												alt="Increase in software trial conversions"
 												title="case study improvements"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
 												class="lazyload img-responsive wp-image-21388"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27313%27%20viewBox%3D%270%200%20380%20313%27%3E%3Crect%20width%3D%27380%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png 380w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 380px" /></span>
 									</div>
@@ -217,11 +217,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"
 											style="max-width:75%;" id="computerScreen"><img width="700"
 												height="397" alt="Maptive header image" title="Maptive"
-												src="../wp-content/uploads/2019/05/Maptive.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/05/Maptive.png"
+												src="{{ asset('wp-content/uploads/2019/05/Maptive.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/05/Maptive.png') }}"
 												class="lazyload img-responsive wp-image-22375"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27700%27%20height%3D%27397%27%20viewBox%3D%270%200%20700%20397%27%3E%3Crect%20width%3D%27700%27%20height%3D%27397%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/05/Maptive-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2019/05/Maptive-400x227.png 400w, https://www.sureoak.com/wp-content/uploads/2019/05/Maptive-600x340.png 600w, https://www.sureoak.com/wp-content/uploads/2019/05/Maptive.png 700w"
+												data-srcset="{{ asset('wp-content/uploads/2019/05/Maptive-200x113.png') }} 200w, {{ asset('wp-content/uploads/2019/05/Maptive-400x227.png') }} 400w, {{ asset('wp-content/uploads/2019/05/Maptive-600x340.png') }} 600w, {{ asset('wp-content/uploads/2019/05/Maptive.png') }} 700w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 700px" /></span>
 									</div>
@@ -257,7 +257,7 @@
 											significantly, a holistic SEO strategy was needed.</p>
 										<p>In order to best understand the current environment, and all of
 											the opportunities and challenges working against us, we used our
-											proprietary <a href="../services/seo-plan.html"
+											proprietary <a href="{{ route('seo-audit-service') }}"
 												rel="noopener noreferrer">Strategic SEO Game Plan
 												process</a>: to determine what the overall opportunity is,
 											what the scope should consist of, how long it might take to
@@ -272,20 +272,20 @@
 											these items were fixed and updated, an advanced SEO strategy
 											began that included the following:</p>
 										<ul>
-											<li><a href="../services/keyword-research-service.html"
+											<li><a href="{{ route('keyword-research-service') }}"
 													rel="noopener noreferrer">Advanced Keyword Research</a>
 												<ul>
 													<li>Research, Opportunities, Intent, Mapping</li>
 												</ul>
 											</li>
-											<li><a href="../services/seo-optimization-services.html"
+											<li><a href="{{ route('seo-optimization-services') }}"
 													rel="noopener noreferrer">Optimizations Development</a>
 												<ul>
 													<li>In-depth on-page development for users, and in turn,
 														search engines</li>
 												</ul>
 											</li>
-											<li><a href="../services/seo-content-writing.html"
+											<li><a href="{{ route('seo-content-writing') }}"
 													rel="noopener noreferrer">Content Planning and
 													Updating</a>
 												<ul>
@@ -294,11 +294,11 @@
 												</ul>
 											</li>
 											<li>Link Building<ul>
-													<li><a href="../services/link-building-services.html"
+													<li><a href="{{ route('service') }}"
 															rel="noopener noreferrer">Contextual link
 															building services</a> were employed to drive
 														targeted traffic to key, high converting pages, and
-														a <a href="../services/how-to-get-edu-backlinks.html"
+														a <a href="{{ route('how-to-get-edu-backlinks') }}"
 															rel="noopener noreferrer">scholarship backlink
 															strategy</a> was used to improve the overall
 														domain authority of the website</li>
@@ -353,11 +353,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img
 												width="1024" height="442" alt="Signup Conversions Graph"
 												title="maptive-signup-conversions-graph"
-												src="../wp-content/uploads/2020/05/maptive-signup-conversions-graph.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-signup-conversions-graph.png"
+												src="{{ asset('wp-content/uploads/2020/05/maptive-signup-conversions-graph.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/maptive-signup-conversions-graph.png') }}"
 												class="lazyload img-responsive wp-image-25949"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27442%27%20viewBox%3D%270%200%201024%20442%27%3E%3Crect%20width%3D%271024%27%20height%3D%27442%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-signup-conversions-graph-600x259.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/maptive-signup-conversions-graph.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/maptive-signup-conversions-graph-600x259.png') }} 600w, {{ asset('wp-content/uploads/2020/05/maptive-signup-conversions-graph.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -377,11 +377,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"><img
 												width="1024" height="442" alt="Trial Conversions Graph"
 												title="maptive-trial-conversions-graph"
-												src="../wp-content/uploads/2020/05/maptive-trial-conversions-graph.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-trial-conversions-graph.png"
+												src="{{ asset('wp-content/uploads/2020/05/maptive-trial-conversions-graph.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/maptive-trial-conversions-graph.png') }}"
 												class="lazyload img-responsive wp-image-25950"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27442%27%20viewBox%3D%270%200%201024%20442%27%3E%3Crect%20width%3D%271024%27%20height%3D%27442%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-trial-conversions-graph-600x259.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/maptive-trial-conversions-graph.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/maptive-trial-conversions-graph-600x259.png') }} 600w, {{ asset('wp-content/uploads/2020/05/maptive-trial-conversions-graph.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -415,11 +415,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img
 												width="1024" height="410" alt="Organic traffic graph"
 												title="maptive-organic-traffic-graph"
-												src="../wp-content/uploads/2020/05/maptive-organic-traffic-graph.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-organic-traffic-graph.png"
+												src="{{ asset('wp-content/uploads/2020/05/maptive-organic-traffic-graph.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/maptive-organic-traffic-graph.png') }}"
 												class="lazyload img-responsive wp-image-25952"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27410%27%20viewBox%3D%270%200%201024%20410%27%3E%3Crect%20width%3D%271024%27%20height%3D%27410%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-organic-traffic-graph-600x240.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/maptive-organic-traffic-graph.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/maptive-organic-traffic-graph-600x240.png') }} 600w, {{ asset('wp-content/uploads/2020/05/maptive-organic-traffic-graph.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -448,11 +448,11 @@
 												width="1024" height="405"
 												alt="Organic traffic year on year graph"
 												title="maptive-organic-traffic-year-on-year-graph"
-												src="../wp-content/uploads/2020/05/maptive-organic-traffic-year-on-year-graph.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-organic-traffic-year-on-year-graph.png"
+												src="{{ asset('wp-content/uploads/2020/05/maptive-organic-traffic-year-on-year-graph.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/maptive-organic-traffic-year-on-year-graph.png') }}"
 												class="lazyload img-responsive wp-image-25948"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27405%27%20viewBox%3D%270%200%201024%20405%27%3E%3Crect%20width%3D%271024%27%20height%3D%27405%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-organic-traffic-year-on-year-graph-600x237.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/maptive-organic-traffic-year-on-year-graph.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/maptive-organic-traffic-year-on-year-graph-600x237.png') }} 600w, {{ asset('wp-content/uploads/2020/05/maptive-organic-traffic-year-on-year-graph.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -465,11 +465,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"><img
 												width="1024" height="430" alt="Keyword ranking graph"
 												title="maptive-keyword-ranking-graph"
-												src="../wp-content/uploads/2020/05/maptive-keyword-ranking-graph.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-keyword-ranking-graph.png"
+												src="{{ asset('wp-content/uploads/2020/05/maptive-keyword-ranking-graph.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/maptive-keyword-ranking-graph.png') }}"
 												class="lazyload img-responsive wp-image-25951"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27430%27%20viewBox%3D%270%200%201024%20430%27%3E%3Crect%20width%3D%271024%27%20height%3D%27430%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/maptive-keyword-ranking-graph-600x252.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/maptive-keyword-ranking-graph.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/maptive-keyword-ranking-graph-600x252.png') }} 600w, {{ asset('wp-content/uploads/2020/05/maptive-keyword-ranking-graph.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -500,7 +500,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-11 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-15 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -548,7 +548,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('strategy-call') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -559,7 +559,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-12 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-16 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -606,7 +606,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

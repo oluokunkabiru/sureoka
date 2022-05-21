@@ -10,13 +10,13 @@ Solutions')
 			<div id="post-27989" class="post-27989 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Philadelphia SEO Services &#038;
 					Solutions</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-08-11T00:22:19-04:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:60px;padding-right:20%;padding-bottom:140px;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/06/services-hero-bg_v3.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/06/services-hero-bg_v3.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -37,7 +37,7 @@ Solutions')
 										href="https://www.youtube.com/watch?v=TXLxwVDKZQ0?rel=0&amp;autoplay=1"
 										data-rel="iLightbox" id="home-play-button"><img class="lazyload"
 											src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27150%27%20height%3D%27150%27%20viewBox%3D%270%200%20150%20150%27%3E%3Crect%20width%3D%27150%27%20height%3D%27150%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-orig-src="../wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png"></a>
+											data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png') }}"></a>
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
@@ -45,7 +45,7 @@ Solutions')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:80px;padding-right:15%;padding-bottom:80px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/06/services-hero-bg_v3.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/06/services-hero-bg_v3.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -66,7 +66,7 @@ Solutions')
 										href="https://www.youtube.com/watch?v=TXLxwVDKZQ0?rel=0&amp;autoplay=1"
 										data-rel="iLightbox" id="home-play-button"><img class="lazyload"
 											src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27150%27%20height%3D%27150%27%20viewBox%3D%270%200%20150%20150%27%3E%3Crect%20width%3D%27150%27%20height%3D%27150%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-orig-src="../wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png"></a>
+											data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png') }}"></a>
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
@@ -74,7 +74,7 @@ Solutions')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:50px;padding-right:1%;padding-bottom:50px;padding-left:1%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/06/services-hero-bg_v3.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/06/services-hero-bg_v3.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -97,7 +97,7 @@ Solutions')
 										href="https://www.youtube.com/watch?v=TXLxwVDKZQ0?rel=0&amp;autoplay=1"
 										data-rel="iLightbox" id="home-play-button"><img class="lazyload"
 											src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27150%27%20height%3D%27150%27%20viewBox%3D%270%200%20150%20150%27%3E%3Crect%20width%3D%27150%27%20height%3D%27150%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-orig-src="../wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png"></a>
+											data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png') }}"></a>
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
@@ -152,7 +152,7 @@ Solutions')
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="../case-studies.html"><span
+											href="{{ route('case-studies') }}"><span
 												class="fusion-button-text">View case studies</span></a>
 									</div>
 									<div class="fusion-sep-clear"></div>
@@ -260,11 +260,11 @@ Solutions')
 											class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"
 											style="max-width:200px;"><img width="620" height="620"
 												alt="SEO Game Plan" title="Asset-1@2x"
-												src="../wp-content/uploads/2019/03/Asset-1%402x.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x.png"
+												src="{{ asset('wp-content/uploads/2019/03/Asset-1%402x.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-1@2x.png') }}"
 												class="lazyload img-responsive wp-image-20442"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27620%27%20height%3D%27620%27%20viewBox%3D%270%200%20620%20620%27%3E%3Crect%20width%3D%27620%27%20height%3D%27620%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x-400x400.png 400w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x-600x600.png 600w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x.png 620w"
+												data-srcset="{{ asset('wp-content/uploads/2019/03/Asset-1@2x-200x200.png') }} 200w, {{ asset('wp-content/uploads/2019/03/Asset-1@2x-400x400.png') }} 400w, {{ asset('wp-content/uploads/2019/03/Asset-1@2x-600x600.png') }} 600w, {{ asset('wp-content/uploads/2019/03/Asset-1@2x.png') }} 620w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									</div>
@@ -278,7 +278,7 @@ Solutions')
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
-										class="fusion-column-anchor" href="seo-plan.html"><span
+										class="fusion-column-anchor" href="{{ route('seo-plan') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -290,11 +290,11 @@ Solutions')
 											class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"
 											style="max-width:200px;"><img width="620" height="620"
 												alt="Tailored SEO Services" title="Asset-2@2x-1"
-												src="../wp-content/uploads/2019/03/Asset-2%402x-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1.png"
+												src="{{ asset('wp-content/uploads/2019/03/Asset-2%402x-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-2@2x-1.png') }}"
 												class="lazyload img-responsive wp-image-20443"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27620%27%20height%3D%27620%27%20viewBox%3D%270%200%20620%20620%27%3E%3Crect%20width%3D%27620%27%20height%3D%27620%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1-400x400.png 400w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1-600x600.png 600w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1.png 620w"
+												data-srcset="{{ asset('wp-content/uploads/2019/03/Asset-2@2x-1-200x200.png') }} 200w, {{ asset('wp-content/uploads/2019/03/Asset-2@2x-1-400x400.png') }} 400w, {{ asset('wp-content/uploads/2019/03/Asset-2@2x-1-600x600.png') }} 600w, {{ asset('wp-content/uploads/2019/03/Asset-2@2x-1.png') }} 620w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									</div>
@@ -309,7 +309,7 @@ Solutions')
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
-										class="fusion-column-anchor" href="../services.html"><span
+										class="fusion-column-anchor" href="{{ route('service') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -321,11 +321,11 @@ Solutions')
 											class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none"
 											style="max-width:200px;"><img width="620" height="620"
 												alt="Premium Link Building" title="Asset-3@2x-1"
-												src="../wp-content/uploads/2019/03/Asset-3%402x-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1.png"
+												src="{{ asset('wp-content/uploads/2019/03/Asset-3%402x-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-3@2x-1.png') }}"
 												class="lazyload img-responsive wp-image-20444"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27620%27%20height%3D%27620%27%20viewBox%3D%270%200%20620%20620%27%3E%3Crect%20width%3D%27620%27%20height%3D%27620%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1-400x400.png 400w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1-600x600.png 600w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1.png 620w"
+												data-srcset="{{ asset('wp-content/uploads/2019/03/Asset-3@2x-1-200x200.png') }} 200w, {{ asset('wp-content/uploads/2019/03/Asset-3@2x-1-400x400.png') }} 400w, {{ asset('wp-content/uploads/2019/03/Asset-3@2x-1-600x600.png') }} 600w, {{ asset('wp-content/uploads/2019/03/Asset-3@2x-1.png') }} 620w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									</div>
@@ -341,7 +341,7 @@ Solutions')
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="link-building-services.html"><span
+										href="{{ route('link-building') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -349,7 +349,7 @@ Solutions')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:30px;padding-right:40px;padding-bottom:0px;padding-left:10px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png">
+						data-bg="{{ asset('wp-content/uploads/2018/11/landing-page-section-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-8 fusion_builder_column_2_5 2_5 fusion-two-fifth fusion-column-first"
 								style="width:40%;width:calc(40% - ( ( 4% ) * 0.4 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
@@ -359,11 +359,11 @@ Solutions')
 										class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none verticalalignbottom"
 										style="margin-left:25px;float:right;max-width:450px;"><img
 											width="800" height="606" alt="Tom Casano and Logan Palmer"
-											src="../wp-content/uploads/2019/02/tom-logan-copy.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png"
+											src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
 											class="lazyload img-responsive wp-image-19742"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27606%27%20viewBox%3D%270%200%20800%20606%27%3E%3Crect%20width%3D%27800%27%20height%3D%27606%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png 800w"
+											data-srcset="{{ asset('wp-content/uploads/2019/02/tom-logan-copy-200x152.png') }} 200w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-400x303.png') }} 400w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-600x455.png') }} 600w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }} 800w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -409,7 +409,7 @@ Solutions')
 											class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="../strategy-call.html"><span
+											href="{{ route('strategy') }}"><span
 												class="fusion-button-text">LET&#8217;S DO IT</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -460,11 +460,11 @@ Solutions')
 												<div class="imageframe-align-center"><span
 														class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img
 															width="489" height="486" alt="Tom Casano"
-															src="../wp-content/uploads/2018/11/sureoak_team_tom-casano.png"
-															data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_team_tom-casano.png"
+															src="{{ asset('wp-content/uploads/2018/11/sureoak_team_tom-casano.png') }}"
+															data-orig-src="{{ asset('wp-content/uploads/2018/11/sureoak_team_tom-casano.png') }}"
 															class="lazyload img-responsive wp-image-17563"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27489%27%20height%3D%27486%27%20viewBox%3D%270%200%20489%20486%27%3E%3Crect%20width%3D%27489%27%20height%3D%27486%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-															data-srcset="https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_team_tom-casano-200x199.png 200w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_team_tom-casano-400x398.png 400w, https://www.sureoak.com/wp-content/uploads/2018/11/sureoak_team_tom-casano.png 489w"
+															data-srcset="{{ asset('wp-content/uploads/2018/11/sureoak_team_tom-casano-200x199.png') }} 200w, {{ asset('wp-content/uploads/2018/11/sureoak_team_tom-casano-400x398.png') }} 400w, {{ asset('wp-content/uploads/2018/11/sureoak_team_tom-casano.png') }} 489w"
 															data-sizes="auto"
 															data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 												</div>
@@ -493,7 +493,7 @@ Solutions')
 														of dedication and perseverance, Tom finally had an
 														SEO breakthrough.</p>
 													<p>Since then, Tom has recruited <a
-															href="../about.html#team">a team of like-minded
+															href="{{ route('about') }}#team">a team of like-minded
 															individuals</a> to form Sure Oak: a remote SEO
 														agency serving Philadelphia and beyond. And &#8211;
 														to this day &#8211; our commitment to authenticity
@@ -576,7 +576,7 @@ Solutions')
 									</div>
 									<div class="fusion-text fusion-text-17">
 										<p>We’re not just another <a
-												href="../insights/top-seo-companies-vs-fly-by-night-seos.html">fly-by-night
+												href="{{ route('seo') }}">fly-by-night
 												SEO agency</a>. At Sure Oak, we remain 100% transparent with
 											our clients. With frequent KPI updates and strategy reports,
 											you’ll know exactly where your marketing spend is going and how
@@ -626,7 +626,7 @@ Solutions')
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359"
 														alt="Sure Oak’s SEO strategy and execution grew our organic traffic by 300% in the first 6 months. Our Domain Authority went up by 14 points and we continue to get more leads every month. Trust in Sure Oak and you’ll get extraordinary results."
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/testimonials-1.png" />
+														data-orig-src="{{ asset('wp-content/uploads/2019/01/testimonials-1.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -652,7 +652,7 @@ Solutions')
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359"
 														alt="Sure Oak has ranked us in the top 3 positions for our most profitable keywords. Sure Oak actually drives results. They are diligent, focused, and a pleasure to work with. The team is awesome and I highly recommend them."
-														data-orig-src="../wp-content/uploads/2019/01/testimonials-2-1.png" />
+														data-orig-src="{{ asset('wp-content/uploads/2019/01/testimonials-2-1.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -679,7 +679,7 @@ Solutions')
 														class="testimonial-image lazyload"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359" alt="Eva testimonial"
-														data-orig-src="../wp-content/uploads/2019/02/Eva.png" />
+														data-orig-src="{{ asset('wp-content/uploads/2019/02/Eva.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -748,7 +748,7 @@ Solutions')
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359"
 														alt="Sure Oak’s SEO strategy and execution grew our organic traffic by 300% in the first 6 months. Our Domain Authority went up by 14 points and we continue to get more leads every month. Trust in Sure Oak and you’ll get extraordinary results."
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/testimonials-1.png" />
+														data-orig-src="{{ asset('wp-content/uploads/2019/01/testimonials-1.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -775,7 +775,7 @@ Solutions')
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359"
 														alt="Sure Oak has ranked us in the top 3 positions for our most profitable keywords. Sure Oak actually drives results. They are diligent, focused, and a pleasure to work with. The team is awesome and I highly recommend them."
-														data-orig-src="../wp-content/uploads/2019/01/testimonials-2-1.png" />
+														data-orig-src="{{ asset('wp-content/uploads/2019/01/testimonials-2-1.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -802,7 +802,7 @@ Solutions')
 														class="testimonial-image lazyload"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359" alt="Eva testimonial"
-														data-orig-src="../wp-content/uploads/2019/02/Eva.png" />
+														data-orig-src="{{ asset('wp-content/uploads/2019/02/Eva.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -847,7 +847,7 @@ Solutions')
 											Trusted SEO Partner for Philly Businesses</h2>
 									</div>
 									<div class="fusion-text fusion-text-18">
-										<p>As a <a href="../about.html">full-service SEO agency</a> serving
+										<p>As a <a href="{{ route('about') }}">full-service SEO agency</a> serving
 											the Greater Philadelphia area, Sure Oak leverages the power of
 											search engines to help businesses connect with more prospective
 											customers and clients. With customized services based on our
@@ -862,9 +862,9 @@ Solutions')
 											<li>Audience</li>
 											<li>Competitors</li>
 										</ul>
-										<p>From <a href="keyword-research-service.html">keywords</a>, to <a
-												href="seo-content-writing/index.html">content</a>, to <a
-												href="link-building-services/index.html">premium
+										<p>From <a href="{{ route('keyword-ranking-case-study') }}">keywords</a>, to <a
+												href="{{ route('seo-consultant-services') }}">content</a>, to <a
+												href="{{ route('link-building') }}">premium
 												backlinks</a>, we devise custom SEO strategies that resonate
 											with your target audience. Our quality-first approach sets you
 											up for SEO success, and our dedicated work drives long-term
@@ -877,7 +877,7 @@ Solutions')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-12 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:27%;padding-bottom:0px;padding-left:27%;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/06/get-started-bg.png">
+						data-bg="{{ asset('wp-content/uploads/2020/06/get-started-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-16 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first"
 								style="width:50%;width:calc(50% - ( ( 0% ) * 0.5 ) );margin-right: 0%;margin-top:0px;margin-bottom:0px;">
@@ -888,11 +888,11 @@ Solutions')
 												width="280" height="344"
 												alt="SEO Marketing Plan Personalized Consultants"
 												title="travis-short"
-												src="../wp-content/uploads/2019/12/travis-short.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/12/travis-short.png"
+												src="{{ asset('wp-content/uploads/2019/12/travis-short.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/12/travis-short.png') }}"
 												class="lazyload img-responsive wp-image-25236"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27280%27%20height%3D%27344%27%20viewBox%3D%270%200%20280%20344%27%3E%3Crect%20width%3D%27280%27%20height%3D%27344%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/12/travis-short-200x246.png 200w, https://www.sureoak.com/wp-content/uploads/2019/12/travis-short.png 280w"
+												data-srcset="{{ asset('wp-content/uploads/2019/12/travis-short-200x246.png') }} 200w, {{ asset('wp-content/uploads/2019/12/travis-short.png') }} 280w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 280px" /></span>
 									</div>
@@ -942,7 +942,7 @@ Solutions')
 													class="fusion-button button-flat button-xlarge button-custom button-3 fusion-button-default-span fusion-button-default-type fusion-animated giant-button"
 													data-animationType="shake" data-animationDuration="0.5"
 													data-animationOffset="bottom-in-view" target="_self"
-													href="../strategy-call.html"><span
+													href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Schedule my free strategy
 														session</span></a>
 											</div>
@@ -955,7 +955,7 @@ Solutions')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-13 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:100px;padding-right:10%;padding-bottom:100px;padding-left:10%;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/06/bg-gameplan-bottom-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/06/bg-gameplan-bottom-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-18 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:0px;">
@@ -996,7 +996,7 @@ Solutions')
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Schedule my free strategy
 												session</span></a>
 									</div>

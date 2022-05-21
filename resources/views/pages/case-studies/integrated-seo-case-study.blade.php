@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'QuizGriz Keyword Rankings Case Study')
 	
 	
 @section('content')
@@ -9,13 +9,13 @@
 			<div id="post-25479" class="post-25479 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">QuizGriz Keyword Rankings Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2020-12-24T11:16:18-05:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:5%;padding-right:25%;padding-bottom:5%;padding-left:25%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-header-desktop.png"
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-desktop.png') }}"
 						id="desktop-header">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
@@ -36,7 +36,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:30px;padding-right:10%;padding-bottom:30px;padding-left:10%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -57,7 +57,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:10%;padding-right:5%;padding-bottom:0px;padding-left:5%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -88,7 +88,7 @@
 												width="594" height="165" alt="QuizGriz"
 												title="QuizGriz-logo"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27594%27%20height%3D%27165%27%20viewBox%3D%270%200%20594%20165%27%3E%3Crect%20width%3D%27594%27%20height%3D%27165%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/QuizGriz-logo.png"
+												data-orig-src="{{ asset('wp-content/uploads/2020/03/QuizGriz-logo.png') }}"
 												class="lazyload img-responsive wp-image-25482" /></span>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -108,7 +108,7 @@
 											style="max-width:450px;"><img width="594" height="165"
 												alt="QuizGriz" title="QuizGriz-logo"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27594%27%20height%3D%27165%27%20viewBox%3D%270%200%20594%20165%27%3E%3Crect%20width%3D%27594%27%20height%3D%27165%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/QuizGriz-logo.png"
+												data-orig-src="{{ asset('wp-content/uploads/2020/03/QuizGriz-logo.png') }}"
 												class="lazyload img-responsive wp-image-25482" /></span>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -128,11 +128,11 @@
 											style="max-width:175px;"><img width="228" height="223"
 												alt="Increase in organic traffic"
 												title="Responsify Monthly Traffic"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
 												class="lazyload img-responsive wp-image-21392"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27228%27%20height%3D%27223%27%20viewBox%3D%270%200%20228%20223%27%3E%3Crect%20width%3D%27228%27%20height%3D%27223%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png 228w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 228px" /></span>
 									</div>
@@ -153,11 +153,11 @@
 											style="max-width:175px;"><img width="247" height="238"
 												alt="Increase in total organic keyword rankings"
 												title="case-studies-sub-pages_06"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
 												class="lazyload img-responsive wp-image-21389"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27247%27%20height%3D%27238%27%20viewBox%3D%270%200%20247%20238%27%3E%3Crect%20width%3D%27247%27%20height%3D%27238%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png 247w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 247px" /></span>
 									</div>
@@ -179,11 +179,11 @@
 											style="max-width:205px;"><img width="380" height="313"
 												alt="Increase in referring domains"
 												title="case study improvements"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
 												class="lazyload img-responsive wp-image-21388"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27313%27%20viewBox%3D%270%200%20380%20313%27%3E%3Crect%20width%3D%27380%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png 380w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 380px" /></span>
 									</div>
@@ -331,7 +331,7 @@
 												width="800" height="463" alt="QuizGriz Website Screen"
 												title="QuizGriz-website-screen"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27921%27%20height%3D%27533%27%20viewBox%3D%270%200%20921%20533%27%3E%3Crect%20width%3D%27921%27%20height%3D%27533%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/QuizGriz-website-screen-800x463.png"
+												data-orig-src="{{ asset('wp-content/uploads/2020/03/QuizGriz-website-screen-800x463.png') }}"
 												class="lazyload img-responsive wp-image-25487" /></span>
 									</div>
 									<style type="text/css"></style>
@@ -392,11 +392,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"><img
 												width="1200" height="572" alt="QuizGriz Case Study Results"
 												title="quizgriz-case-study-results"
-												src="../wp-content/uploads/2020/03/quizgriz-case-study-results.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/quizgriz-case-study-results.jpg"
+												src="{{ asset('wp-content/uploads/2020/03/quizgriz-case-study-results.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/03/quizgriz-case-study-results.jpg') }}"
 												class="lazyload img-responsive wp-image-25489"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%27572%27%20viewBox%3D%270%200%201200%20572%27%3E%3Crect%20width%3D%271200%27%20height%3D%27572%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/03/quizgriz-case-study-results-600x286.jpg 600w, https://www.sureoak.com/wp-content/uploads/2020/03/quizgriz-case-study-results.jpg 1200w"
+												data-srcset="{{ asset('wp-content/uploads/2020/03/quizgriz-case-study-results-600x286.jpg') }} 600w, {{ asset('wp-content/uploads/2020/03/quizgriz-case-study-results.jpg') }} 1200w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1200px" /></span>
 									</div>
@@ -443,11 +443,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img
 												width="1024" height="376" alt="Organic Traffic Growth Graph"
 												title="quizgriz-organic-traffic-growth"
-												src="../wp-content/uploads/2020/05/quizgriz-organic-traffic-growth.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-organic-traffic-growth.png"
+												src="{{ asset('wp-content/uploads/2020/05/quizgriz-organic-traffic-growth.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/quizgriz-organic-traffic-growth.png') }}"
 												class="lazyload img-responsive wp-image-25819"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27376%27%20viewBox%3D%270%200%201024%20376%27%3E%3Crect%20width%3D%271024%27%20height%3D%27376%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-organic-traffic-growth-600x220.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-organic-traffic-growth.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/quizgriz-organic-traffic-growth-600x220.png') }} 600w, {{ asset('wp-content/uploads/2020/05/quizgriz-organic-traffic-growth.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -479,11 +479,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-9 hover-type-none"><img
 												width="1024" height="460" alt="Organic Keyword Growth Graph"
 												title="quizgriz-organic-keyword-growth"
-												src="../wp-content/uploads/2020/05/quizgriz-organic-keyword-growth.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-organic-keyword-growth.png"
+												src="{{ asset('wp-content/uploads/2020/05/quizgriz-organic-keyword-growth.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/quizgriz-organic-keyword-growth.png') }}"
 												class="lazyload img-responsive wp-image-25818"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27460%27%20viewBox%3D%270%200%201024%20460%27%3E%3Crect%20width%3D%271024%27%20height%3D%27460%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-organic-keyword-growth-600x270.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-organic-keyword-growth.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/quizgriz-organic-keyword-growth-600x270.png') }} 600w, {{ asset('wp-content/uploads/2020/05/quizgriz-organic-keyword-growth.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -515,11 +515,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"><img
 												width="1024" height="394" alt="Referring Domains Graph"
 												title="quizgriz-referring-domains"
-												src="../wp-content/uploads/2020/05/quizgriz-referring-domains.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-referring-domains.png"
+												src="{{ asset('wp-content/uploads/2020/05/quizgriz-referring-domains.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/05/quizgriz-referring-domains.png') }}"
 												class="lazyload img-responsive wp-image-25820"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27394%27%20viewBox%3D%270%200%201024%20394%27%3E%3Crect%20width%3D%271024%27%20height%3D%27394%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-referring-domains-600x231.png 600w, https://www.sureoak.com/wp-content/uploads/2020/05/quizgriz-referring-domains.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/05/quizgriz-referring-domains-600x231.png') }} 600w, {{ asset('wp-content/uploads/2020/05/quizgriz-referring-domains.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -536,7 +536,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-13 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:40px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-19 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -583,7 +583,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('link-building') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -594,7 +594,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-14 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-20 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -639,7 +639,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('link-building') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

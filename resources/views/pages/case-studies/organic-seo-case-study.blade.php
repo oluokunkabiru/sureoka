@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'We Mount TVs Local Case Study')
 	
 	
 @section('content')
@@ -9,13 +9,13 @@
 			<div id="post-25407" class="post-25407 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">We Mount TVs Local Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:08:55-05:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:5%;padding-right:25%;padding-bottom:5%;padding-left:25%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-header-desktop.png"
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-desktop.png') }}"
 						id="desktop-header">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
@@ -36,7 +36,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:30px;padding-right:10%;padding-bottom:30px;padding-left:10%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -57,7 +57,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:10%;padding-right:5%;padding-bottom:0px;padding-left:5%;margin-bottom: 30px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2020/03/case-study-header-tablet-mobile.png">
+						data-bg="{{ asset('wp-content/uploads/2020/03/case-study-header-tablet-mobile.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -87,11 +87,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"
 											style="max-width:75%;"><img width="390" height="212"
 												alt="We Mount TVs logo" title="case-study-mount-tvs-logo"
-												src="../wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg"
+												src="{{ asset('wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg') }}"
 												class="lazyload img-responsive wp-image-25410"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27390%27%20height%3D%27212%27%20viewBox%3D%270%200%20390%20212%27%3E%3Crect%20width%3D%27390%27%20height%3D%27212%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-mount-tvs-logo-200x109.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg 390w"
+												data-srcset="{{ asset('wp-content/uploads/2020/03/case-study-mount-tvs-logo-200x109.jpg') }} 200w, {{ asset('wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg') }} 390w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 390px" /></span>
 									</div>
@@ -117,11 +117,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none fusion-no-small-visibility"
 											style="max-width:40%;"><img width="390" height="212"
 												alt="We Mount TVs logo" title="case-study-mount-tvs-logo"
-												src="../wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg"
+												src="{{ asset('wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg') }}"
 												class="lazyload img-responsive wp-image-25410"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27390%27%20height%3D%27212%27%20viewBox%3D%270%200%20390%20212%27%3E%3Crect%20width%3D%27390%27%20height%3D%27212%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/03/case-study-mount-tvs-logo-200x109.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg 390w"
+												data-srcset="{{ asset('wp-content/uploads/2020/03/case-study-mount-tvs-logo-200x109.jpg') }} 200w, {{ asset('wp-content/uploads/2020/03/case-study-mount-tvs-logo.jpg') }} 390w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 390px" /></span>
 									</div>
@@ -148,11 +148,11 @@
 											style="max-width:175px;"><img width="228" height="223"
 												alt="Responsify Monthly Traffic"
 												title="Responsify Monthly Traffic"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
 												class="lazyload img-responsive wp-image-21392"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27228%27%20height%3D%27223%27%20viewBox%3D%270%200%20228%20223%27%3E%3Crect%20width%3D%27228%27%20height%3D%27223%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png 228w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 228px" /></span>
 									</div>
@@ -174,11 +174,11 @@
 											style="max-width:175px;"><img width="247" height="238"
 												alt="Increase in organic traffic"
 												title="case-studies-sub-pages_06"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
 												class="lazyload img-responsive wp-image-21389"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27247%27%20height%3D%27238%27%20viewBox%3D%270%200%20247%20238%27%3E%3Crect%20width%3D%27247%27%20height%3D%27238%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png 247w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 247px" /></span>
 									</div>
@@ -199,11 +199,11 @@
 											style="max-width:205px;"><img width="380" height="313"
 												alt="case study improvements"
 												title="case study improvements"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
 												class="lazyload img-responsive wp-image-21388"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27313%27%20viewBox%3D%270%200%20380%20313%27%3E%3Crect%20width%3D%27380%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png 380w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 380px" /></span>
 									</div>
@@ -252,11 +252,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img
 												width="789" height="458" alt="We Mount TVs Website"
 												title="case-study-we-mount-tv-website"
-												src="../wp-content/uploads/2020/04/case-study-we-mount-tv-website.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/04/case-study-we-mount-tv-website.jpg"
+												src="{{ asset('wp-content/uploads/2020/04/case-study-we-mount-tv-website.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/04/case-study-we-mount-tv-website.jpg') }}"
 												class="lazyload img-responsive wp-image-25779"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27789%27%20height%3D%27458%27%20viewBox%3D%270%200%20789%20458%27%3E%3Crect%20width%3D%27789%27%20height%3D%27458%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/04/case-study-we-mount-tv-website-600x348.jpg 600w, https://www.sureoak.com/wp-content/uploads/2020/04/case-study-we-mount-tv-website.jpg 789w"
+												data-srcset="{{ asset('wp-content/uploads/2020/04/case-study-we-mount-tv-website-600x348.jpg') }} 600w, {{ asset('wp-content/uploads/2020/04/case-study-we-mount-tv-website.jpg') }} 789w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 789px" /></span>
 									</div>
@@ -297,7 +297,7 @@
 											drive more leads from organic search, we developed a
 											comprehensive SEO strategy that involved revamping existing
 											pages, creating long-form guides for new pages and <a
-												href="../services/link-building-services.html">generating
+												href="{{ route('strategy-call') }}">generating
 												high-quality backlinks</a> to targeted pages.</p>
 										<p>For a company like We Mount TVs, which services several specific
 											areas spread across the southeastern U.S., location is
@@ -363,11 +363,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"><img
 												width="1024" height="291" alt="Organic Keyword Growth"
 												title="we-mount-tv-keyword-growth"
-												src="../wp-content/uploads/2020/04/we-mount-tv-keyword-growth.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-keyword-growth.png"
+												src="{{ asset('wp-content/uploads/2020/04/we-mount-tv-keyword-growth.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/04/we-mount-tv-keyword-growth.png') }}"
 												class="lazyload img-responsive wp-image-25772"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27291%27%20viewBox%3D%270%200%201024%20291%27%3E%3Crect%20width%3D%271024%27%20height%3D%27291%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-keyword-growth-600x171.png 600w, https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-keyword-growth.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/04/we-mount-tv-keyword-growth-600x171.png') }} 600w, {{ asset('wp-content/uploads/2020/04/we-mount-tv-keyword-growth.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -408,11 +408,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img
 												width="1024" height="376" alt="New Organic Users"
 												title="we-mount-tv-new-organic-users"
-												src="../wp-content/uploads/2020/04/we-mount-tv-new-organic-users.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-new-organic-users.png"
+												src="{{ asset('wp-content/uploads/2020/04/we-mount-tv-new-organic-users.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/04/we-mount-tv-new-organic-users.png') }}"
 												class="lazyload img-responsive wp-image-25773"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%27376%27%20viewBox%3D%270%200%201024%20376%27%3E%3Crect%20width%3D%271024%27%20height%3D%27376%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-new-organic-users-600x220.png 600w, https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-new-organic-users.png 1024w"
+												data-srcset="{{ asset('wp-content/uploads/2020/04/we-mount-tv-new-organic-users-600x220.png') }} 600w, {{ asset('wp-content/uploads/2020/04/we-mount-tv-new-organic-users.png') }} 1024w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1024px" /></span>
 									</div>
@@ -443,11 +443,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-9 hover-type-none"><img
 												width="948" height="389" alt="Organic Sessions"
 												title="we-mount-tv-organic-sessions"
-												src="../wp-content/uploads/2020/04/we-mount-tv-organic-sessions.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-organic-sessions.png"
+												src="{{ asset('wp-content/uploads/2020/04/we-mount-tv-organic-sessions.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/04/we-mount-tv-organic-sessions.png') }}"
 												class="lazyload img-responsive wp-image-25775"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27948%27%20height%3D%27389%27%20viewBox%3D%270%200%20948%20389%27%3E%3Crect%20width%3D%27948%27%20height%3D%27389%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-organic-sessions-600x246.png 600w, https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-organic-sessions.png 948w"
+												data-srcset="{{ asset('wp-content/uploads/2020/04/we-mount-tv-organic-sessions-600x246.png') }} 600w, {{ asset('wp-content/uploads/2020/04/we-mount-tv-organic-sessions.png') }} 948w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 948px" /></span>
 									</div>
@@ -478,11 +478,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"><img
 												width="948" height="399" alt="Organic Goal Completions"
 												title="we-mount-tv-organic-goal-completions"
-												src="../wp-content/uploads/2020/04/we-mount-tv-organic-goal-completions.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-organic-goal-completions.png"
+												src="{{ asset('wp-content/uploads/2020/04/we-mount-tv-organic-goal-completions.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2020/04/we-mount-tv-organic-goal-completions.png') }}"
 												class="lazyload img-responsive wp-image-25774"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27948%27%20height%3D%27399%27%20viewBox%3D%270%200%20948%20399%27%3E%3Crect%20width%3D%27948%27%20height%3D%27399%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-organic-goal-completions-600x253.png 600w, https://www.sureoak.com/wp-content/uploads/2020/04/we-mount-tv-organic-goal-completions.png 948w"
+												data-srcset="{{ asset('wp-content/uploads/2020/04/we-mount-tv-organic-goal-completions-600x253.png') }} 600w, {{ asset('wp-content/uploads/2020/04/we-mount-tv-organic-goal-completions.png') }} 948w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 948px" /></span>
 									</div>
@@ -499,7 +499,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-13 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:40px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-14 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -546,7 +546,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('strategy-call') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -557,7 +557,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-14 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/04/CT-ABG-1024x325.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/04/CT-ABG-1024x325.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-15 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -602,10 +602,18 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</main>
+@endsection

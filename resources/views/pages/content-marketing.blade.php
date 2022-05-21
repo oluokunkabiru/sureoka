@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'Get Press with Content Marketing')
 	
 	
 @section('content')
@@ -8,13 +8,13 @@
 		<section id="content" class="full-width">
 			<div id="post-13781" class="post-13781 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Get Press with Content Marketing</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2019-07-03T02:04:51-04:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-fixed nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:60px;padding-right:30px;padding-bottom:20px;padding-left:30px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;"
-						data-bg="insights/content-marketing-tips-podcast.html">
+						data-bg="{{ route('content-marketing') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -47,7 +47,7 @@
 											higher and get more traffic.</p>
 										<p><img class="lazyload aligncenter size-full wp-image-13820"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2769%27%20viewBox%3D%270%200%201000%2069%27%3E%3Crect%20width%3D%271000%27%20height%3D%2769%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2017/04/credibility-2.png"
+												data-orig-src="{{ asset('wp-content/uploads/2017/04/credibility-2.png') }}"
 												alt="" width="1000" height="69" /></p>
 										<h4>Overview</h4>
 										<p>Imagine getting press and earning the most coveted links from
@@ -67,7 +67,7 @@
 											<li>get more organic traffic, long-term</li>
 											<li>earn the most coveted and highest quality backlinks from
 												trusted major news outlets</li>
-											<li>increase <a href="seo-tools/domain-authority-checker.html"
+											<li>increase <a href="{{ route('seo-tools') }}"
 													target="_blank" rel="noopener noreferrer">your domain
 													authority</a></li>
 											<li>get direct referral traffic</li>
@@ -101,7 +101,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: left top;background-repeat: repeat;padding-top:60px;padding-right:30px;padding-bottom:20px;padding-left:30px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;"
-						data-bg="insights/content-marketing-tips-podcast.html">
+						data-bg="{{ route('content-marketing') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -128,7 +128,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: left top;background-repeat: repeat;padding-top:20px;padding-right:30px;padding-bottom:20px;padding-left:30px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;"
-						data-bg="insights/content-marketing-tips-podcast.html">
+						data-bg="{{ route('conversion-rate-optimization') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -262,3 +262,11 @@
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</main>
+@endsection

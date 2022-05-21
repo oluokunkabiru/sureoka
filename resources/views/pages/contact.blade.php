@@ -1,14 +1,16 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'Contact Us')
 	
 	
 @section('content')
+{{-- <h1>{{ Request::session()->get('fromme') }}</h1> --}}
+
 <main id="main" class="clearfix width-100">
 	<div class="fusion-row" style="max-width:100%;">
 		<section id="content" class="full-width">
 			<div id="post-10887" class="post-10887 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Contact Us</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2021-08-07T13:43:22-04:00</span>
 				<div class="post-content">
@@ -19,8 +21,8 @@
 								style="width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
 								<div class="fusion-column-wrapper lazyload fusion-flex-column-wrapper-legacy"
 									style="background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"
-									data-bg-url="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png"
-									data-bg="wp-content/uploads/2018/12/sure-oak-office-2.png">
+									data-bg-url="{{ asset('wp-content/uploads/2018/12/sure-oak-office-2.png') }}"
+									data-bg="{{ asset('wp-content/uploads/2018/12/sure-oak-office-2.png') }}">
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-separator fusion-full-width-sep"
 										style="margin-left: auto;margin-right: auto;margin-top:100px;width:100%;">
@@ -44,7 +46,7 @@
 									<div class="fusion-text fusion-text-1" style="font-size:22px;color:#ffffff;">
 										<p style="text-align: center;">Main Office:</p>
 										<p style="text-align: center;"><a style="color: #ffffff;"
-												href="insights/new-york-seo-agency.html">We&#8217;re located
+												href="{{ route('insights') }}">We&#8217;re located
 												in New York City</a>.</p>
 										<p style="text-align: center;">Sure Oak<br /> 77 Sands Street 6th
 											Floor<br /> Brooklyn, NY 11201<br /> 1-800-736-7190</p>
@@ -116,16 +118,16 @@
 									style="margin-top:0px;margin-bottom:0px;">
 									<div class="fusion-column-wrapper lazyload fusion-flex-column-wrapper-legacy"
 										style="background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"
-										data-bg-url="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png"
-										data-bg="wp-content/uploads/2018/12/sure-oak-office-2.png"><span
+										data-bg-url="{{ asset('wp-content/uploads/2018/12/sure-oak-office-2.png') }}"
+										data-bg="{{ asset('wp-content/uploads/2018/12/sure-oak-office-2.png') }}"><span
 											class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 												width="1658" height="1196" alt="Sure Oak office"
 												title="sure-oak-office-2"
-												src="wp-content/uploads/2018/12/sure-oak-office-2.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png"
+												src="{{ asset('wp-content/uploads/2018/12/sure-oak-office-2.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2018/12/sure-oak-office-2.png') }}"
 												class="lazyload img-responsive wp-image-18818"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271658%27%20height%3D%271196%27%20viewBox%3D%270%200%201658%201196%27%3E%3Crect%20width%3D%271658%27%20height%3D%271196%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-200x144.png 200w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-400x289.png 400w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-600x433.png 600w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-800x577.png 800w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2-1200x866.png 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png 1658w"
+												data-srcset="{{ asset('wp-content/uploads/2018/12/sure-oak-office-2-200x144.png') }} 200w, {{ asset('wp-content/uploads/2018/12/sure-oak-office-2-400x289.png') }} 400w, {{ asset('wp-content/uploads/2018/12/sure-oak-office-2-600x433.png') }} 600w, {{ asset('wp-content/uploads/2018/12/sure-oak-office-2-800x577.png') }} 800w, {{ asset('wp-content/uploads/2018/12/sure-oak-office-2-1200x866.png') }} 1200w, {{ asset('wp-content/uploads/2018/12/sure-oak-office-2.png') }} 1658w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 1658px" /></span>
 										<div class="fusion-clearfix"></div>
@@ -146,7 +148,7 @@
 										<div class="fusion-text fusion-text-2" style="font-size:24px;color:#ffffff;">
 											<p style="text-align: center;">Main Office:</p>
 											<p style="text-align: center;"><a style="color: #ffffff;"
-													href="new-york-seo-agency/index.html" target="_blank"
+													href="{{ route('welcome') }}" target="_blank"
 													rel="noopener noreferrer">We&#8217;re located in New
 													York City</a>.</p>
 											<p style="text-align: center;">Sure Oak, LLC<br /> 81 Prospect
@@ -231,80 +233,8 @@
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
-							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last hsformoverride fusion-no-small-visibility"
-								style="margin-top:0px;margin-bottom:20px;">
-								<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-color:#ffffff;border-width: 0 0 0 0;border-color:#cccccc;border-style:solid;padding: 10px 18% 0px 18%;">
-									<div class="fusion-text fusion-text-4">
-										<div id='wufoo-m1mwo04c05qkl65'> Fill out my <a
-												href="https://smartpatient.wufoo.com/forms/m1mwo04c05qkl65">online
-												form</a>.</div>
-										<script type='text/javascript'>
-											var m1mwo04c05qkl65;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName'      : 'smartpatient',    
-'formHash'      : 'm1mwo04c05qkl65',    
-'autoResize'    :  true,   
-'height'        : '667',      
-'async'         :  true,          
-'header'        : 'hide',      
-'host'          : 'wufoo.com',    
-'entSource'     : 'wordpress',   
-'defaultValues' : ''     
-,'ssl'          :  true           };
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { m1mwo04c05qkl65 = new WufooForm();m1mwo04c05qkl65.initialize(options);m1mwo04c05qkl65.display(); } catch (e) {}}
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');
-										</script> <noscript> <iframe height="667" allowTransparency="true"
-												frameborder="0" scrolling="no" style="width:100%;border:none;"
-												src="https://smartpatient.wufoo.com/embed/m1mwo04c05qkl65/def/entsource=wordpress"><a
-													href="https://smartpatient.wufoo.com/forms/m1mwo04c05qkl65/def/entsource=wordpress"
-													rel="nofollow">Fill out my Wufoo form!</a></iframe>
-										</noscript>
-									</div>
-									<div class="fusion-clearfix"></div>
-								</div>
-							</div>
-							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-6 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last hsformoverride fusion-no-medium-visibility fusion-no-large-visibility"
-								style="margin-top:0px;margin-bottom:20px;">
-								<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-color:#ffffff;border-width: 0 0 0 0;border-color:#cccccc;border-style:solid;padding: 10px 5% 0px 5%;">
-									<div class="fusion-text fusion-text-5">
-										<div id='wufoo-m1mwo04c05qkl65'> Fill out my <a
-												href="https://smartpatient.wufoo.com/forms/m1mwo04c05qkl65">online
-												form</a>.</div>
-										<script type='text/javascript'>
-											var m1mwo04c05qkl65;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName'      : 'smartpatient',    
-'formHash'      : 'm1mwo04c05qkl65',    
-'autoResize'    :  true,   
-'height'        : '667',      
-'async'         :  true,          
-'header'        : 'hide',      
-'host'          : 'wufoo.com',    
-'entSource'     : 'wordpress',   
-'defaultValues' : ''     
-,'ssl'          :  true           };
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { m1mwo04c05qkl65 = new WufooForm();m1mwo04c05qkl65.initialize(options);m1mwo04c05qkl65.display(); } catch (e) {}}
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');
-										</script> <noscript> <iframe height="667" allowTransparency="true"
-												frameborder="0" scrolling="no" style="width:100%;border:none;"
-												src="https://smartpatient.wufoo.com/embed/m1mwo04c05qkl65/def/entsource=wordpress"><a
-													href="https://smartpatient.wufoo.com/forms/m1mwo04c05qkl65/def/entsource=wordpress"
-													rel="nofollow">Fill out my Wufoo form!</a></iframe>
-										</noscript>
-									</div>
-									<div class="fusion-clearfix"></div>
-								</div>
-							</div>
+							
+							
 						</div>
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 hundred-percent-fullwidth non-hundred-percent-height-scrolling"
@@ -321,3 +251,11 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</main>
+@endsection

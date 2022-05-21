@@ -10,13 +10,13 @@ Optimization')
 			<div id="post-22608" class="post-22608 page type-page status-publish hentry">
 				<span class="entry-title rich-snippet-hidden">Services &#8211; On-Page
 					Optimization</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-06-24T01:27:35-04:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:30px;padding-right:15%;padding-bottom:30px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2019/07/service_bg_green.jpg"
+						data-bg="{{ asset('wp-content/uploads/2019/07/service_bg_green.jpg') }}"
 						id="header">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first left"
@@ -65,7 +65,7 @@ Optimization')
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"><span
+													target="_self" href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Speak with an SEO expert
 														now</span></a>
 											</div>
@@ -86,7 +86,7 @@ Optimization')
 														alt="on-page seo"
 														title="svc-on-page-optimization_icon"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27496%27%20viewBox%3D%270%200%20600%20496%27%3E%3Crect%20width%3D%27600%27%20height%3D%27496%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/svc-on-page-optimization_icon.png"
+														data-orig-src="{{ asset('wp-content/uploads/2019/07/svc-on-page-optimization_icon.png') }}"
 														class="lazyload img-responsive wp-image-23490" /></span>
 											</div>
 										</div>
@@ -132,9 +132,9 @@ Optimization')
 										<p>Here at Sure Oak, our experts collaborate with you to determine
 											what the website needs are, as well as what goals and priorities
 											to focus on long-term. We build all optimizations around <a
-												href="keyword-research-service/index.html">targeted
+												href="{{ route('keyword-ranking-case-study') }}">targeted
 												keywords</a>, <a
-												href="seo-content-writing/index.html">unique content</a>,
+												href="{{ route('seo-plan') }}">unique content</a>,
 											user intent and targeted audience, and your customer buyer’s
 											funnel.</p>
 										<p>In order to accomplish a positive outcome in the above areas, we
@@ -194,7 +194,7 @@ Optimization')
 													style="color:#2bace2;" aria-hidden="true"></i></span>
 											<div class="fusion-li-item-content"
 												style="margin-left:38.4px;color:#424242;">
-												<p><a href="internal-linking-service/index.html">Internal
+												<p><a href="{{ route('internal-linking-service') }}">Internal
 														Linking</a></p>
 											</div>
 										</li>
@@ -256,7 +256,7 @@ Optimization')
 													style="color:#2bace2;" aria-hidden="true"></i></span>
 											<div class="fusion-li-item-content"
 												style="margin-left:38.4px;color:#424242;">
-												<p><a href="seo-audit-service/index.html" target="_blank"
+												<p><a href="{{ route('seo-audit-service') }}" target="_blank"
 														rel="noopener noreferrer">Technical SEO</a> Elements
 													That Impact Page Performance (Page Speed, Indexation,
 													HTTPS, etc.)</p>
@@ -282,7 +282,7 @@ Optimization')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:40px;padding-bottom:0px;padding-left:10px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2018/11/landing-page-section-bg.png"
+						data-bg="{{ asset('wp-content/uploads/2018/11/landing-page-section-bg.png') }}"
 						id="speak-to-expert">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_2_5 2_5 fusion-two-fifth fusion-column-first"
@@ -293,11 +293,11 @@ Optimization')
 										class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none verticalalignbottom tom-logan"
 										style="margin-left:25px;float:right;max-width:450px;"><img
 											width="800" height="606" alt="Tom Casano and Logan Palmer"
-											src="../wp-content/uploads/2019/02/tom-logan-copy.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png"
+											src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
 											class="lazyload img-responsive wp-image-19742"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27606%27%20viewBox%3D%270%200%20800%20606%27%3E%3Crect%20width%3D%27800%27%20height%3D%27606%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png 800w"
+											data-srcset="{{ asset('wp-content/uploads/2019/02/tom-logan-copy-200x152.png') }} 200w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-400x303.png') }} 400w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-600x455.png') }} 600w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }} 800w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -345,7 +345,7 @@ Optimization')
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('seo') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

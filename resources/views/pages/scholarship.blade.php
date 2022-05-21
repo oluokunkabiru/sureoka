@@ -1,9 +1,14 @@
+@extends('layouts.app')
+@section('title', 'Scholarship')
+	
+	
+@section('content')
 <main id="main" class="clearfix ">
 	<div class="fusion-row" style="">
 		<section id="content" style="width: 100%;">
 			<div id="post-14598" class="post-14598 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Scholarship</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/andres.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#insights/author/andres.html"
 							title="Posts by andres" rel="author">andres</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T11:13:19-05:00</span>
 				<div class="post-content">
@@ -74,7 +79,7 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/08/teamwork-600x419.jpeg"
+											data-orig-src="{{ asset('wp-content/uploads/2018/08/teamwork-600x419.jpeg')}}"
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -176,7 +181,7 @@
 											<li style="font-weight: 400;"><span
 													style="font-weight: 400;">Any questions about the Sure
 													Oak Scholarship can be directed to: <a
-														href="cdn-cgi/l/email-protection.html"
+														href="#cdn-cgi/l/email-protection.html"
 														class="__cf_email__"
 														data-cfemail="c1ada0b3a081b2b4b3a4aea0aaefa2aeac">[email&#160;protected]</a></span>
 											</li>
@@ -252,13 +257,13 @@
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-text fusion-text-5">
 										<h1>The 2021 Scholarship Winner</h1>
-										<p><a href="2021-scholarship-winner.html"
+										<p><a href="#2021-scholarship-winner.html"
 												rel="noopener noreferrer">Read Carneal&#8217;s Winning Essay
 												Here</a></p>
-										<p><a href="2021-scholarship-winner.html"><img
+										<p><a href="#2021-scholarship-winner.html"><img
 													class="lazyload alignleft" style="width: 150px;"
 													src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-													data-orig-src="/wp-content/uploads/2021/08/carneal-owens-scholarship-winner-2021.jpg"
+													data-orig-src="/wp-content/uploads/2021/08/carneal-owens-scholarship-winner-2021.jpg') }}"
 													alt="Carneal Owens II - 2021 Sure Oak Scholarship Winner"
 													width="150" /></a>Carneal Owens II<br />Washington
 											University<br />Award $1000<br />August 15, 2021</p>
@@ -290,13 +295,13 @@
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-text fusion-text-7">
 										<h1>The 2020 Scholarship Winner</h1>
-										<p><a href="2020-scholarship-winner/index.html" target="_blank"
+										<p><a href="#2020-scholarship-winner/index.html" target="_blank"
 												rel="noopener noreferrer">Read Akeena&#8217;s Winning Essay
 												Here</a></p>
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"
 												style="width: 150px;"
 												src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-												data-orig-src="/wp-content/uploads/2020/08/akeena-obaze.jpg"
+												data-orig-src="/wp-content/uploads/2020/08/akeena-obaze.jpg') }}"
 												alt="Akeena Obaze - 2020 Sure Oak Scholarship Winner"
 												width="150" />Akeena Obaze<br /> Louisiana Tech
 											University<br /> Award $1000<br /> August 1, 2020</p>
@@ -329,13 +334,13 @@
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-text fusion-text-9">
 										<h1>The 2019 Scholarship Winner</h1>
-										<p><a href="2019-scholarship-winner/index.html" target="_blank"
+										<p><a href="#2019-scholarship-winner/index.html" target="_blank"
 												rel="noopener noreferrer">Read Tanner&#8217;s Winning Essay
 												Here</a></p>
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"
 												style="width: 150px;"
 												src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-												data-orig-src="/wp-content/uploads/2019/08/tanner-geng-sure-oak-scholarship-winner-2019.jpg"
+												data-orig-src="/wp-content/uploads/2019/08/tanner-geng-sure-oak-scholarship-winner-2019.jpg') }}"
 												alt="Tanner Geng - 2019 Sure Oak Scholarship Winner"
 												width="150" />Tanner Geng<br /> University of Central
 											Florida<br /> Award $1000<br /> August 1, 2019</p>
@@ -368,12 +373,12 @@
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-text fusion-text-11">
 										<h1>The 2018 Scholarship Winner</h1>
-										<p><a href="2018-scholarship-winner/index.html" target="_blank"
+										<p><a href="#2018-scholarship-winner/index.html" target="_blank"
 												rel="noopener noreferrer">Read Darren’s Winning Essay
 												Here</a></p>
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27150%27%20height%3D%27150%27%20viewBox%3D%270%200%20150%20150%27%3E%3Crect%20width%3D%27150%27%20height%3D%27150%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/08/image1-150x150.png"
+												data-orig-src="{{ asset('wp-content/uploads/2018/08/image1-150x150.png') }}"
 												alt="" width="150" height="150" />Darren Chow<br />
 											University of California &#8211; Berkeley<br /> Award:
 											$1,000<br /> August 1, 2018</p>
@@ -400,3 +405,4 @@
 		</section>
 	</div>
 </main>
+@endsection

@@ -1,10 +1,15 @@
+@extends('layouts.app')
+@section('title', 'Strategy')
+	
+	
+@section('content')
 <main id="main" class="clearfix width-100">
 	<div class="fusion-row" style="max-width:100%;">
 		<section id="content" class="full-width">
 			<div id="post-18122" class="post-18122 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Strategy</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="insights/author/superadmin.html" title="Posts by superadmin"
+							href="#" title="Posts by superadmin"
 							rel="author">superadmin</a></span></span><span
 					class="updated rich-snippet-hidden">2019-05-03T08:16:23-04:00</span>
 				<div class="post-content">
@@ -81,11 +86,12 @@
 												<ul id="menu-blog-submenu-row-1" class="menu">
 													<li id="menu-item-17446"
 														class="nav-item-all menu-item menu-item-type-post_type menu-item-object-page menu-item-17446">
-														<a href="insights.html">All</a></li>
+														<a href="{{ route('service') }}">All</a></li>
 													<li id="menu-item-18121"
 														class="nav-item-podcast menu-item menu-item-type-post_type menu-item-object-page menu-item-18121">
-														<a href="podcasts.html">Podcast</a></li>
-													<li id="menu-item-18129"
+														<a href="#">Podcast</a></li>
+														
+														<li id="menu-item-18129"
 														class="nav-item-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18129">
 														<a href="seo.html">SEO</a></li>
 													<li id="menu-item-18130"
@@ -241,8 +247,8 @@
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="New Positive Reviews on Clutch!"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/12/sureoak-clutch-review.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2020/12/sureoak-clutch-review-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/12/sureoak-clutch-review.jpg 400w"
+																			data-orig-src="{{ asset('wp-content/uploads/2020/12/sureoak-clutch-review.jpg"
+																			data-srcset="{{ asset('wp-content/uploads/2020/12/sureoak-clutch-review-200x113.jpg 200w, {{ asset('wp-content/uploads/2020/12/sureoak-clutch-review.jpg 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -293,8 +299,8 @@
 																			alt="Clutch Top B2B Company New York"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/10/clutch-award.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2020/10/clutch-award-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/10/clutch-award.jpg 400w"
+																			data-orig-src="{{ asset('wp-content/uploads/2020/10/clutch-award.jpg"
+																			data-srcset="{{ asset('wp-content/uploads/2020/10/clutch-award-200x113.jpg 200w, {{ asset('wp-content/uploads/2020/10/clutch-award.jpg 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -348,8 +354,8 @@
 																			alt="SEO Ratings Dropping Graph"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/02/seo-ratings-drop-graph.png"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2020/02/seo-ratings-drop-graph-200x113.png 200w, https://www.sureoak.com/wp-content/uploads/2020/02/seo-ratings-drop-graph.png 400w"
+																			data-orig-src="{{ asset('wp-content/uploads/2020/02/seo-ratings-drop-graph.png"
+																			data-srcset="{{ asset('wp-content/uploads/2020/02/seo-ratings-drop-graph-200x113.png 200w, {{ asset('wp-content/uploads/2020/02/seo-ratings-drop-graph.png 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -401,8 +407,8 @@
 																			alt="SEO Game Plan"
 																			loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27400%27%20height%3D%27225%27%20viewBox%3D%270%200%20400%20225%27%3E%3Crect%20width%3D%27400%27%20height%3D%27225%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/01/seo-game-plan.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2020/01/seo-game-plan-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2020/01/seo-game-plan.jpg 400w"
+																			data-orig-src="{{ asset('wp-content/uploads/2020/01/seo-game-plan.jpg"
+																			data-srcset="{{ asset('wp-content/uploads/2020/01/seo-game-plan-200x113.jpg 200w, {{ asset('wp-content/uploads/2020/01/seo-game-plan.jpg 400w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -454,8 +460,8 @@
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="" loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271280%27%20height%3D%27720%27%20viewBox%3D%270%200%201280%20720%27%3E%3Crect%20width%3D%271280%27%20height%3D%27720%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/thehighestroi.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/thehighestroi-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2018/12/thehighestroi-400x225.jpg 400w, https://www.sureoak.com/wp-content/uploads/2018/12/thehighestroi-600x338.jpg 600w, https://www.sureoak.com/wp-content/uploads/2018/12/thehighestroi-800x450.jpg 800w, https://www.sureoak.com/wp-content/uploads/2018/12/thehighestroi-1200x675.jpg 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/thehighestroi.jpg 1280w"
+																			data-orig-src="{{ asset('wp-content/uploads/2018/12/thehighestroi.jpg"
+																			data-srcset="{{ asset('wp-content/uploads/2018/12/thehighestroi-200x113.jpg 200w, {{ asset('wp-content/uploads/2018/12/thehighestroi-400x225.jpg 400w, {{ asset('wp-content/uploads/2018/12/thehighestroi-600x338.jpg 600w, {{ asset('wp-content/uploads/2018/12/thehighestroi-800x450.jpg 800w, {{ asset('wp-content/uploads/2018/12/thehighestroi-1200x675.jpg 1200w, {{ asset('wp-content/uploads/2018/12/thehighestroi.jpg 1280w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -506,8 +512,8 @@
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="" loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271280%27%20height%3D%27720%27%20viewBox%3D%270%200%201280%20720%27%3E%3Crect%20width%3D%271280%27%20height%3D%27720%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/investinunlimitedroi.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/investinunlimitedroi-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2018/12/investinunlimitedroi-400x225.jpg 400w, https://www.sureoak.com/wp-content/uploads/2018/12/investinunlimitedroi-600x338.jpg 600w, https://www.sureoak.com/wp-content/uploads/2018/12/investinunlimitedroi-800x450.jpg 800w, https://www.sureoak.com/wp-content/uploads/2018/12/investinunlimitedroi-1200x675.jpg 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/investinunlimitedroi.jpg 1280w"
+																			data-orig-src="{{ asset('wp-content/uploads/2018/12/investinunlimitedroi.jpg"
+																			data-srcset="{{ asset('wp-content/uploads/2018/12/investinunlimitedroi-200x113.jpg 200w, {{ asset('wp-content/uploads/2018/12/investinunlimitedroi-400x225.jpg 400w, {{ asset('wp-content/uploads/2018/12/investinunlimitedroi-600x338.jpg 600w, {{ asset('wp-content/uploads/2018/12/investinunlimitedroi-800x450.jpg 800w, {{ asset('wp-content/uploads/2018/12/investinunlimitedroi-1200x675.jpg 1200w, {{ asset('wp-content/uploads/2018/12/investinunlimitedroi.jpg 1280w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -557,8 +563,8 @@
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="" loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271280%27%20height%3D%27720%27%20viewBox%3D%270%200%201280%20720%27%3E%3Crect%20width%3D%271280%27%20height%3D%27720%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/3rankingfactorsseo.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/3rankingfactorsseo-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2018/12/3rankingfactorsseo-400x225.jpg 400w, https://www.sureoak.com/wp-content/uploads/2018/12/3rankingfactorsseo-600x338.jpg 600w, https://www.sureoak.com/wp-content/uploads/2018/12/3rankingfactorsseo-800x450.jpg 800w, https://www.sureoak.com/wp-content/uploads/2018/12/3rankingfactorsseo-1200x675.jpg 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/3rankingfactorsseo.jpg 1280w"
+																			data-orig-src="{{ asset('wp-content/uploads/2018/12/3rankingfactorsseo.jpg"
+																			data-srcset="{{ asset('wp-content/uploads/2018/12/3rankingfactorsseo-200x113.jpg 200w, {{ asset('wp-content/uploads/2018/12/3rankingfactorsseo-400x225.jpg 400w, {{ asset('wp-content/uploads/2018/12/3rankingfactorsseo-600x338.jpg 600w, {{ asset('wp-content/uploads/2018/12/3rankingfactorsseo-800x450.jpg 800w, {{ asset('wp-content/uploads/2018/12/3rankingfactorsseo-1200x675.jpg 1200w, {{ asset('wp-content/uploads/2018/12/3rankingfactorsseo.jpg 1280w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -610,8 +616,8 @@
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="" loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271280%27%20height%3D%27720%27%20viewBox%3D%270%200%201280%20720%27%3E%3Crect%20width%3D%271280%27%20height%3D%27720%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/8successprinciples.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/8successprinciples-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2018/12/8successprinciples-400x225.jpg 400w, https://www.sureoak.com/wp-content/uploads/2018/12/8successprinciples-600x338.jpg 600w, https://www.sureoak.com/wp-content/uploads/2018/12/8successprinciples-800x450.jpg 800w, https://www.sureoak.com/wp-content/uploads/2018/12/8successprinciples-1200x675.jpg 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/8successprinciples.jpg 1280w"
+																			data-orig-src="{{ asset('wp-content/uploads/2018/12/8successprinciples.jpg"
+																			data-srcset="{{ asset('wp-content/uploads/2018/12/8successprinciples-200x113.jpg 200w, {{ asset('wp-content/uploads/2018/12/8successprinciples-400x225.jpg 400w, {{ asset('wp-content/uploads/2018/12/8successprinciples-600x338.jpg 600w, {{ asset('wp-content/uploads/2018/12/8successprinciples-800x450.jpg 800w, {{ asset('wp-content/uploads/2018/12/8successprinciples-1200x675.jpg 1200w, {{ asset('wp-content/uploads/2018/12/8successprinciples.jpg 1280w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -661,8 +667,8 @@
 																			class="attachment-full size-full lazyload wp-post-image"
 																			alt="" loading="lazy"
 																			srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271280%27%20height%3D%27720%27%20viewBox%3D%270%200%201280%20720%27%3E%3Crect%20width%3D%271280%27%20height%3D%27720%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-																			data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/hiddenpower-comprehensivecontent.jpg"
-																			data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-200x113.jpg 200w, https://www.sureoak.com/wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-400x225.jpg 400w, https://www.sureoak.com/wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-600x338.jpg 600w, https://www.sureoak.com/wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-800x450.jpg 800w, https://www.sureoak.com/wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-1200x675.jpg 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/hiddenpower-comprehensivecontent.jpg 1280w"
+																			data-orig-src="{{ asset('wp-content/uploads/2018/12/hiddenpower-comprehensivecontent.jpg"
+																			data-srcset="{{ asset('wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-200x113.jpg 200w, {{ asset('wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-400x225.jpg 400w, {{ asset('wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-600x338.jpg 600w, {{ asset('wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-800x450.jpg 800w, {{ asset('wp-content/uploads/2018/12/hiddenpower-comprehensivecontent-1200x675.jpg 1200w, {{ asset('wp-content/uploads/2018/12/hiddenpower-comprehensivecontent.jpg 1280w"
 																			data-sizes="auto" /> </a></div>
 															</li>
 														</ul>
@@ -710,3 +716,4 @@
 		</section>
 	</div>
 </main>
+@endsection

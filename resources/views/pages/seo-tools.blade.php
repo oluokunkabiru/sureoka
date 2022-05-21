@@ -1,3 +1,8 @@
+@extends('layouts.app')
+@section('title', 'Tools')
+	
+	
+@section('content')
 <main id="main" class="clearfix ">
 	<div class="fusion-row" style="">
 		<script type="text/javascript" src="../static.sureoakdata.com/progressbar.html"></script>
@@ -18,13 +23,13 @@
 				<div id="post-19213" class="post-19213 page type-page status-publish hentry"> <span
 						class="entry-title rich-snippet-hidden">Sure Oak&#8217;s Free SEO Tools: The Best
 						Online SEO Tools for Google</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-								href="insights/author/superadmin.html" title="Posts by superadmin"
+								href="#insights/author/superadmin.html" title="Posts by superadmin"
 								rel="author">superadmin</a></span></span><span
 						class="updated rich-snippet-hidden">2021-05-06T02:02:21-04:00</span>
 					<div class="post-content">
 						<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none seo-tools-boxes nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns lazyload"
 							style="background-color: #b0f4ff;background-position: center top;background-repeat: no-repeat;padding-top:30px;padding-right:8%;padding-bottom:0px;padding-left:8%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-							data-bg="wp-content/uploads/2019/06/bg_tools_blue.jpg">
+							data-bg="{{ asset('wp-content/uploads/2019/06/bg_tools_blue.jpg') }}">
 							<div class="fusion-builder-row fusion-row">
 								<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height"
 									style="margin-top:0px;margin-bottom:20px;">
@@ -62,7 +67,7 @@
 												style="max-width:130px;"><img width="187" height="204"
 													alt="SEO Score Checker" title="tool_score-checker_v2"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27187%27%20height%3D%27204%27%20viewBox%3D%270%200%20187%20204%27%3E%3Crect%20width%3D%27187%27%20height%3D%27204%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2020/09/tool_score-checker_v2.png"
+													data-orig-src="{{ asset('wp-content/uploads/2020/09/tool_score-checker_v2.png') }}"
 													class="lazyload img-responsive wp-image-26779" /></span>
 										</div>
 										<div class="fusion-text fusion-text-1">
@@ -71,7 +76,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/seo-checker-analysis-tool.html"><span
+											href="{{ route('seo-tools') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -84,7 +89,7 @@
 													width="162" height="135" alt="Crawler Site Report"
 													title="tool_crawler"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27162%27%20height%3D%27135%27%20viewBox%3D%270%200%20162%20135%27%3E%3Crect%20width%3D%27162%27%20height%3D%27135%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_crawler.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/tool_crawler.png') }}"
 													class="lazyload img-responsive wp-image-23861" /></span>
 										</div>
 										<div class="fusion-text fusion-text-2">
@@ -94,7 +99,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/seo-website-crawler-tool/index.html"><span
+											href="{{ route('website-design-development') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -107,7 +112,7 @@
 													width="141" height="134" alt="Domain Authority Checker"
 													title="tool_domain-auth-checker"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27141%27%20height%3D%27134%27%20viewBox%3D%270%200%20141%20134%27%3E%3Crect%20width%3D%27141%27%20height%3D%27134%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_domain-auth-checker.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/tool_domain-auth-checker.png') }}"
 													class="lazyload img-responsive wp-image-23862" /></span>
 										</div>
 										<div class="fusion-text fusion-text-3">
@@ -116,7 +121,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/domain-authority-checker/index.html"><span
+											href="{{ route('seo-tools') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -129,7 +134,7 @@
 													width="98" height="131" alt="Redirect Checker"
 													title="tool_redirect-checker"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2798%27%20height%3D%27131%27%20viewBox%3D%270%200%2098%20131%27%3E%3Crect%20width%3D%2798%27%20height%3D%27131%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_redirect-checker.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/tool_redirect-checker.png') }}"
 													class="lazyload img-responsive wp-image-23866" /></span>
 										</div>
 										<div class="fusion-text fusion-text-4">
@@ -138,7 +143,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/301-redirect-checker/index.html"><span
+											href="{{ route('seo-tools') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -151,7 +156,7 @@
 													width="111" height="131" alt="HTTP Header Checker"
 													title="tool_http-header-checker"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27111%27%20height%3D%27131%27%20viewBox%3D%270%200%20111%20131%27%3E%3Crect%20width%3D%27111%27%20height%3D%27131%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_http-header-checker.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/tool_http-header-checker.png') }}"
 													class="lazyload img-responsive wp-image-23863" /></span>
 										</div>
 										<div class="fusion-text fusion-text-5">
@@ -160,7 +165,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/http-headers-checker/index.html"><span
+											href="#seo-tools/http-headers-checker/index.html"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -172,7 +177,7 @@
 												class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img
 													width="141" height="139" alt="Keyword Rank Checker Tool"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27141%27%20height%3D%27139%27%20viewBox%3D%270%200%20141%20139%27%3E%3Crect%20width%3D%27141%27%20height%3D%27139%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/08/tool_keyword-rank-checker.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/08/tool_keyword-rank-checker.png') }}"
 													class="lazyload img-responsive wp-image-24425" /></span>
 										</div>
 										<div class="fusion-text fusion-text-6">
@@ -181,7 +186,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/keyword-rank-checker/index.html"><span
+											href="{{ route('keyword-ranking-case-study') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -194,7 +199,7 @@
 													width="117" height="139" alt="Keyword Density Checker"
 													title="tool_keyword-density-checker"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27117%27%20height%3D%27139%27%20viewBox%3D%270%200%20117%20139%27%3E%3Crect%20width%3D%27117%27%20height%3D%27139%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_keyword-density-checker.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/tool_keyword-density-checker.png') }}"
 													class="lazyload img-responsive wp-image-23864" /></span>
 										</div>
 										<div class="fusion-text fusion-text-7">
@@ -203,7 +208,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/keyword-density-checker/index.html"><span
+											href="{{ route('keyword-ranking-case-study') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -216,7 +221,7 @@
 													width="136" height="139" alt="XML Sitemap Generator"
 													title="main-xml-sitemap-generator"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27136%27%20height%3D%27139%27%20viewBox%3D%270%200%20136%20139%27%3E%3Crect%20width%3D%27136%27%20height%3D%27139%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/main-xml-sitemap-generator.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/main-xml-sitemap-generator.png') }}"
 													class="lazyload img-responsive wp-image-23859" /></span>
 										</div>
 										<div class="fusion-text fusion-text-8">
@@ -225,7 +230,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/google-xml-sitemap-generator/index.html"><span
+											href="{{ route('google-analytics-consultant') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -238,7 +243,7 @@
 													width="123" height="134" alt="Robots.txt Generator"
 													title="tool_robots-txt"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27123%27%20height%3D%27134%27%20viewBox%3D%270%200%20123%20134%27%3E%3Crect%20width%3D%27123%27%20height%3D%27134%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_robots-txt.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/tool_robots-txt.png') }}"
 													class="lazyload img-responsive wp-image-23867" /></span>
 										</div>
 										<div class="fusion-text fusion-text-9">
@@ -247,7 +252,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/robots-txt-generator/index.html"><span
+											href="#seo-tools/robots-txt-generator/index.html"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -260,7 +265,7 @@
 													width="87" height="131" alt="Meta Tag Generator"
 													title="tool_meta-tag"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2787%27%20height%3D%27131%27%20viewBox%3D%270%200%2087%20131%27%3E%3Crect%20width%3D%2787%27%20height%3D%27131%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_meta-tag.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/tool_meta-tag.png') }}"
 													class="lazyload img-responsive wp-image-23865" /></span>
 										</div>
 										<div class="fusion-text fusion-text-10">
@@ -269,7 +274,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/meta-tag-generator/index.html"><span
+											href="#seo-tools/meta-tag-generator/index.html"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -281,7 +286,7 @@
 												class=" fusion-imageframe imageframe-none imageframe-11 hover-type-none"><img
 													width="134" height="134" alt="UTM Builder" title="tool_utm-builder"
 													src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27134%27%20height%3D%27134%27%20viewBox%3D%270%200%20134%20134%27%3E%3Crect%20width%3D%27134%27%20height%3D%27134%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-													data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/tool_utm-builder.png"
+													data-orig-src="{{ asset('wp-content/uploads/2019/07/tool_utm-builder.png') }}"
 													class="lazyload img-responsive wp-image-23869" /></span>
 										</div>
 										<div class="fusion-text fusion-text-11">
@@ -290,7 +295,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/url-utm-builder/index.html"><span
+											href="#seo-tools/url-utm-builder/index.html"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -328,10 +333,10 @@
 												different aspect of your domain’s performance on the web. We
 												say, leave no stone unturned by accessing ALL of them. Why
 												not?</p>
-											<p>Start with our <a href="seo-tools/seo-checker-analysis-tool.html"
+											<p>Start with our <a href="#seo-tools/seo-checker-analysis-tool.html"
 													target="_blank" rel="noopener noreferrer">SEO Score
 													Checker</a> and <a
-													href="seo-tools/seo-website-crawler-tool/index.html" target="_blank"
+													href="#seo-tools/seo-website-crawler-tool/index.html" target="_blank"
 													rel="noopener noreferrer">Crawler/Site
 													Report</a> to give you a comprehensive overview of how
 												your site’s ranking power is measured from the perspective
@@ -349,67 +354,67 @@
 											</p>
 											<h2>How to Use Our Free SEO Tools</h2>
 											<ul>
-												<li><a href="seo-tools/seo-checker-analysis-tool.html" target="_blank"
+												<li><a href="#seo-tools/seo-checker-analysis-tool.html" target="_blank"
 														rel="noopener noreferrer">SEO Score
 														Checker</a>:  <span style="font-weight: 400;">Find
 														out your comprehensive SEO score based on Google’s
 														five major ranking factors.</span></li>
-												<li><a href="seo-tools/seo-website-crawler-tool/index.html"
+												<li><a href="#seo-tools/seo-website-crawler-tool/index.html"
 														target="_blank" rel="noopener noreferrer">Crawler/
 														“Site Report”</a>: <span style="font-weight: 400;">Get a
 														breakdown of each of
 														your website’s pages with this SEO tool that will
 														show you just how Google-friendly your site is (or
 														isn’t).</span></li>
-												<li><a href="seo-tools/301-redirect-checker/index.html" target="_blank"
+												<li><a href="#seo-tools/301-redirect-checker/index.html" target="_blank"
 														rel="noopener noreferrer">Redirect
 														Checker</a>: <span style="font-weight: 400;">Test
 														your URLs and make sure the people searching for you
 														online can actually find you.</span></li>
-												<li><a href="seo-tools/http-headers-checker/index.html" target="_blank"
+												<li><a href="#seo-tools/http-headers-checker/index.html" target="_blank"
 														rel="noopener noreferrer">HTTP
 														Header Checker</a>: <span style="font-weight: 400;">Protect your
 														site
 														navigation from dead links and lagging load times
 														with our HTTP Header Checker that shows you what’s
 														happening behind the scenes.</span></li>
-												<li><a href="seo-tools/url-utm-builder/index.html" target="_blank"
+												<li><a href="#seo-tools/url-utm-builder/index.html" target="_blank"
 														rel="noopener noreferrer">UTM
 														Builder</a>: <span style="font-weight: 400;">Create
 														your own customized URLs complete with UTM code to
 														will help you track all your campaigns
 														seamlessly.</span></li>
-												<li><a href="seo-tools/domain-authority-checker/index.html"
+												<li><a href="#seo-tools/domain-authority-checker/index.html"
 														target="_blank" rel="noopener noreferrer">Domain
 														Authority Checker</a>: <span style="font-weight: 400;">Check
 														your Domain
 														Authority by adding this SEO analyzer to your
 														toolkit that generates a score between 1 and
 														100.</span></li>
-												<li><a href="seo-tools/meta-tag-generator/index.html" target="_blank"
+												<li><a href="#seo-tools/meta-tag-generator/index.html" target="_blank"
 														rel="noopener noreferrer">Meta Tag
 														Generator</a>: <span style="font-weight: 400;">Take
 														a load off. Streamline and optimize all your metas
 														for Google quickly and easily.</span></li>
-												<li><a href="seo-tools/robots-txt-generator/index.html" target="_blank"
+												<li><a href="#seo-tools/robots-txt-generator/index.html" target="_blank"
 														rel="noopener noreferrer">Robots.txt
 														Generator</a>: Generate your own robots.txt file to
 													tell search engine crawlers, like Google, how to <a
-														href="difference-crawling-vs-indexing/index.html"
+														href="#difference-crawling-vs-indexing/index.html"
 														target="_blank" rel="noopener noreferrer">crawl and
 														index</a> your website.</li>
-												<li><a href="seo-tools/google-xml-sitemap-generator/index.html"
+												<li><a href="#seo-tools/google-xml-sitemap-generator/index.html"
 														target="_blank" rel="noopener noreferrer">XML
 														Sitemap Generator</a>: Create a properly formatted
 													XML sitemap to give search engines advanced instructions
 													as to which pages have recently changed, or are most
 													likely to, or are top priorities.</li>
-												<li><a href="seo-tools/keyword-density-checker/index.html"
+												<li><a href="#seo-tools/keyword-density-checker/index.html"
 														target="_blank" rel="noopener noreferrer">Keyword
 														Density Checker</a>: Analyze keyword usage of any of
 													existing webpages on any website so you can optimize
 													webpage for your SEO.</li>
-												<li><a href="seo-tools/keyword-rank-checker/index.html" target="_blank"
+												<li><a href="#seo-tools/keyword-rank-checker/index.html" target="_blank"
 														rel="noopener noreferrer">Keyword
 														Rank Checker</a>: Check the position your website on
 													Google when a user searches for your targeted keywords.
@@ -440,8 +445,8 @@
 				<div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1"
 					style="margin-top:0px;margin-bottom:0px;">
 					<div class="fusion-column-wrapper"
-						style="padding:90px 0px 110px 0px;background-image: url('wp-content/uploads/2019/05/SureOak-Tools.jpg');background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg-url="wp-content/uploads/2018/12/blog-ebook-cta-bg.png">
+						style="padding:90px 0px 110px 0px;background-image: url('wp-content/uploads/2019/05/SureOak-Tools.jpg') }}');background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
+						data-bg-url="{{ asset('wp-content/uploads/2018/12/blog-ebook-cta-bg.png') }}">
 						<div class="fusion-text">
 							<h1 style="text-align: center;"><span style="color: #ffffff;">Need help
 									improving your website’s SEO<br> to rank higher and grow faster?</span>
@@ -507,7 +512,7 @@
 								}
 							</style><a
 								class="fusion-button button-flat fusion-button-round button-large button-custom button-1"
-								target="_self" href="strategy-call.html" id="toolsButton"><span
+								target="_self" href="{{ route('strategy') }}" id="toolsButton"><span
 									class="fusion-button-text">Request my SEO strategy session</span></a>
 						</div>
 						<div class="fusion-clearfix"></div>
@@ -521,30 +526,28 @@
 					<div class="collapse-menu" title="Hide Menu"></div>
 					<div class="textwidget custom-html-widget">
 						<ul class="seotools-sidebar-navi" id="scoreLinks">
-							<li class="icon da-checker"><a href="seo-toolsd384.html?websiteId=0">SEO
+							<li class="icon da-checker"><a href="#seo-toolsd384.html?websiteId=0">SEO
 									Tools</a>
 								<ul>
-									<li><a href="seo-tools/seo-checker-analysis-toold384.html?websiteId=0"
+									<li><a href="#seo-tools/seo-checker-analysis-toold384.html?websiteId=0"
 											id="goToSiteBacklinks">SEO Score Checker</a></li>
-									<li><a href="seo-tools/seo-website-crawler-tool.html?websiteId=0"
+									<li><a href="#seo-tools/seo-website-crawler-tool.html?websiteId=0"
 											id="goToSiteReportNavLink">SEO Crawler Tool</a></li>
-									<li><a href="seo-tools/domain-authority-checkerd384.html?websiteId=0">Domain
+									<li><a href="#seo-tools/domain-authority-checkerd384.html?websiteId=0">Domain
 											Authority Checker</a></li>
-									<li><a href="seo-tools/301-redirect-checkerd384.html?websiteId=0">Redirect
-											Checker</a></li>
-									<li><a href="seo-tools/http-headers-checkerd384.html?websiteId=0">Header
+									<li><a href="#seo-tools/http-headers-checkerd384.html?websiteId=0">Header
 											Status Checker</a></li>
-									<li><a href="seo-tools/keyword-rank-checkerd384.html?websiteId=0">Keyword
+									<li><a href="#seo-tools/keyword-rank-checkerd384.html?websiteId=0">Keyword
 											Rank Checker</a></li>
-									<li><a href="seo-tools/keyword-density-checkerd384.html?websiteId=0">Keyword
+									<li><a href="#seo-tools/keyword-density-checkerd384.html?websiteId=0">Keyword
 											Density Checker</a></li>
-									<li><a href="seo-tools/google-xml-sitemap-generator.html">Sitemap
+									<li><a href="#seo-tools/google-xml-sitemap-generator.html">Sitemap
 											Generator</a></li>
-									<li><a href="seo-tools/robots-txt-generatord384.html?websiteId=0">Robots.txt
+									<li><a href="#seo-tools/robots-txt-generatord384.html?websiteId=0">Robots.txt
 											Generator</a></li>
-									<li><a href="seo-tools/meta-tag-generatord384.html?websiteId=0">Meta Tag
+									<li><a href="#seo-tools/meta-tag-generatord384.html?websiteId=0">Meta Tag
 											Generator</a></li>
-									<li><a href="seo-tools/url-utm-builderd384.html?websiteId=0">UTM
+									<li><a href="#seo-tools/url-utm-builderd384.html?websiteId=0">UTM
 											Builder</a></li>
 								</ul>
 							</li>
@@ -697,3 +700,5 @@
 			</script>
 		</div>
 </main>
+
+@endsection

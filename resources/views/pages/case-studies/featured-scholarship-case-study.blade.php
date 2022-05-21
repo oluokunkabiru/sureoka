@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home')
+@section('title', 'Featured Scholarship Case Study')
 	
 	
 @section('content')
@@ -8,7 +8,7 @@
 		<section id="content" class="full-width">
 			<div id="post-13157" class="post-13157 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Featured Scholarship Case Study</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="../insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:50:37-05:00</span>
 				<div class="post-content">
@@ -23,11 +23,11 @@
 										class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 											width="2151" height="1139" alt="Scholarship SEO Case Study"
 											title="scholarship-case-study-header"
-											src="../wp-content/uploads/2021/01/scholarship-case-study-header.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2021/01/scholarship-case-study-header.png"
+											src="{{ asset('wp-content/uploads/2021/01/scholarship-case-study-header.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2021/01/scholarship-case-study-header.png') }}"
 											class="lazyload img-responsive wp-image-27546"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272151%27%20height%3D%271139%27%20viewBox%3D%270%200%202151%201139%27%3E%3Crect%20width%3D%272151%27%20height%3D%271139%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2021/01/scholarship-case-study-header-200x106.png 200w, https://www.sureoak.com/wp-content/uploads/2021/01/scholarship-case-study-header-400x212.png 400w, https://www.sureoak.com/wp-content/uploads/2021/01/scholarship-case-study-header-600x318.png 600w, https://www.sureoak.com/wp-content/uploads/2021/01/scholarship-case-study-header-800x424.png 800w, https://www.sureoak.com/wp-content/uploads/2021/01/scholarship-case-study-header-1200x635.png 1200w, https://www.sureoak.com/wp-content/uploads/2021/01/scholarship-case-study-header.png 2151w"
+											data-srcset="{{ asset('wp-content/uploads/2021/01/scholarship-case-study-header-200x106.png') }} 200w, {{ asset('wp-content/uploads/2021/01/scholarship-case-study-header-400x212.png') }} 400w, {{ asset('wp-content/uploads/2021/01/scholarship-case-study-header-600x318.png') }} 600w, {{ asset('wp-content/uploads/2021/01/scholarship-case-study-header-800x424.png') }} 800w, {{ asset('wp-content/uploads/2021/01/scholarship-case-study-header-1200x635.png') }} 1200w, {{ asset('wp-content/uploads/2021/01/scholarship-case-study-header.png') }} 2151w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 2151px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -47,11 +47,11 @@
 											width="2134" height="1822"
 											alt="Case Study 538% Increase in Organic Traffic in 2 Months"
 											title="Case Study 538% Increase in Organic Traffic in 2 Months"
-											src="../wp-content/uploads/2018/12/hero_tablet.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet.png"
+											src="{{ asset('wp-content/uploads/2018/12/hero_tablet.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/12/hero_tablet.png') }}"
 											class="lazyload img-responsive wp-image-18110"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272134%27%20height%3D%271822%27%20viewBox%3D%270%200%202134%201822%27%3E%3Crect%20width%3D%272134%27%20height%3D%271822%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-200x171.png 200w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-400x342.png 400w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-600x512.png 600w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-800x683.png 800w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-1200x1025.png 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet.png 2134w"
+											data-srcset="{{ asset('wp-content/uploads/2018/12/hero_tablet-200x171.png') }} 200w, {{ asset('wp-content/uploads/2018/12/hero_tablet-400x342.png') }} 400w, {{ asset('wp-content/uploads/2018/12/hero_tablet-600x512.png') }} 600w, {{ asset('wp-content/uploads/2018/12/hero_tablet-800x683.png') }} 800w, {{ asset('wp-content/uploads/2018/12/hero_tablet-1200x1025.png') }} 1200w, {{ asset('wp-content/uploads/2018/12/hero_tablet.png') }} 2134w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 2134px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -71,11 +71,11 @@
 											width="2134" height="1822"
 											alt="Case Study 538% Increase in Organic Traffic in 2 Months"
 											title="Case Study 538% Increase in Organic Traffic in 2 Months"
-											src="../wp-content/uploads/2018/12/hero_tablet.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet.png"
+											src="{{ asset('wp-content/uploads/2018/12/hero_tablet.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/12/hero_tablet.png') }}"
 											class="lazyload img-responsive wp-image-18110"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272134%27%20height%3D%271822%27%20viewBox%3D%270%200%202134%201822%27%3E%3Crect%20width%3D%272134%27%20height%3D%271822%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-200x171.png 200w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-400x342.png 400w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-600x512.png 600w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-800x683.png 800w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet-1200x1025.png 1200w, https://www.sureoak.com/wp-content/uploads/2018/12/hero_tablet.png 2134w"
+											data-srcset="{{ asset('wp-content/uploads/2018/12/hero_tablet-200x171.png') }} 200w, {{ asset('wp-content/uploads/2018/12/hero_tablet-400x342.png') }} 400w, {{ asset('wp-content/uploads/2018/12/hero_tablet-600x512.png') }} 600w, {{ asset('wp-content/uploads/2018/12/hero_tablet-800x683.png') }} 800w, {{ asset('wp-content/uploads/2018/12/hero_tablet-1200x1025.png') }} 1200w, {{ asset('wp-content/uploads/2018/12/hero_tablet.png') }} 2134w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 2134px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -126,7 +126,7 @@
 											apart from the competition.</p>
 										<p>We decided to earn backlinks from universities with a
 											scholarship.  Learn more about <a
-												href="../edu-scholarship-links/index.html" target="_blank"
+												href="{{ route('how-to-get-edu-backlinks') }}" target="_blank"
 												rel="noopener noreferrer">how to get .EDU backlinks
 												here</a>.</p>
 									</div>
@@ -137,7 +137,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px;margin-bottom: 45px;margin-top: 45px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/casestudy-divider-1.png">
+						data-bg="{{ asset('wp-content/uploads/2018/11/casestudy-divider-1.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-6 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -201,7 +201,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px;margin-bottom: 45px;margin-top: 45px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/casestudy-divider-2.png">
+						data-bg="{{ asset('wp-content/uploads/2018/11/casestudy-divider-2.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-10 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -226,7 +226,7 @@
 									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 10% 0px 10%;">
 									<div class="fusion-text fusion-text-7">
 										<h2 style="text-align: center;">Explanation</h2>
-										<p><a href="../edu-scholarship-links/index.html" target="_blank"
+										<p><a href="{{ route('how-to-get-edu-backlinks') }}" target="_blank"
 												rel="noopener noreferrer">Backlinks from universities
 												(.edu’s)</a> are the most authoritative and trusted websites
 											on the web because they are “seed sites”.</p>
@@ -268,7 +268,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px;margin-bottom: 45px;margin-top: 45px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/casestudy-divider-3.png">
+						data-bg="{{ asset('wp-content/uploads/2018/11/casestudy-divider-3.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-12 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -327,13 +327,13 @@
 										</p>
 										<p><img class="lazyload alignnone size-full wp-image-13270"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27733%27%20height%3D%27320%27%20viewBox%3D%270%200%20733%20320%27%3E%3Crect%20width%3D%27733%27%20height%3D%27320%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="/wp-content/uploads/2018/12/scholarship-results.png"
+												data-orig-src="/wp-content/uploads/2018/12/scholarship-results.png') }}"
 												alt="" width="733" height="320" /></p>
 										<p><img class="lazyload alignnone size-full wp-image-13274"
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27414%27%20height%3D%27236%27%20viewBox%3D%270%200%20414%20236%27%3E%3Crect%20width%3D%27414%27%20height%3D%27236%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-orig-src="/wp-content/uploads/2018/12/ranking-position-B.png"
+												data-orig-src="/wp-content/uploads/2018/12/ranking-position-B.png') }}"
 												alt="" width="414" height="236" /></p>
-										<p><a href="../how-to-get-edu-backlinks-scholarship/index.html"
+										<p><a href="{{ route('how-to-get-edu-backlinks') }}"
 												target="_blank" rel="noopener noreferrer"><span
 													style="font-weight: 400;">Learn more about how to get
 													.EDU backlinks here.</span></a></p>
@@ -345,7 +345,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-11 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:55px;padding-right:30px;padding-bottom:0px;padding-left:30px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png">
+						data-bg="{{ asset('wp-content/uploads/2018/11/landing-page-section-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-15 fusion_builder_column_1_3 1_3 fusion-one-third fusion-column-first"
 								style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% + 4% ) * 0.33333333333333 ) );margin-right: 4%;margin-top:-75px;margin-bottom:0px;">
@@ -355,11 +355,11 @@
 										class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none verticalalignbottom"
 										style="margin-left:25px;float:right;max-width:275px;"><img
 											width="824" height="1240" alt="Tom Casano"
-											src="../wp-content/uploads/2018/11/tom-1.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2018/11/tom-1.png"
+											src="{{ asset('wp-content/uploads/2018/11/tom-1.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2018/11/tom-1.png') }}"
 											class="lazyload img-responsive wp-image-17333"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27824%27%20height%3D%271240%27%20viewBox%3D%270%200%20824%201240%27%3E%3Crect%20width%3D%27824%27%20height%3D%271240%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2018/11/tom-1-200x301.png 200w, https://www.sureoak.com/wp-content/uploads/2018/11/tom-1-400x602.png 400w, https://www.sureoak.com/wp-content/uploads/2018/11/tom-1-600x903.png 600w, https://www.sureoak.com/wp-content/uploads/2018/11/tom-1-800x1204.png 800w, https://www.sureoak.com/wp-content/uploads/2018/11/tom-1.png 824w"
+											data-srcset="{{ asset('wp-content/uploads/2018/11/tom-1-200x301.png') }} 200w, {{ asset('wp-content/uploads/2018/11/tom-1-400x602.png') }} 400w, {{ asset('wp-content/uploads/2018/11/tom-1-600x903.png') }} 600w, {{ asset('wp-content/uploads/2018/11/tom-1-800x1204.png') }} 800w, {{ asset('wp-content/uploads/2018/11/tom-1.png') }} 824w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -406,7 +406,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

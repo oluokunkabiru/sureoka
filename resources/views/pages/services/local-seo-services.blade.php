@@ -9,13 +9,13 @@
 			<div id="post-22612" class="post-22612 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; Local SEO</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2022-01-05T06:27:59-05:00</span>
 				<div class="post-content">
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:30px;padding-right:15%;padding-bottom:30px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2019/07/services_bg_gradient.jpg"
+						data-bg="{{ asset('wp-content/uploads/2019/07/services_bg_gradient.jpg') }}"
 						id="header">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first left"
@@ -65,7 +65,7 @@
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"
+													target="_self" href="{{ route('strategy') }}"
 													style="margin-bottom:10px;"><span
 														class="fusion-button-text">Speak with a local SEO
 														specialist now!</span></a>
@@ -87,7 +87,7 @@
 														alt="Local SEO &amp; Marketing"
 														title="svc-local-seo_icon"
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27496%27%20viewBox%3D%270%200%20600%20496%27%3E%3Crect%20width%3D%27600%27%20height%3D%27496%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/07/svc-local-seo_icon.png"
+														data-orig-src="{{ asset('wp-content/uploads/2019/07/svc-local-seo_icon.png') }}"
 														class="lazyload img-responsive wp-image-23569" /></span>
 											</div>
 										</div>
@@ -262,7 +262,7 @@
 															</style><a
 																class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span "
 																target="_self"
-																href="../strategy-call.html"><span
+																href="{{ route('strategy-call') }}"><span
 																	class="fusion-button-text">Get
 																	Started</span></a>
 														</div>
@@ -350,7 +350,7 @@
 															</style><a
 																class="fusion-button button-flat fusion-button-default-size button-custom button-3 fusion-button-default-span "
 																target="_self"
-																href="../strategy-call.html"><span
+																href="{{ route('strategy-call') }}"><span
 																	class="fusion-button-text">Get
 																	Started</span></a>
 														</div>
@@ -542,11 +542,11 @@
 											style="max-width:175px;"><img width="228" height="223"
 												alt="Responsify Monthly Traffic"
 												title="Responsify Monthly Traffic"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }}"
 												class="lazyload img-responsive wp-image-21392"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27228%27%20height%3D%27223%27%20viewBox%3D%270%200%20228%20223%27%3E%3Crect%20width%3D%27228%27%20height%3D%27223%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png 228w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1-200x196.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_09-1.png') }} 228w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 228px" /></span>
 									</div>
@@ -568,11 +568,11 @@
 											style="max-width:175px;"><img width="247" height="238"
 												alt="Increase in organic traffic"
 												title="case-studies-sub-pages_06"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }}"
 												class="lazyload img-responsive wp-image-21389"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27247%27%20height%3D%27238%27%20viewBox%3D%270%200%20247%20238%27%3E%3Crect%20width%3D%27247%27%20height%3D%27238%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_06.png 247w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06-200x193.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_06.png') }} 247w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 247px" /></span>
 									</div>
@@ -593,11 +593,11 @@
 											style="max-width:205px;"><img width="380" height="313"
 												alt="case study improvements"
 												title="case study improvements"
-												src="../wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png"
+												src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }}"
 												class="lazyload img-responsive wp-image-21388"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27313%27%20viewBox%3D%270%200%20380%20313%27%3E%3Crect%20width%3D%27380%27%20height%3D%27313%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png 200w, https://www.sureoak.com/wp-content/uploads/2019/04/case-studies-sub-pages_03.png 380w"
+												data-srcset="{{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03-200x165.png') }} 200w, {{ asset('wp-content/uploads/2019/04/case-studies-sub-pages_03.png') }} 380w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 380px" /></span>
 									</div>
@@ -643,7 +643,7 @@
 											class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type fusion-animated"
 											data-animationType="shake" data-animationDuration="0.3"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="../case-studies/organic-seo-case-study.html"><span
+											href="{{ route('organic-seo-case-study') }}"><span
 												class="fusion-button-text">Read the full Case
 												Study</span></a>
 									</div>
@@ -755,11 +755,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"
 											style="max-width:200px;"><img width="620" height="620"
 												alt="SEO Game Plan" title="Asset-1@2x"
-												src="../wp-content/uploads/2019/03/Asset-1%402x.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x.png"
+												src="{{ asset('wp-content/uploads/2019/03/Asset-1%402x.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-1@2x.png') }}"
 												class="lazyload img-responsive wp-image-20442"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27620%27%20height%3D%27620%27%20viewBox%3D%270%200%20620%20620%27%3E%3Crect%20width%3D%27620%27%20height%3D%27620%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x-400x400.png 400w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x-600x600.png 600w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-1@2x.png 620w"
+												data-srcset="{{ asset('wp-content/uploads/2019/03/Asset-1@2x-200x200.png') }} 200w, {{ asset('wp-content/uploads/2019/03/Asset-1@2x-400x400.png') }} 400w, {{ asset('wp-content/uploads/2019/03/Asset-1@2x-600x600.png') }} 600w, {{ asset('wp-content/uploads/2019/03/Asset-1@2x.png') }} 620w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									</div>
@@ -786,11 +786,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"
 											style="max-width:200px;"><img width="620" height="620"
 												alt="Tailored SEO Services" title="Asset-2@2x-1"
-												src="../wp-content/uploads/2019/03/Asset-2%402x-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1.png"
+												src="{{ asset('wp-content/uploads/2019/03/Asset-2%402x-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-2@2x-1.png') }}"
 												class="lazyload img-responsive wp-image-20443"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27620%27%20height%3D%27620%27%20viewBox%3D%270%200%20620%20620%27%3E%3Crect%20width%3D%27620%27%20height%3D%27620%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1-400x400.png 400w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1-600x600.png 600w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-2@2x-1.png 620w"
+												data-srcset="{{ asset('wp-content/uploads/2019/03/Asset-2@2x-1-200x200.png') }} 200w, {{ asset('wp-content/uploads/2019/03/Asset-2@2x-1-400x400.png') }} 400w, {{ asset('wp-content/uploads/2019/03/Asset-2@2x-1-600x600.png') }} 600w, {{ asset('wp-content/uploads/2019/03/Asset-2@2x-1.png') }} 620w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									</div>
@@ -817,11 +817,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-7 hover-type-none"
 											style="max-width:200px;"><img width="620" height="620"
 												alt="Premium Link Building" title="Asset-3@2x-1"
-												src="../wp-content/uploads/2019/03/Asset-3%402x-1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1.png"
+												src="{{ asset('wp-content/uploads/2019/03/Asset-3%402x-1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-3@2x-1.png') }}"
 												class="lazyload img-responsive wp-image-20444"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27620%27%20height%3D%27620%27%20viewBox%3D%270%200%20620%20620%27%3E%3Crect%20width%3D%27620%27%20height%3D%27620%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1-200x200.png 200w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1-400x400.png 400w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1-600x600.png 600w, https://www.sureoak.com/wp-content/uploads/2019/03/Asset-3@2x-1.png 620w"
+												data-srcset="{{ asset('wp-content/uploads/2019/03/Asset-3@2x-1-200x200.png') }} 200w, {{ asset('wp-content/uploads/2019/03/Asset-3@2x-1-400x400.png') }} 400w, {{ asset('wp-content/uploads/2019/03/Asset-3@2x-1-600x600.png') }} 600w, {{ asset('wp-content/uploads/2019/03/Asset-3@2x-1.png') }} 620w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 800px) 100vw, 400px" /></span>
 									</div>
@@ -909,7 +909,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-5 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Let&#8217;s do it</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>
@@ -1134,7 +1134,7 @@
 															the tactics and services that are necessary.</p>
 														<p>If you&#8217;d like to get a better idea of where
 															your SEO stands vs. where it needs to be, <a
-																href="../strategy-call.html">schedule a free
+																href="{{ route('strategy-call') }}">schedule a free
 																consultation</a> with us. Once we assess
 															your needs and your position in the market,
 															we&#8217;ll provide you with an estimate.</p>
@@ -1205,7 +1205,7 @@
 											businesses get found online.</h2>
 									</div>
 									<div class="fusion-text fusion-text-17">
-										<p>As a <a href="../about.html">full-service SEO agency</a>, Sure
+										<p>As a <a href="{{ route('about') }}">full-service SEO agency</a>, Sure
 											Oak offers local SEO services to help your business succeed in
 											the digital age. Through proven SEO tactics, our team of
 											experienced professionals will help you find more customers and
@@ -1222,7 +1222,7 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:40px;padding-right:40px;padding-bottom:0px;padding-left:10px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="https://www.sureoak.com/wp-content/uploads/2018/11/landing-page-section-bg.png"
+						data-bg="{{ asset('wp-content/uploads/2018/11/landing-page-section-bg.png') }}"
 						id="speak-to-expert">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-19 fusion_builder_column_2_5 2_5 fusion-two-fifth fusion-column-first"
@@ -1233,11 +1233,11 @@
 										class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none verticalalignbottom tom-logan"
 										style="margin-left:25px;float:right;max-width:450px;"><img
 											width="800" height="606" alt="Tom Casano and Logan Palmer"
-											src="../wp-content/uploads/2019/02/tom-logan-copy.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png"
+											src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
 											class="lazyload img-responsive wp-image-19742"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27606%27%20viewBox%3D%270%200%20800%20606%27%3E%3Crect%20width%3D%27800%27%20height%3D%27606%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png 800w"
+											data-srcset="{{ asset('wp-content/uploads/2019/02/tom-logan-copy-200x152.png') }} 200w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-400x303.png') }} 400w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-600x455.png') }} 600w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }} 800w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -1286,7 +1286,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-6 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Schedule my free strategy
 												session</span></a>
 									</div>

@@ -10,7 +10,7 @@ Scholarship')
 			<div id="post-17189" class="post-17189 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">How to Get .EDU Backlinks with a
 					Scholarship</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/andres.html" title="Posts by andres"
+							href="#" title="Posts by andres"
 							rel="author">andres</a></span></span><span
 					class="updated rich-snippet-hidden">2019-08-01T13:52:23-04:00</span>
 				<div class="post-content">
@@ -24,7 +24,7 @@ Scholarship')
 									<div class="fusion-text fusion-text-1">
 										<h1 style="text-align: center;">How to Get .EDU Backlinks with a
 											Scholarship</h1>
-										<p>If you want to <a href="../keyword-ranking-case-study/index.html"
+										<p>If you want to <a href="{{ route('keyword-ranking-case-study') }}"
 												target="_blank" rel="noopener noreferrer">rank higher and
 												drive more organic traffic</a> to your website, then you
 											need to get more authoritative and trustworthy backlinks.</p>
@@ -32,7 +32,7 @@ Scholarship')
 											mysterious endeavor for most companies.</p>
 										<p>After all, how can you get a significant number of these
 											high-quality links in a legitimate and effective way?</p>
-										<p><a href="../scholarship-edu-backlink-case-studies/index.html"
+										<p><a href="{{ route('scholarship-edu-backlink-case-studies') }}"
 												target="_blank" rel="noopener noreferrer">Scholarship link
 												building is a highly effective strategy</a> for this, and
 											will help your site rank higher and get more traffic.</p>
@@ -54,7 +54,7 @@ Scholarship')
 											several months, and perform heavy outreach for it to be
 											effective.  But it will pay dividends in the long term.</p>
 										<p>If you want your company to rank higher and <a
-												href="../featured-scholarship-case-study/index.html"
+												href="{{ route('featured-scholarship-case-study') }}"
 												target="_blank" rel="noopener noreferrer">get more traffic
 												with a white hat link building strategy</a>, you might be a
 											good fit for a scholarship link building campaign.</p>
@@ -76,7 +76,7 @@ Scholarship')
 										<p>As mentioned before, backlinks from high DA, authoritative .EDU
 											sites will increase your website’s authority to Google. Even a
 											handful of links from .EDU sites will <a
-												href="../seo-tools/domain-authority-checker.html"
+												href="{{ route('seo-tools') }}"
 												target="_blank" rel="noopener noreferrer">boost your domain
 												authority</a>, your domain rating, and your Trust Flow.</p>
 										<h3>Backlinks stay active for long periods of time</h3>
@@ -144,7 +144,7 @@ Scholarship')
 											Google).</p>
 										<p>To note: if localized marketing is a priority for your business,
 											Sure Oak offers additional,<a
-												href="local-seo-services/index.html" target="_blank"
+												href="{{ route('seo-plan') }}" target="_blank"
 												rel="noopener noreferrer"> specialized local SEO
 												services</a>.</p>
 										<h3>Giving back to the community</h3>
@@ -177,7 +177,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:40px;padding-bottom:0px;padding-left:10px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png">
+						data-bg="{{ asset('wp-content/uploads/2018/11/landing-page-section-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_2_5 2_5 fusion-two-fifth fusion-column-first"
 								style="width:40%;width:calc(40% - ( ( 4% ) * 0.4 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
@@ -187,11 +187,11 @@ Scholarship')
 										class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none verticalalignbottom"
 										style="margin-left:25px;float:right;max-width:450px;"><img
 											width="800" height="606" alt="Tom Casano and Logan Palmer"
-											src="../wp-content/uploads/2019/02/tom-logan-copy.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png"
+											src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
 											class="lazyload img-responsive wp-image-19742"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27606%27%20viewBox%3D%270%200%20800%20606%27%3E%3Crect%20width%3D%27800%27%20height%3D%27606%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png 800w"
+											data-srcset="{{ asset('wp-content/uploads/2019/02/tom-logan-copy-200x152.png') }} 200w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-400x303.png') }} 400w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-600x455.png') }} 600w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }} 800w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -239,7 +239,7 @@ Scholarship')
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>
@@ -258,11 +258,11 @@ Scholarship')
 									<div class="fusion-text fusion-text-3">
 										<h2>How to get .EDU scholarship backlinks</h2>
 										<p><img class="lazyload size-full wp-image-22334 aligncenter"
-												src="../wp-content/uploads/2019/05/scholarship-edu-backlinks1.png"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1.png"
+												src="{{ asset('wp-content/uploads/2019/05/scholarship-edu-backlinks1.png') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/05/scholarship-edu-backlinks1.png') }}"
 												alt="scholarship-edu-backlinks" width="768" height="545"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27768%27%20height%3D%27545%27%20viewBox%3D%270%200%20768%20545%27%3E%3Crect%20width%3D%27768%27%20height%3D%27545%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-200x142.png 200w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-300x214.png 300w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-400x284.png 400w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1-600x426.png 600w, https://www.sureoak.com/wp-content/uploads/2019/05/scholarship-edu-backlinks1.png 768w"
+												data-srcset="{{ asset('wp-content/uploads/2019/05/scholarship-edu-backlinks1-200x142.png') }} 200w, {{ asset('wp-content/uploads/2019/05/scholarship-edu-backlinks1-300x214.png') }} 300w, {{ asset('wp-content/uploads/2019/05/scholarship-edu-backlinks1-400x284.png') }} 400w, {{ asset('wp-content/uploads/2019/05/scholarship-edu-backlinks1-600x426.png') }} 600w, {{ asset('wp-content/uploads/2019/05/scholarship-edu-backlinks1.png') }} 768w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 768px) 100vw, 768px" /></p>
 										<p>So, how do we get .EDU scholarship backlinks? The quick and easy
@@ -298,11 +298,11 @@ Scholarship')
 											company’s interest in supporting education. It should align with
 											your company’s core vision, mission, and values.</p>
 										<p><img class="lazyload aligncenter wp-image-20336"
-												src="../wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks.jpg"
-												data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks.jpg"
+												src="{{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks.jpg') }}"
+												data-orig-src="{{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks.jpg') }}"
 												alt="Scholarship edu link building" width="750" height="562"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27750%27%20height%3D%27562%27%20viewBox%3D%270%200%20750%20562%27%3E%3Crect%20width%3D%27750%27%20height%3D%27562%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-												data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-200x150.jpg 200w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-300x225.jpg 300w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-400x300.jpg 400w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-600x450.jpg 600w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-768x576.jpg 768w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-800x600.jpg 800w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-1024x768.jpg 1024w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-1200x900.jpg 1200w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks.jpg 2134w"
+												data-srcset="{{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-200x150.jpg') }} 200w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-300x225.jpg') }} 300w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-400x300.jpg') }} 400w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-600x450.jpg') }} 600w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-768x576.jpg') }} 768w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-800x600.jpg') }} 800w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-1024x768.jpg') }} 1024w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks-1200x900.jpg') }} 1200w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-backlinks.jpg') }} 2134w"
 												data-sizes="auto"
 												data-orig-sizes="(max-width: 750px) 100vw, 750px" /></p>
 										<p>Once you’ve approved the scholarship page and it’s live on your
@@ -343,7 +343,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-parallax-none add-padding-desktop nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:45px;padding-right:15%;padding-bottom:45px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/01/sureoak-careers.png">
+						data-bg="{{ asset('wp-content/uploads/2019/01/sureoak-careers.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -382,7 +382,7 @@ Scholarship')
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359"
 														alt="Sure Oak’s SEO strategy and execution grew our organic traffic by 300% in the first 6 months. Our Domain Authority went up by 14 points and we continue to get more leads every month. Trust in Sure Oak and you’ll get extraordinary results."
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/testimonials-1.png" />
+														data-orig-src="{{ asset('wp-content/uploads/2019/01/testimonials-1.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -414,7 +414,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:45px;padding-right:15%;padding-bottom:45px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/01/sureoak-careers.png">
+						data-bg="{{ asset('wp-content/uploads/2019/01/sureoak-careers.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -453,7 +453,7 @@ Scholarship')
 														src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27370%27%20height%3D%27359%27%20viewBox%3D%270%200%20370%20359%27%3E%3Crect%20width%3D%27370%27%20height%3D%27359%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 														width="370" height="359"
 														alt="Sure Oak’s SEO strategy and execution grew our organic traffic by 300% in the first 6 months. Our Domain Authority went up by 14 points and we continue to get more leads every month. Trust in Sure Oak and you’ll get extraordinary results."
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/01/testimonials-1.png" />
+														data-orig-src="{{ asset('wp-content/uploads/2019/01/testimonials-1.png') }}" />
 												</div>
 												<blockquote style="margin: -25px;"><q
 														style="background-color:rgba(255,255,255,0);color:#424242;"
@@ -547,7 +547,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-parallax-none hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center top;background-repeat: no-repeat;padding-top:50px;padding-right:12%;padding-bottom:50px;padding-left:12%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2019/01/background.jpg">
+						data-bg="{{ asset('wp-content/uploads/2019/01/background.jpg') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-7 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:20px;">
@@ -577,17 +577,17 @@ Scholarship')
 									</div><span
 										class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"><img
 											width="1000" height="673" alt="EDU Link Building Case Study"
-											title="EDU" src="../wp-content/uploads/2019/04/EDU.jpg"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/EDU.jpg"
+											title="EDU" src="{{ asset('wp-content/uploads/2019/04/EDU.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2019/04/EDU.jpg') }}"
 											class="lazyload img-responsive wp-image-21656"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%27673%27%20viewBox%3D%270%200%201000%20673%27%3E%3Crect%20width%3D%271000%27%20height%3D%27673%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/EDU-200x135.jpg 200w, https://www.sureoak.com/wp-content/uploads/2019/04/EDU-400x269.jpg 400w, https://www.sureoak.com/wp-content/uploads/2019/04/EDU-600x404.jpg 600w, https://www.sureoak.com/wp-content/uploads/2019/04/EDU-800x538.jpg 800w, https://www.sureoak.com/wp-content/uploads/2019/04/EDU.jpg 1000w"
+											data-srcset="{{ asset('wp-content/uploads/2019/04/EDU-200x135.jpg') }} 200w, {{ asset('wp-content/uploads/2019/04/EDU-400x269.jpg') }} 400w, {{ asset('wp-content/uploads/2019/04/EDU-600x404.jpg') }} 600w, {{ asset('wp-content/uploads/2019/04/EDU-800x538.jpg') }} 800w, {{ asset('wp-content/uploads/2019/04/EDU.jpg') }} 1000w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, (max-width: 1919px) 800px,(min-width: 1920px) 50vw" /></span>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="../scholarship-edu-backlink-case-studies/index.html"><span
+										href="{{ route('strategy-call') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -603,17 +603,17 @@ Scholarship')
 										class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none"><img
 											width="1000" height="673" alt="scholarship Sureoak strategy"
 											title="scholarship"
-											src="../wp-content/uploads/2019/04/scholarship.jpg"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/04/scholarship.jpg"
+											src="{{ asset('wp-content/uploads/2019/04/scholarship.jpg') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2019/04/scholarship.jpg') }}"
 											class="lazyload img-responsive wp-image-21659"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%27673%27%20viewBox%3D%270%200%201000%20673%27%3E%3Crect%20width%3D%271000%27%20height%3D%27673%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/04/scholarship-200x135.jpg 200w, https://www.sureoak.com/wp-content/uploads/2019/04/scholarship-400x269.jpg 400w, https://www.sureoak.com/wp-content/uploads/2019/04/scholarship-600x404.jpg 600w, https://www.sureoak.com/wp-content/uploads/2019/04/scholarship-800x538.jpg 800w, https://www.sureoak.com/wp-content/uploads/2019/04/scholarship.jpg 1000w"
+											data-srcset="{{ asset('wp-content/uploads/2019/04/scholarship-200x135.jpg') }} 200w, {{ asset('wp-content/uploads/2019/04/scholarship-400x269.jpg') }} 400w, {{ asset('wp-content/uploads/2019/04/scholarship-600x404.jpg') }} 600w, {{ asset('wp-content/uploads/2019/04/scholarship-800x538.jpg') }} 800w, {{ asset('wp-content/uploads/2019/04/scholarship.jpg') }} 1000w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, (max-width: 1919px) 800px,(min-width: 1920px) 50vw" /></span>
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="../featured-scholarship-case-study/index.html"><span
+										href="{{ route('featured-scholarship-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -621,7 +621,7 @@ Scholarship')
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-parallax-none landing-page-special-popout nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
 						style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:65px;padding-right:40px;padding-bottom:0px;padding-left:10px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-						data-bg="../wp-content/uploads/2018/11/landing-page-section-bg.png">
+						data-bg="{{ asset('wp-content/uploads/2018/11/landing-page-section-bg.png') }}">
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-10 fusion_builder_column_2_5 2_5 fusion-two-fifth fusion-column-first"
 								style="width:40%;width:calc(40% - ( ( 4% ) * 0.4 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
@@ -631,11 +631,11 @@ Scholarship')
 										class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none verticalalignbottom"
 										style="margin-left:25px;float:right;max-width:450px;"><img
 											width="800" height="606" alt="Tom Casano and Logan Palmer"
-											src="../wp-content/uploads/2019/02/tom-logan-copy.png"
-											data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png"
+											src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
+											data-orig-src="{{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }}"
 											class="lazyload img-responsive wp-image-19742"
 											srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27606%27%20viewBox%3D%270%200%20800%20606%27%3E%3Crect%20width%3D%27800%27%20height%3D%27606%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-											data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-200x152.png 200w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-400x303.png 400w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy-600x455.png 600w, https://www.sureoak.com/wp-content/uploads/2019/02/tom-logan-copy.png 800w"
+											data-srcset="{{ asset('wp-content/uploads/2019/02/tom-logan-copy-200x152.png') }} 200w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-400x303.png') }} 400w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy-600x455.png') }} 600w, {{ asset('wp-content/uploads/2019/02/tom-logan-copy.png') }} 800w"
 											data-sizes="auto"
 											data-orig-sizes="(max-width: 800px) 100vw, 600px" /></span>
 									<div class="fusion-clearfix"></div>
@@ -683,7 +683,7 @@ Scholarship')
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>
@@ -703,16 +703,16 @@ Scholarship')
 										<div class="awb-image-frame awb-image-frame-5 imageframe-liftup"
 											style="max-width:600px;"><span
 												class=" fusion-imageframe imageframe-none imageframe-5"><a
-													class="fusion-no-lightbox" href="../strategy-call.html"
+													class="fusion-no-lightbox" href="{{ route('strategy-call') }}"
 													target="_self"
 													aria-label="scholarship-link-building-edu"><img
 														width="800" height="2000"
 														alt="How to Make Your Scholarship Page a Success"
-														src="../wp-content/uploads/2019/02/scholarship-link-building-edu.jpg"
-														data-orig-src="https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu.jpg"
+														src="{{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu.jpg') }}"
+														data-orig-src="{{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu.jpg') }}"
 														class="lazyload img-responsive wp-image-20284"
 														srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%272000%27%20viewBox%3D%270%200%20800%202000%27%3E%3Crect%20width%3D%27800%27%20height%3D%272000%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-														data-srcset="https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-200x500.jpg 200w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-400x1000.jpg 400w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu-600x1500.jpg 600w, https://www.sureoak.com/wp-content/uploads/2019/02/scholarship-link-building-edu.jpg 800w"
+														data-srcset="{{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-200x500.jpg') }} 200w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-400x1000.jpg') }} 400w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu-600x1500.jpg') }} 600w, {{ asset('wp-content/uploads/2019/02/scholarship-link-building-edu.jpg') }} 800w"
 														data-sizes="auto"
 														data-orig-sizes="(max-width: 800px) 100vw, 800px" /></a></span>
 										</div>
