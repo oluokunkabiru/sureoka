@@ -1,5 +1,6 @@
 <link rel='dns-prefetch' href='http://js.hs-scripts.com/' />
 <link rel="stylesheet" href="{{ asset('wp-content/uploads/fusion-styles/cb16eccda234cdde2940293c68cdad1c.min.css') }}">	
+<link rel="stylesheet" href="{{ asset('wp-content/uploads/fusion-styles/e2f4dbe00fc8211832e6f7dc12ca2e7c.min.css') }}">
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<link rel="shortcut icon" href="{{ Voyager::image( setting('site.logo')) }}" type="image/x-icon" />
@@ -520,7 +521,7 @@
 <style type="text/css" id="wp-custom-css">
     /*
 * Use child theme!!
-* https:https://surelyoak.com/wp-admin/theme-editor.php
+* https://www.surelyoak.com/wp-admin/theme-editor.php
 */
 </style>
 <style type="text/css" title="dynamic-css" class="options-output">
