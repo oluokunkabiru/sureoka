@@ -1,5 +1,7 @@
 <link rel='dns-prefetch' href='http://js.hs-scripts.com/' />
-	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel="stylesheet" href="{{ asset('wp-content/uploads/fusion-styles/cb16eccda234cdde2940293c68cdad1c.min.css') }}">	
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<link rel="shortcut icon" href="{{ Voyager::image( setting('site.logo')) }}" type="image/x-icon" />
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ Voyager::image( setting('site.logo')) }}">
 	<link rel="icon" sizes="192x192" href="{{ Voyager::image( setting('site.logo')) }}">
@@ -518,7 +520,7 @@
 <style type="text/css" id="wp-custom-css">
     /*
 * Use child theme!!
-* https://www.sureoak.com/wp-admin/theme-editor.php
+* https://surelyoak.com/wp-admin/theme-editor.php
 */
 </style>
 <style type="text/css" title="dynamic-css" class="options-output">

@@ -27,7 +27,8 @@
                                         style="font-size:36px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
                                         <h1 class="title-heading-center"
                                             style="margin:0;font-size:1em;color:#ffffff;line-height:50px;">
-                                            Let&#8217;s grow together.</h1>
+                                            {{ $job->title }}    
+                                        </h1>
                                     </div>
                                     <div class="fusion-sep-clear"></div>
                                     <div class="fusion-separator fusion-full-width-sep"
@@ -39,10 +40,8 @@
                                         style="font-size:22px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
                                         <h3 class="title-heading-center"
                                             style="margin:0;font-size:1em;color:#ffffff;line-height:34px;">
-                                            We’ve found the secret to a happy work life.  It’s a zesty combo
-                                            of intention, purpose-driven service, and personal freedom. And
-                                            of course, awesome people.  Grow your career, make an impact,
-                                            and enjoy the freedom of working remotely with us.</h3>
+                                        {{ $job->excerpt }}    
+                                        </h3>
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
@@ -65,11 +64,18 @@
                                         </h2>
                                     </div> --}}
                                     <ul class="special-icons">
-                                        <li><i
+                                        <li>
+                                            <i
                                                 class="fontawesome-icon fa-map-marker-alt fas circle-no"></i>Remote
                                             Job</li>
-                                        <li><i class="fontawesome-icon fa-clock far circle-no"></i>Full-time
+                                        <li>
+                                            <i class="fontawesome-icon fa-clock far circle-no"></i>Full-time
                                         </li>
+
+                                        <li>
+                                            <i class="fontawesome-icon fa-clock far circle-no"></i>Part-time
+                                        </li>
+                                        
                                     </ul>
                                     <div class="fusion-clearfix"></div>
                                 </div>
@@ -462,7 +468,7 @@
                     </div>
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
                         style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:5%;padding-right:20%;padding-bottom:5%;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
-                        data-bg="../wp-content/uploads/2019/10/jobs-footer.jpg">
+                        data-bg="{{ asset('wp-content/uploads/2019/10/jobs-footer.jpg') }}">
                         <div class="fusion-builder-row fusion-row">
                             <div class="fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
                                 style="margin-top:0px;margin-bottom:20px;">

@@ -8,12 +8,13 @@
     <div class="fusion-row" style="max-width:100%;">
         <section id="content" class="full-width">
             <div id="post-16946" class="post-16946 page type-page status-publish hentry">
-                 {{-- <span
-                    class="entry-title rich-snippet-hidden">[Remote] Expert SEO Strategist For
-                    Mission-Driven SEO Agency</span><span class="vcard rich-snippet-hidden"><span
+                 <span
+                    class="entry-title rich-snippet-hidden">
+                    {{ $job->title }}
+                </span><span class="vcard rich-snippet-hidden"><span
                         class="fn"><a href="{{ route('welcome') }}" title="Posts by andres"
                             rel="author">andres</a></span></span><span
-                    class="updated rich-snippet-hidden">2021-09-17T09:07:47-04:00</span> --}}
+                    class="updated rich-snippet-hidden">{{ date("d-m-Y h:s:ia") }}</span>
                 <div class="post-content">
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
                         style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:2%;padding-right:20%;padding-bottom:2%;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
