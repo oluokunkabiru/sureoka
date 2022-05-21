@@ -133,23 +133,23 @@
 						<div class="fusion-row">
 							<div class="fusion-logo" data-margin-top="10px" data-margin-bottom="10px"
 								data-margin-left="0px" data-margin-right="0px"> <a class="fusion-logo-link"
-									href="{{ route('welcome') }}"> <img src="{{ asset('wp-content/uploads/2018/11/sureoak_logo-1x-1.png') }}"
-										srcset="{{ asset('wp-content/uploads/2018/11/sureoak_logo-1x-1.png 1x') }}, {{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png 2x') }}"
+									href="{{ route('welcome') }}"> <img src="{{ Voyager::image( setting('site.logo')) }}"
+										srcset="{{ Voyager::image( setting('site.logo')) }}, {{ Voyager::image( setting('site.logo')) }}"
 										width="223" height="63" style="max-height:63px;height:auto;"
-										alt="Sure Oak SEO Logo"
-										data-retina_logo_url="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
+										alt="{{ setting('site.title') }}"
+										data-retina_logo_url="{{ Voyager::image( setting('site.logo')) }}"
 										class="fusion-standard-logo" /> <img
-										src="{{ asset('wp-content/uploads/2019/04/sureoak_logo-1x-1-Mobile.jpg') }}"
-										srcset="{{ asset('wp-content/uploads/2019/04/sureoak_logo-1x-1-Mobile.jpg') }} 1x, {{ asset('wp-content/uploads/2019/04/sureoak_logo-ret.jpg') }} 2x"
+										src="{{ Voyager::image( setting('site.logo')) }}"
+										srcset="{{ Voyager::image( setting('site.logo')) }} 1x, {{ Voyager::image( setting('site.logo')) }} 2x"
 										width="150" height="42" style="max-height:42px;height:auto;"
-										alt="Sure Oak SEO Logo"
-										data-retina_logo_url="{{ asset('wp-content/uploads/2019/04/sureoak_logo-ret.jpg') }}"
+										alt="{{ setting('site.title') }}"
+										data-retina_logo_url="{{ Voyager::image( setting('site.logo')) }}"
 										class="fusion-mobile-logo" /> <img
-										src="{{ asset('wp-content/uploads/2018/11/sureoak_logo-1x-1.png') }}"
-										srcset="{{ asset('wp-content/uploads/2018/11/sureoak_logo-1x-1.png') }} 1x, {{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }} 2x"
+										src="{{ Voyager::image( setting('site.logo')) }}"
+										srcset="{{ Voyager::image( setting('site.logo')) }} 1x, {{ Voyager::image( setting('site.logo')) }} 2x"
 										width="223" height="63" style="max-height:63px;height:auto;"
-										alt="Sure Oak SEO Logo"
-										data-retina_logo_url="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
+										alt="{{ setting('site.title') }}"
+										data-retina_logo_url="{{ Voyager::image( setting('site.logo')) }}"
 										class="fusion-sticky-logo" /> </a></div>
 							<nav class="fusion-main-menu" aria-label="Main Menu">
 								<ul id="menu-primary-navigation-mega-menu" class="fusion-menu">

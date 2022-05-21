@@ -6,12 +6,21 @@
 <main id="main" class="clearfix width-100">
     <div class="fusion-row" style="max-width:100%;">
         <section id="content" class="full-width">
+<<<<<<< HEAD
             <div id="post-16946" class="post-16946 page type-page status-publish hentry"> <span
+=======
+            <div id="post-16946" class="post-16946 page type-page status-publish hentry">
+                 {{-- <span
+>>>>>>> master
                     class="entry-title rich-snippet-hidden">[Remote] Expert SEO Strategist For
                     Mission-Driven SEO Agency</span><span class="vcard rich-snippet-hidden"><span
                         class="fn"><a href="{{ route('welcome') }}" title="Posts by andres"
                             rel="author">andres</a></span></span><span
+<<<<<<< HEAD
                     class="updated rich-snippet-hidden">2021-09-17T09:07:47-04:00</span>
+=======
+                    class="updated rich-snippet-hidden">2021-09-17T09:07:47-04:00</span> --}}
+>>>>>>> master
                 <div class="post-content">
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
                         style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:2%;padding-right:20%;padding-bottom:2%;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
@@ -56,13 +65,21 @@
                                 <div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
                                     style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 10% 0px 10%;">
                                     <style type="text/css"></style>
+<<<<<<< HEAD
                                     <div class="fusion-title title fusion-title-3 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-two"
+=======
+                                    {{-- <div class="fusion-title title fusion-title-3 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-two"
+>>>>>>> master
                                         style="font-size:30px;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;">
                                         <h2 class="title-heading-center"
                                             style="margin:0;font-size:1em;color:#267399;line-height:44px;">
                                             Expert SEO Strategist For Mission-Driven SEO Agency (Remote)
                                         </h2>
+<<<<<<< HEAD
                                     </div>
+=======
+                                    </div> --}}
+>>>>>>> master
                                     <ul class="special-icons">
                                         <li><i
                                                 class="fontawesome-icon fa-map-marker-alt fas circle-no"></i>Remote
@@ -150,17 +167,26 @@
                                         </style><a
                                             class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type btn-xtra-padding"
                                             target="_blank" rel="noopener noreferrer"
+<<<<<<< HEAD
                                             href="{{ route('application') }}"><span
+=======
+                                            href="{{ route('application', $job->slug) }}"><span
+>>>>>>> master
                                                 class="fusion-button-text">Apply now</span></a>
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
                             </div>
+<<<<<<< HEAD
                             <div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
+=======
+                            {{-- <div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
+>>>>>>> master
                                 style="margin-top:0px;margin-bottom:20px;">
                                 <div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
                                     style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 30px 0px 0px 0px;">
                                     <div class="fusion-text fusion-text-1">
+<<<<<<< HEAD
                                         <p>Are you an experienced SEO Strategist who wants to work remotely
                                             and full-time with an awesome team?</p>
                                         <p>We’re actively seeking a proven, professional, and reliable SEO
@@ -174,6 +200,9 @@
                                             customers. Our culture is fun, supportive, and forward-thinking.
                                             We believe in continuous self-improvement and growth, and being
                                             awesome human beings to each other.</p>
+=======
+                                        <p>{{ $job->excerpt }}</p>
+>>>>>>> master
                                         <p><a href="{{ route('careers') }}">Learn more about what a career at Sure Oak
                                                 is like here</a>.</p>
                                         <h3>Our Ideal Candidate:</h3>
@@ -429,6 +458,7 @@
                                         </li>
                                     </ul>
                                     <div class="fusion-text fusion-text-5">
+<<<<<<< HEAD
                                         <h3>About Sure Oak&#8217;s Culture:</h3>
                                         <p>Sure Oak’s mission is to empower people to reach their full
                                             potential and live their wildest dreams. We value being awesome,
@@ -457,6 +487,9 @@
                                         <p>Sure Oak LLC is an Affirmative Action/Equal Opportunity Employer,
                                             and we are committed to hiring a diverse and talented workforce.
                                             EOE/AA/M/F/D/V.</p>
+=======
+                                       {!! $job->description !!}
+>>>>>>> master
                                     </div>
                                     <div class="fusion-aligncenter">
                                         <style>
@@ -488,12 +521,22 @@
                                         </style><a
                                             class="fusion-button button-flat button-xlarge button-custom button-3 fusion-button-default-span fusion-button-default-type btn-xtra-padding"
                                             target="_blank" rel="noopener noreferrer"
+<<<<<<< HEAD
                                             href="{{ route('application') }}"><span
+=======
+                                            href="{{ route('application', $job->excerpt) }}"><span
+>>>>>>> master
                                                 class="fusion-button-text">Apply now</span></a>
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
+<<<<<<< HEAD
                             </div>
+=======
+                            </div> --}}
+
+                            {!! $job->description !!}
+>>>>>>> master
                         </div>
                     </div>
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
@@ -539,7 +582,11 @@
                                             }
                                         </style><a
                                             class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
+<<<<<<< HEAD
                                             target="_self" href="index.html"><span
+=======
+                                            target="_self" href="{{ route('welcome') }}"><span
+>>>>>>> master
                                                 class="fusion-button-text">Learn more about Sure Oak&#x27;s
                                                 culture</span></a>
                                     </div>

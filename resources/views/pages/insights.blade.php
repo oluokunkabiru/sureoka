@@ -86,20 +86,20 @@
 												<ul id="menu-blog-submenu-row-1" class="menu">
 													<li id="menu-item-17446"
 														class="nav-item-all menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-94 current_page_item menu-item-17446">
-														<a href="insights.html" aria-current="page">All</a>
+														<a href="{{ route('insights') }}" aria-current="page">All</a>
 													</li>
 													<li id="menu-item-18121"
 														class="nav-item-podcast menu-item menu-item-type-post_type menu-item-object-page menu-item-18121">
-														<a href="podcasts.html">Podcast</a></li>
+														<a href="{{ route('podcasts') }}">Podcast</a></li>
 													<li id="menu-item-18129"
 														class="nav-item-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18129">
-														<a href="seo.html">SEO</a></li>
+														<a href="{{ route('seo') }}">SEO</a></li>
 													<li id="menu-item-18130"
 														class="nav-item-strategy menu-item menu-item-type-post_type menu-item-object-page menu-item-18130">
-														<a href="strategy.html">Strategy</a></li>
+														<a href="{{ route('strategy') }}">Strategy</a></li>
 													<li id="menu-item-17712"
 														class="nav-item-b2b menu-item menu-item-type-post_type menu-item-object-page menu-item-17712">
-														<a href="b2b.html">B2B</a></li>
+														<a href="{{ route('b2b-saas-case-study') }}">B2B</a></li>
 												</ul>
 											</nav>
 										</div>
@@ -182,20 +182,20 @@
 												<ul id="menu-blog-submenu-row-2" class="menu">
 													<li
 														class="nav-item-all menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-94 current_page_item menu-item-17446">
-														<a href="insights.html" aria-current="page">All</a>
+														<a href="{{ route('insights') }}" aria-current="page">All</a>
 													</li>
 													<li
 														class="nav-item-podcast menu-item menu-item-type-post_type menu-item-object-page menu-item-18121">
-														<a href="podcasts.html">Podcast</a></li>
+														<a href="{{ route('podcasts') }}">Podcast</a></li>
 													<li
 														class="nav-item-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18129">
-														<a href="seo.html">SEO</a></li>
+														<a href="{{ route('seo') }}">SEO</a></li>
 													<li
 														class="nav-item-strategy menu-item menu-item-type-post_type menu-item-object-page menu-item-18130">
-														<a href="strategy.html">Strategy</a></li>
+														<a href="{{ route('strategy') }}">Strategy</a></li>
 													<li
 														class="nav-item-b2b menu-item menu-item-type-post_type menu-item-object-page menu-item-17712">
-														<a href="b2b.html">B2B</a></li>
+														<a href="{{ route('b2b-saas-case-study') }}">B2B</a></li>
 												</ul>
 											</nav>
 										</div>
@@ -239,7 +239,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/why-seo-important-for-business-growth.html"
+																		href="{{ route('website-design-development') }}"
 																		aria-label="Why SEO is Important for Business Growth in 2022">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2022/04/why-seo-is-important-for-business-growth.png') }}"
@@ -258,11 +258,11 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/why-seo-important-for-business-growth.html">Why
+																	href="{{ route('insights') }}">Why
 																	SEO is Important for Business Growth in
 																	2022</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -293,7 +293,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/how-seo-cro-complement-each-other.html"
+																		href="{{ route('how-to-get-edu-backlinks') }}"
 																		aria-label="How SEO and CRO Complement Each Other">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2022/03/seo-serps-image.png') }}"
@@ -313,11 +313,11 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/how-seo-cro-complement-each-other.html">How
+																	href="{{ route('how-to-get-edu-backlinks') }}">How
 																	SEO and CRO Complement Each Other</a>
 															</h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -348,7 +348,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/sure-oak-won-new-york-excellence-award-2021-upcity.html"
+																		href="{{ route('about') }}"
 																		aria-label="Sure Oak Announced as a 2021 Local Excellence Award Winner by UpCity!">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2021/08/local-excellence-award-winner.png') }}"
@@ -368,12 +368,12 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/sure-oak-won-new-york-excellence-award-2021-upcity.html">Sure
+																	href="{{ route('about') }}">Sure
 																	Oak Announced as a 2021 Local Excellence
 																	Award Winner by UpCity!</a></h2><span
 																class="vcard" style="display: none;"><span
 																	class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -402,7 +402,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/google-core-web-vitals-algorithm-update.html"
+																		href="{{ route('google-analytics-consultant') }}"
 																		aria-label="Google&#8217;s Core Web Vitals: Everything You Need to Know">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2021/08/google-core-web-vitals.png') }}"
@@ -422,11 +422,11 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/google-core-web-vitals-algorithm-update.html">Google&#8217;s
+																	href="{{ route('google-analytics-consultant') }}">Google&#8217;s
 																	Core Web Vitals: Everything You Need to
 																	Know</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -456,7 +456,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/goodfirm-interview-kim-melillo-ceo-top-seo-company-in-new-york.html"
+																		href="{{ route('google-analytics-consultant') }}"
 																		aria-label="Sure Oak&#8217;s CEO Kim K. Melillo Is Driving the Firm with Innovative Thinking, Customized Strategies, &#038; Reliable Connections: GoodFirms">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2021/07/kim-melillo-interview-list.jpg') }}"
@@ -476,14 +476,14 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/goodfirm-interview-kim-melillo-ceo-top-seo-company-in-new-york.html">Sure
+																	href="{{ route('google-analytics-consultant') }}">Sure
 																	Oak&#8217;s CEO Kim K. Melillo Is
 																	Driving the Firm with Innovative
 																	Thinking, Customized Strategies, &#038;
 																	Reliable Connections: GoodFirms</a></h2>
 															<span class="vcard" style="display: none;"><span
 																	class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -512,7 +512,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/goodfirms-top-digital-marketing-company-2021.html"
+																		href="{{ route('google-analytics-consultant') }}"
 																		aria-label="Innovative Solutions, Expert Services, and Professionalism Makes Sure Oak Deliver Result-oriented Digital Marketing Services: GoodFirms">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2021/07/top-digital-marketing-company-list.png') }}"
@@ -532,14 +532,14 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/goodfirms-top-digital-marketing-company-2021.html">Innovative
+																	href="{{ route('google-analytics-consultant') }}">Innovative
 																	Solutions, Expert Services, and
 																	Professionalism Makes Sure Oak Deliver
 																	Result-oriented Digital Marketing
 																	Services: GoodFirms</a></h2><span
 																class="vcard" style="display: none;"><span
 																	class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -568,7 +568,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/link-building-tools-list-2021.html"
+																		href="{{ route('link-building') }}"
 																		aria-label="The Ultimate List of Link Building Tools in 2021">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2021/06/ultimate-link-building-tools.png') }}"
@@ -588,11 +588,11 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/link-building-tools-list-2021.html">The
+																	href="{{ route('link-building') }}">The
 																	Ultimate List of Link Building Tools in
 																	2021</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -622,7 +622,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/10-link-building-tips-2021.html"
+																		href="{{ route('link-building') }}"
 																		aria-label="10 Incredible Link Building Tips for 2021">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2021/05/link-building-tips.png') }}"
@@ -642,11 +642,11 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/10-link-building-tips-2021.html">10
+																	href="{{ route('link-building-case-study') }}">10
 																	Incredible Link Building Tips for
 																	2021</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -676,7 +676,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/google-passage-ranking-update-what-to-know.html"
+																		href="{{ route('google-analytics-consultant') }}"
 																		aria-label="Google’s Passage Ranking Update: Everything to Know About It">
 																		<img width="400" height="225"
 																			src="{{ asset('wp-content/uploads/2021/05/google-passage-ranking-update.png') }}"
@@ -696,12 +696,12 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/google-passage-ranking-update-what-to-know.html">Google’s
+																	href="{{ route('google-analytics-consultant') }}">Google’s
 																	Passage Ranking Update: Everything to
 																	Know About It</a></h2><span
 																class="vcard" style="display: none;"><span
 																	class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -724,16 +724,16 @@
 											<div class="fusion-clearfix"></div>
 										</div>
 										<div class="pagination clearfix"><span class="current">1</span><a
-												href="insights/page/2.html" class="inactive">2</a><a
-												href="insights/page/3.html" class="inactive">3</a><a
-												href="insights/page/4.html" class="inactive">4</a><a
-												href="insights/page/5.html" class="inactive">5</a><a
-												href="insights/page/6.html" class="inactive">6</a><a
-												href="insights/page/7.html" class="inactive">7</a><a
-												href="insights/page/8.html" class="inactive">8</a><a
-												href="insights/page/9.html" class="inactive">9</a><a
-												class="pagination-next" rel="next"
-												href="insights/page/2.html"><span
+												href="#insights/page/2.html" class="inactive">2</a><a
+												href="#insights/page/3.html" class="inactive">3</a><a
+												href="#insights/page/4.html" class="inactive">4</a><a
+												href="#insights/page/5.html" class="inactive">5</a><a
+												href="#insights/page/6.html" class="inactive">6</a><a
+												href="#insights/page/7.html" class="inactive">7</a><a
+												href="#insights/page/8.html" class="inactive">8</a><a
+												href="#insights/page/9.html" class="inactive">9</a><a
+												class="#pagination-next" rel="next"
+												href="#insights/page/2.html"><span
 													class="page-text">Next</span><span
 													class="page-next"></span></a></div>
 										<div class="fusion-clearfix"></div>

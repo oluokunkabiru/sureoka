@@ -10,7 +10,7 @@ Development')
 			<div id="post-27404" class="post-27404 page type-page status-publish hentry">
 				<span class="entry-title rich-snippet-hidden">Services &#8211; Website Design and
 					Development</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2020-12-24T04:35:37-05:00</span>
 				<div class="post-content">
@@ -65,7 +65,7 @@ Development')
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"><span
+													target="_self" href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Schedule a free
 														consultation today!</span></a>
 											</div>
@@ -341,7 +341,7 @@ Development')
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Schedule a free consultation
 												now</span></a>
 									</div>

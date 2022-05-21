@@ -9,7 +9,7 @@
 			<div id="post-27263" class="post-27263 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Platform Trial</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#insights/author/darrenjames13.html" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-01-21T21:20:46-05:00</span>
 				<div class="post-content">
@@ -23,7 +23,7 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"
 										style="margin-right:25px;float:left;max-width:200px;"><a
-											class="fusion-no-lightbox" href="index.html" target="_self"
+											class="fusion-no-lightbox" href="{{ route('welcome') }}" target="_self"
 											aria-label="Sure Oak"><img width="448" height="126"
 												alt="Sure Oak"
 												src="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
@@ -43,7 +43,7 @@
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"
 											style="max-width:200px;"><a class="fusion-no-lightbox"
-												href="index.html" target="_self" aria-label="Sure Oak"><img
+												href="{{ route('welcome') }}" target="_self" aria-label="Sure Oak"><img
 													width="448" height="126" alt="Sure Oak"
 													src="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
 													data-orig-src="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"

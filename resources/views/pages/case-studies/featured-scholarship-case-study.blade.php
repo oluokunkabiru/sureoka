@@ -8,7 +8,7 @@
 		<section id="content" class="full-width">
 			<div id="post-13157" class="post-13157 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Featured Scholarship Case Study</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="../insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:50:37-05:00</span>
 				<div class="post-content">
@@ -126,7 +126,7 @@
 											apart from the competition.</p>
 										<p>We decided to earn backlinks from universities with a
 											scholarship.  Learn more about <a
-												href="../edu-scholarship-links/index.html" target="_blank"
+												href="{{ route('how-to-get-edu-backlinks') }}" target="_blank"
 												rel="noopener noreferrer">how to get .EDU backlinks
 												here</a>.</p>
 									</div>
@@ -226,7 +226,7 @@
 									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 10% 0px 10%;">
 									<div class="fusion-text fusion-text-7">
 										<h2 style="text-align: center;">Explanation</h2>
-										<p><a href="../edu-scholarship-links/index.html" target="_blank"
+										<p><a href="{{ route('how-to-get-edu-backlinks') }}" target="_blank"
 												rel="noopener noreferrer">Backlinks from universities
 												(.edu’s)</a> are the most authoritative and trusted websites
 											on the web because they are “seed sites”.</p>
@@ -333,7 +333,7 @@
 												src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27414%27%20height%3D%27236%27%20viewBox%3D%270%200%20414%20236%27%3E%3Crect%20width%3D%27414%27%20height%3D%27236%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
 												data-orig-src="/wp-content/uploads/2018/12/ranking-position-B.png') }}"
 												alt="" width="414" height="236" /></p>
-										<p><a href="../how-to-get-edu-backlinks-scholarship/index.html"
+										<p><a href="{{ route('how-to-get-edu-backlinks') }}"
 												target="_blank" rel="noopener noreferrer"><span
 													style="font-weight: 400;">Learn more about how to get
 													.EDU backlinks here.</span></a></p>
@@ -406,7 +406,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

@@ -67,7 +67,7 @@
 														}
 													</style><a
 														class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-														target="_self" href="strategy-call.html"
+														target="_self" href="{{ route('strategy-call') }}"
 														id="rank-higher-button"><span class="fusion-button-text">Get my
 															free strategy session</span></a>
 												</div>
@@ -169,7 +169,7 @@
 														}
 													</style><a
 														class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-														target="_self" href="services/seo-plan.html"
+														target="_self" href="{{ route('seo-plan') }}"
 														style="margin-top:30px;" id="rankHigherButton"><span
 															class="fusion-button-text">Learn More</span></a>
 												</div>
@@ -901,7 +901,7 @@
 														}
 													</style><a
 														class="fusion-button button-flat button-xlarge button-custom button-3 fusion-button-default-span fusion-button-default-type"
-														target="_self" href="seo-tools/seo-checker-analysis-tool.html"
+														target="_self" href="{{ route('seo-tools') }}"
 														id="rank-higher-button"><span class="fusion-button-text">Check
 															my SEO score now!</span></a>
 												</div>
@@ -1019,12 +1019,12 @@
 															<div class="fusion-clearfix"></div>
 															<div class="content-container"
 																style="padding-left:142px;color:#747474;">
-																<p>Our dedicated <a href="services.html">SEO
+																<p>Our dedicated <a href="{{ route('service') }}">SEO
 																		services</a> combine the best minds with the
 																	best strategies. We have real human beings doing the
 																	work, executing our battle-tested methods and
 																	honestly <a
-																		href="services/link-building-services.html">earning
+																		href="{{ route('link-building') }}">earning
 																		links</a> to boost your visibility, get you
 																	ranking higher and converting more visitors.</p>
 															</div>
@@ -1220,7 +1220,7 @@
 														}
 													</style><a
 														class="fusion-button button-flat button-xlarge button-custom button-4 fusion-button-default-span fusion-button-default-type fusion-no-small-visibility"
-														target="_self" href="strategy-call.html"
+														target="_self" href="{{ route('strategy') }}"
 														id="rankHigherButton"><span class="fusion-button-text">Get my
 															free SEO strategy session</span></a>
 												</div>

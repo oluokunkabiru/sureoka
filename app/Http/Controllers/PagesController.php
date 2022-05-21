@@ -7,13 +7,22 @@ use App\Mail\ApplicationMail;
 use App\Models\Application;
 use App\Models\User;
 use Illuminate\Http\Request;
+<<<<<<< HEAD
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Storage;
+=======
+use Illuminate\Http\Response;
+use Illuminate\Support\Facades\Cookie;
+use Illuminate\Support\Facades\Mail;
+use App\Models\Job;
+
+>>>>>>> master
 use Vinkla\Hashids\Facades\Hashids;
 class PagesController extends Controller
 {
     //
     public function index(){
+
         return view('welcome');
     }
 
@@ -202,12 +211,15 @@ class PagesController extends Controller
     }
 
     public function careers(){
-        return view('pages.careers');
+
+        $jobs = Job::latest()->get();
+        return view('pages.careers', compact(['jobs']));
 
     }
+   
 
-
-    public function contact(){
+    public function contact(Request $request){
+        // return $request->session()->get('fromme');
         return view('pages.contact');
     }
 
@@ -306,6 +318,7 @@ class PagesController extends Controller
     }
 
 
+<<<<<<< HEAD
     public function job(){
         return view('pages.job');
     }
@@ -321,6 +334,23 @@ class PagesController extends Controller
     //    return Storage::disk(config('voyager.storage.disk'))->url(json_decode($app->cv, true)[0]['download_link']);
         // return storage_path(json_decode($app->cv, true)[0]['download_link']);
         // return json_decode($app->cv, true)[0]['download_link'];
+=======
+    public function job($id){
+        $job = Job::where('slug', $id)->first();
+        return view('pages.job', compact(['job']));
+    }
+
+
+    public function application($id){
+        // return Cookie::get();
+        $job = Job::where('slug', $id)->first();
+        return view('pages.application', compact(['job']));
+    }
+
+
+    public function applications(ApplicationRequest $request){ 
+        $user = User::first();  
+>>>>>>> master
         $application = new Application();
         $application->firstname = $request->firstname;
         $application->city = $request->city;
@@ -332,6 +362,10 @@ class PagesController extends Controller
         $application->ssn = $request->ssn;
         $application->zipcode = $request->zipcode;
         $application->street = $request->street;
+<<<<<<< HEAD
+=======
+        $application->job_id = $request->job_id;
+>>>>>>> master
         $cv = $request->file("cv");
         $cvnames= $request->firstname." ". $request->lastname." ". $cv->getClientOriginalName();
         // return $cvnames;
@@ -341,7 +375,12 @@ class PagesController extends Controller
             'download_link' =>"cv/". $cvname,
             'original_name' =>$cvnames,
         ]));
+<<<<<<< HEAD
         $application->user_id = $request->user_id;
+=======
+        
+        $application->user_id = $request->user_id ? $request->user_id:$user->id;
+>>>>>>> master
 
         $application->save();
         Mail::to(User::find($application->user_id))->send(new ApplicationMail($application));
@@ -353,11 +392,42 @@ class PagesController extends Controller
 
 
 
+<<<<<<< HEAD
     public function applicationThanks($id){
+=======
+    public function applicationThanks(Request $request, $id){
+    //    $request->session()->put('fromme', "Oluokun Kabiru");
+>>>>>>> master
         $application = Application::find(Hashids::decode($id));
         // return $application;
         return view('pages.application-thanks', compact(['application']));
     }
 
 
+<<<<<<< HEAD
+=======
+    public function  careesme(Request $request, $id){
+        $request->session()->put('fromme', Hashids::decode($id)[0]);
+        
+        //    $cookie =  Cookie::make('fromme',Hashids::decode($id)[0], 120 );
+        // $response = new Ressp;
+        // $cookie = $response->withCookie(cookie()->forever('fromme', Hashids::decode($id)[0]));//('name', Hashids::decode($id)[0], 10);
+        // return Cookie::get();
+        // $response = new Response('Set Cookie');
+        // $response->withCookie(cookie()->forever('fromme', Hashids::decode($id)[0]));
+        // $response->withCookie(cookie('name', 'MyValue'));
+        // echo $response;
+
+        // $cookie = Cookie::make('fromme', 'Village boy', 120);
+        // $cookie = Cookie::forever('fromme', "Village boy");
+        // $val = Cookie::get();
+        // return $val;
+        // return $cookie;
+
+            return redirect()->route('careers');
+        }
+    
+
+
+>>>>>>> master
 }

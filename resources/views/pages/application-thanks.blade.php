@@ -10,6 +10,7 @@
                         <div id="post-17343" class="post-17343 page type-page status-publish hentry"> <span
                                 class="entry-title rich-snippet-hidden">About</span><span
                                 class="vcard rich-snippet-hidden"><span class="fn"><a
+<<<<<<< HEAD
                                         href="insights/author/superadmin.html" title="Posts by superadmin"
                                         rel="author">superadmin</a></span></span><span
                                 class="updated rich-snippet-hidden">2021-12-29T22:19:42-05:00</span>
@@ -20,6 +21,12 @@
 
                 
 
+=======
+                                        href="#" title="Posts by superadmin"
+                                        rel="author">superadmin</a></span></span><span
+                                class="updated rich-snippet-hidden">2021-12-29T22:19:42-05:00</span>
+                            <div class="post-content">
+>>>>>>> master
                                 <div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
                                     style="background-color: rgba(255,255,255,0);background-position: center bottom;background-repeat: no-repeat;padding-top:200px;padding-right:20%;padding-bottom:180px;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
                                     data-bg="{{ asset('wp-content/uploads/2019/05/about-bg_v2.jpg') }}"

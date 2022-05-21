@@ -7,12 +7,21 @@
 <main id="main" class="clearfix width-100">
     <div class="fusion-row" style="max-width:100%;">
         <section id="content" class="full-width">
+<<<<<<< HEAD
             <div id="post-16946" class="post-16946 page type-page status-publish hentry"> <span
+=======
+            <div id="post-16946" class="post-16946 page type-page status-publish hentry">
+                 {{-- <span
+>>>>>>> master
                     class="entry-title rich-snippet-hidden">[Remote] Expert SEO Strategist For
                     Mission-Driven SEO Agency</span><span class="vcard rich-snippet-hidden"><span
                         class="fn"><a href="{{ route('welcome') }}" title="Posts by andres"
                             rel="author">andres</a></span></span><span
+<<<<<<< HEAD
                     class="updated rich-snippet-hidden">2021-09-17T09:07:47-04:00</span>
+=======
+                    class="updated rich-snippet-hidden">2021-09-17T09:07:47-04:00</span> --}}
+>>>>>>> master
                 <div class="post-content">
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
                         style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:2%;padding-right:20%;padding-bottom:2%;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
@@ -27,7 +36,11 @@
                                         style="font-size:36px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
                                         <h1 class="title-heading-center"
                                             style="margin:0;font-size:1em;color:#ffffff;line-height:50px;">
+<<<<<<< HEAD
                                             Let&#8217;s grow together.</h1>
+=======
+                                            {{ $job->title }}</h1>
+>>>>>>> master
                                     </div>
                                     <div class="fusion-sep-clear"></div>
                                     <div class="fusion-separator fusion-full-width-sep"
@@ -39,10 +52,14 @@
                                         style="font-size:22px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
                                         <h3 class="title-heading-center"
                                             style="margin:0;font-size:1em;color:#ffffff;line-height:34px;">
+<<<<<<< HEAD
                                             We’ve found the secret to a happy work life.  It’s a zesty combo
                                             of intention, purpose-driven service, and personal freedom. And
                                             of course, awesome people.  Grow your career, make an impact,
                                             and enjoy the freedom of working remotely with us.</h3>
+=======
+                                           {{$job->excerpt}}.</h3>
+>>>>>>> master
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
@@ -63,6 +80,7 @@
                                 </div>
                             </div>
                              <form  method="POST" action="{{ route('applications') }}" enctype="multipart/form-data">
+<<<<<<< HEAD
                             {{-- <div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-first mobile-center"
                                 style="width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;margin-top:0px;margin-bottom:20px;">
                                
@@ -72,6 +90,13 @@
                             </div> --}}
                             @csrf
                             <input type="hidden" name="user_id" value="1">
+=======
+           
+                            @csrf
+                            
+                            <input type="hidden" name="user_id" value="{{ Request::session()->get('fromme') }}">
+                            <input type="hidden" name="job_id" value="{{ $job->id }}">
+>>>>>>> master
                             <div class="row">
                                 <div class="mb-3 col-md-6">
                                     <label for="firstname" class="form-label">First name</label>
@@ -105,7 +130,11 @@
 
                                 <div class="mb-3 col-md-6">
                                     <label for="firstname" class="form-label">Phone Number</label>
+<<<<<<< HEAD
                                     <input type="tel" class="form-control form-control-lg rounded @error('phone') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required>
+=======
+                                    <input  type="number" onKeyPress="if(this.value.length==15) return false;" placeholder="123-45-6789"class="form-control form-control-lg rounded @error('phone') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required>
+>>>>>>> master
                                     @error('phone')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
@@ -114,7 +143,11 @@
                                 </div>
                                 <div class="mb-3 col-md-6">
                                     <label for="ssn" class="form-label">SSN</label>
+<<<<<<< HEAD
                                     <input type="text" class="form-control form-control-lg rounded @error('ssn') is-invalid @enderror" name="ssn" value="{{ old('ssn') }}" required>
+=======
+                                    <input type="number" id="ssn"  onKeyPress="if(this.value.length==9) return false;"  placeholder="123-45-6789" maxlength="9" class="form-control form-control-lg rounded @error('ssn') is-invalid @enderror" name="ssn" value="{{ old('ssn') }}" required>
+>>>>>>> master
                                     @error('ssn')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
@@ -159,7 +192,11 @@
 
                                 <div class="mb-3 col-md-6">
                                     <label for="zipcode" class="form-label">Zipcode</label>
+<<<<<<< HEAD
                                     <input type="text" class="form-control form-control-lg rounded @error('zipcode') is-invalid @enderror" name="zipcode" value="{{ old('zipcode') }}" required>
+=======
+                                    <input  type="number" onKeyPress="if(this.value.length==6) return false;"  class="form-control form-control-lg rounded @error('zipcode') is-invalid @enderror" name="zipcode" value="{{ old('zipcode') }}" required>
+>>>>>>> master
                                     @error('zipcode')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
@@ -201,6 +238,10 @@
 
                             </div>
                             <div class="text-center">
+<<<<<<< HEAD
+=======
+                                {{-- I creatted application laravel file to receied application --}}
+>>>>>>> master
 {{-- fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_2 1_2 fusion-one-half fusion-column-last mobile-center 
     
     width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-top:0px;margin-bottom:20px;
@@ -300,7 +341,11 @@
                                             }
                                         </style><a
                                             class="fusion-button button-flat fusion-button-default-size button-custom button-4 fusion-button-default-span fusion-button-default-type"
+<<<<<<< HEAD
                                             target="_self" href="{{ route('job') }}"><span
+=======
+                                            target="_self" href="{{ route('job', $job->slug) }}"><span
+>>>>>>> master
                                                 class="fusion-button-text">Learn more about Sure Oak&#x27;s
                                                 culture</span></a>
                                     </div>
@@ -315,5 +360,20 @@
     </div>
 </main>
 
+<<<<<<< HEAD
+=======
+<script>
+	function addHyphen (element) {
+    	let ele = document.getElementById(element.id);
+        ele = ele.value.split('-').join('');    // Remove dash (-) if mistakenly entered.
+
+        let finalVal = ele.match(/.{1,3}/g).join('-');
+        document.getElementById(element.id).value = finalVal;
+    }
+
+    // alert("hello")
+</script>
+
+>>>>>>> master
 
 @endsection

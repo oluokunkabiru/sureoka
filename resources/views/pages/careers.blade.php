@@ -8,7 +8,7 @@
 		<section id="content" class="full-width">
 			<div id="post-13523" class="post-13523 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Careers</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2021-09-17T11:11:54-04:00</span>
 				<div class="post-content">
@@ -775,21 +775,23 @@
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
+
+
+							@foreach($jobs as $k=>$job)
+
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-34 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
 								style="margin-top:0px;margin-bottom:0px;">
 								<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-color:#eef7f9;padding: 18px 20% 0px 20%;">
+									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-color:{{ ($k)%2==0 ? "#eef7f9": "#ffffff" }};padding: 18px 20% 0px 20%;">
 									<div class="fusion-builder-row fusion-builder-row-inner fusion-row">
 										<div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-0 fusion_builder_column_inner_2_3 2_3 fusion-two-third fusion-column-first"
 											style="width:66.666666666667%;width:calc(66.666666666667% - ( ( 4% ) * 0.66666666666667 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
 											<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
 												style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 20px 0px 20px 0px;">
 												<div class="fusion-text fusion-text-23">
-													<p><strong>Experienced SEO Strategist</strong><br /> Our
-														SEO agency is looking for a candidate with 3+ years
-														experience in SEO. We are looking for a candidate
-														with a proven record for showing great results
-														through SEO activities and strategies.</p>
+													<p><strong>{{ $job->title }}</strong><br /> 
+														{{ $job->excerpt }}
+													</p>
 												</div>
 												<div class="fusion-clearfix"></div>
 											</div>
@@ -826,6 +828,7 @@
 													</style><a
 														class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type"
 														target="_blank" rel="noopener noreferrer"
+<<<<<<< HEAD
 														href="{{ route('job') }}"><span
 															class="fusion-button-text">Apply</span></a>
 												</div>
@@ -889,6 +892,9 @@
 														class="fusion-button button-flat fusion-button-default-size button-custom button-3 fusion-button-default-span fusion-button-default-type"
 														target="_blank" rel="noopener noreferrer"
 														href="{{ route('job') }}"><span
+=======
+														href="{{ route('job', $job->slug) }}"><span
+>>>>>>> master
 															class="fusion-button-text">Apply</span></a>
 												</div>
 												<div class="fusion-clearfix"></div>
@@ -898,48 +904,9 @@
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
-							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-36 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
-								style="margin-top:0px;margin-bottom:0px;">
-								<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-									style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-color:#eef7f9;padding: 18px 20% 0px 20%;">
-									<div class="fusion-builder-row fusion-builder-row-inner fusion-row">
-										<div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-4 fusion_builder_column_inner_2_3 2_3 fusion-two-third fusion-column-first"
-											style="width:66.666666666667%;width:calc(66.666666666667% - ( ( 4% ) * 0.66666666666667 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;">
-											<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-												style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 20px 0px 20px 0px;">
-												<div class="fusion-text fusion-text-25">
-													<p><strong>The Sure Oak &#8220;Grow Your Career&#8221;
-															Intern Scholarship</strong><br /> Our SEO agency
-														is looking for three students to participate in a
-														six-month paid remote internship with a $1,000
-														scholarship upon completion.</p>
-												</div>
-												<div class="fusion-clearfix"></div>
-											</div>
-										</div>
-										<div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-5 fusion_builder_column_inner_1_3 1_3 fusion-one-third fusion-column-last"
-											style="width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% ) * 0.33333333333333 ) );margin-top:0px;margin-bottom:0px;">
-											<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
-												style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 40px 0px 10px 0px;">
-												<div class="fusion-button-wrapper">
-													<style>
-														.fusion-body .fusion-button.button-4 {
-															border-color: #ffffff;
-															border-radius: 2px 2px 2px 2px;
-															background: #2bace2;
-														}
+							@endforeach
 
-														.fusion-body .fusion-button.button-4 .fusion-button-text,
-														.fusion-body .fusion-button.button-4 i,
-														.fusion-body .fusion-button.button-4:hover .fusion-button-text,
-														.fusion-body .fusion-button.button-4:hover i,
-														.fusion-body .fusion-button.button-4:focus .fusion-button-text,
-														.fusion-body .fusion-button.button-4:focus i,
-														.fusion-body .fusion-button.button-4:active .fusion-button-text,
-														.fusion-body .fusion-button.button-4:active i {
-															color: #ffffff;
-														}
-
+<<<<<<< HEAD
 														.fusion-body .fusion-button.button-4:hover,
 														.fusion-body .fusion-button.button-4:active,
 														.fusion-body .fusion-button.button-4:focus {
@@ -959,6 +926,10 @@
 									<div class="fusion-clearfix"></div>
 								</div>
 							</div>
+=======
+						
+							
+>>>>>>> master
 						</div>
 					</div>
 				</div>

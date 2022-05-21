@@ -7,6 +7,11 @@ use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Support\Facades\Storage;
+<<<<<<< HEAD
+=======
+use App\Models\Job;
+
+>>>>>>> master
 
 class ApplicationMail extends Mailable
 {
@@ -32,7 +37,13 @@ class ApplicationMail extends Mailable
     public function build()
     {
         $application = $this->application;
+<<<<<<< HEAD
         return $this->attachFromStorageDisk('public', json_decode($application->cv, true)[0]['download_link'])
         ->markdown('notifications::application', compact(['application']));
+=======
+        $job = Job::find($application->job_id);
+        return $this->attachFromStorageDisk('public', json_decode($application->cv, true)[0]['download_link'])
+        ->markdown('notifications::application', compact(['application', 'job']))->subject($job->title. " Application");
+>>>>>>> master
     }
 }

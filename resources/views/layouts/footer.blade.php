@@ -372,7 +372,11 @@
                                     </div>
                                 </div>
                             </div>
+<<<<<<< HEAD
                         </div> ©2022 Sure Oak Solutions LLC. <a href="{{ route('terms-of-service') }}"
+=======
+                        </div> ©{{ date('Y') }} {{ setting('site.title') }} Solutions LLC. <a href="{{ route('terms-of-service') }}"
+>>>>>>> master
                             target="_blank">Terms of Use</a>, <a href="{{ route('privacy-policy') }}"
                             target="_blank">Privacy Policy</a>, <a href="{{ route('sitemap') }}" target="_blank">Site
                             Map</a>

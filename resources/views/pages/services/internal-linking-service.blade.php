@@ -9,7 +9,7 @@
 			<div id="post-22531" class="post-22531 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; Internal Linking</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:56:46-05:00</span>
 				<div class="post-content">
@@ -63,7 +63,7 @@
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"><span
+													target="_self" href="{{ route('strategy') }}"><span
 														class="fusion-button-text">Speak with an SEO expert
 														now</span></a>
 											</div>
@@ -223,7 +223,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

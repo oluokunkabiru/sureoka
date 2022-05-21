@@ -10,7 +10,7 @@
                         <div id="post-17343" class="post-17343 page type-page status-publish hentry"> <span
                                 class="entry-title rich-snippet-hidden">About</span><span
                                 class="vcard rich-snippet-hidden"><span class="fn"><a
-                                        href="insights/author/superadmin.html" title="Posts by superadmin"
+                                        href="#" title="Posts by superadmin"
                                         rel="author">superadmin</a></span></span><span
                                 class="updated rich-snippet-hidden">2021-12-29T22:19:42-05:00</span>
                             <div class="post-content">
@@ -176,7 +176,11 @@
                                                     href="https://www.youtube.com/watch?v=40b5toeZo7M?rel=0&amp;autoplay=1"
                                                     data-rel="iLightbox" id="home-play-button"><img class="lazyload"
                                                         src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27150%27%20height%3D%27150%27%20viewBox%3D%270%200%20150%20150%27%3E%3Crect%20width%3D%27150%27%20height%3D%27150%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
+<<<<<<< HEAD
                                                         data-orig-src={{ asset('wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png') }}"></a>
+=======
+                                                        data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png') }}"></a>
+>>>>>>> master
                                                 <div class="fusion-clearfix"></div>
                                             </div>
                                         </div>
@@ -214,7 +218,7 @@
                                                     <div class="fusion-text fusion-text-2">
                                                         <p>As a full-service SEO company, we build genuine relationships
                                                             and implement our proprietary <a
-                                                                href="insights/seo-strategy-winning-components.html">SEO
+                                                                href="{{ route('strategy') }}">SEO
                                                                 strategies</a> to drive the organic traffic that will
                                                             grow your revenue and take your business to the next level.
                                                         </p>
@@ -228,8 +232,8 @@
                                                         <p>Our results-driven experts know which of Google&#8217;s
                                                             ranking factors are most impactful and how to optimize for
                                                             them, while constantly adapting to algorithm changes. Our <a
-                                                                href="services.html">highly specialized SEO services</a>
-                                                            and <a href="seo-tools.html">dynamic tools</a> can catapult
+                                                                href="{{ route('service') }}">highly specialized SEO services</a>
+                                                            and <a href="{{ route('seo') }}">dynamic tools</a> can catapult
                                                             your online visibility to reach more people and more
                                                             importantly, the right people.</p>
                                                         <p>We build the sustainable traction you need to increase your
@@ -256,13 +260,13 @@
                                                             process-oriented mind. It finally happened. He cracked the
                                                             code.</p>
                                                         <p><a name="values"></a>After Tom discovered his formula of <a
-                                                                href="services/seo-optimization-services.html"
+                                                                href="{{ route('public-speaking-training-company-seo-case-study') }}"
                                                                 target="_blank"
                                                                 rel="noopener noreferrer">optimizations</a>, <a
-                                                                href="services/link-building-services.html"
+                                                                href="{{ route('seo-optimization-services') }}"
                                                                 target="_blank" rel="noopener noreferrer">powerful link
                                                                 building</a>, and <a
-                                                                href="services/seo-content-writing.html" target="_blank"
+                                                                href="{{ route('seo-content-writing') }}" target="_blank"
                                                                 rel="noopener noreferrer">content strategy</a>, his
                                                             traffic went up 5x in just two months. He had struck gold,
                                                             having figured out something that generated real growth,
@@ -2565,7 +2569,7 @@
                                                                         primary strategies to see what is most effective
                                                                         to boost rankings and organic traffic. Tom
                                                                         spearheaded the success of <a
-                                                                            href="index.html">Life Coach Spotter</a> to
+                                                                            href="{{ route('about') }}">Life Coach Spotter</a> to
                                                                         20,000+ unique monthly visitors from organic
                                                                         traffic.</p>
                                                                 </div>
@@ -2930,7 +2934,7 @@
                                                         }
                                                     </style><a
                                                         class="fusion-button button-flat button-xlarge button-default button-27 fusion-button-default-span fusion-button-default-type"
-                                                        target="_self" href="careers.html"><span
+                                                        target="_self" href="{{ route('careers') }}"><span
                                                             class="fusion-button-text">START YOUR CAREER</span></a>
                                                 </div>
                                                 <div class="fusion-clearfix"></div>
@@ -3034,7 +3038,7 @@
                                                         }
                                                     </style><a
                                                         class="fusion-button button-flat button-xlarge button-custom button-28 fusion-button-default-span fusion-button-default-type"
-                                                        target="_self" href="strategy-call.html"><span
+                                                        target="_self" href="{{ route('strategy') }}"><span
                                                             class="fusion-button-text">Request my SEO strategy session
                                                             now</span></a>
                                                 </div>

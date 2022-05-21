@@ -3,12 +3,14 @@
 	
 	
 @section('content')
+{{-- <h1>{{ Request::session()->get('fromme') }}</h1> --}}
+
 <main id="main" class="clearfix width-100">
 	<div class="fusion-row" style="max-width:100%;">
 		<section id="content" class="full-width">
 			<div id="post-10887" class="post-10887 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Contact Us</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/tom.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#"
 							title="Posts by Tom Casano" rel="author">Tom Casano</a></span></span><span
 					class="updated rich-snippet-hidden">2021-08-07T13:43:22-04:00</span>
 				<div class="post-content">
@@ -44,7 +46,7 @@
 									<div class="fusion-text fusion-text-1" style="font-size:22px;color:#ffffff;">
 										<p style="text-align: center;">Main Office:</p>
 										<p style="text-align: center;"><a style="color: #ffffff;"
-												href="insights/new-york-seo-agency.html">We&#8217;re located
+												href="{{ route('insights') }}">We&#8217;re located
 												in New York City</a>.</p>
 										<p style="text-align: center;">Sure Oak<br /> 77 Sands Street 6th
 											Floor<br /> Brooklyn, NY 11201<br /> 1-800-736-7190</p>
@@ -146,7 +148,7 @@
 										<div class="fusion-text fusion-text-2" style="font-size:24px;color:#ffffff;">
 											<p style="text-align: center;">Main Office:</p>
 											<p style="text-align: center;"><a style="color: #ffffff;"
-													href="new-york-seo-agency/index.html" target="_blank"
+													href="{{ route('welcome') }}" target="_blank"
 													rel="noopener noreferrer">We&#8217;re located in New
 													York City</a>.</p>
 											<p style="text-align: center;">Sure Oak, LLC<br /> 81 Prospect
@@ -232,6 +234,7 @@
 								</div>
 							</div>
 							
+<<<<<<< HEAD
 							<form action="/action_page.php">
 								<div class="form-group">
 								  <label for="email">Email address:</label>
@@ -248,6 +251,9 @@
 								</div>
 								<button type="submit" class="btn btn-primary">Submit</button>
 							  </form>
+=======
+							
+>>>>>>> master
 						</div>
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 hundred-percent-fullwidth non-hundred-percent-height-scrolling"

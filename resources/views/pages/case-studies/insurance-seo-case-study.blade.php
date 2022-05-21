@@ -9,7 +9,7 @@
 			<div id="post-25509" class="post-25509 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Bivvy Local Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T10:06:34-05:00</span>
 				<div class="post-content">
@@ -272,7 +272,7 @@
 											to rank for several keywords in order to help pet owners find
 											them on Google. Bivvy focused on improving its on-page SEO and
 											Sure Oak provided support with its <a
-												href="../services/link-building-services.html">link building
+												href="{{ route('link-building') }}">link building
 												services</a>.</p>
 										<h3 style="color: #007499;">Prioritizing Organic Traffic to Key
 											Pages</h3>
@@ -507,7 +507,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{{ route('strategy-call') }}}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -563,7 +563,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

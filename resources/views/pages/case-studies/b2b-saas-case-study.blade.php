@@ -257,7 +257,7 @@
 											significantly, a holistic SEO strategy was needed.</p>
 										<p>In order to best understand the current environment, and all of
 											the opportunities and challenges working against us, we used our
-											proprietary <a href="../services/seo-plan.html"
+											proprietary <a href="{{ route('seo-audit-service') }}"
 												rel="noopener noreferrer">Strategic SEO Game Plan
 												process</a>: to determine what the overall opportunity is,
 											what the scope should consist of, how long it might take to
@@ -272,20 +272,20 @@
 											these items were fixed and updated, an advanced SEO strategy
 											began that included the following:</p>
 										<ul>
-											<li><a href="../services/keyword-research-service.html"
+											<li><a href="{{ route('keyword-research-service') }}"
 													rel="noopener noreferrer">Advanced Keyword Research</a>
 												<ul>
 													<li>Research, Opportunities, Intent, Mapping</li>
 												</ul>
 											</li>
-											<li><a href="../services/seo-optimization-services.html"
+											<li><a href="{{ route('seo-optimization-services') }}"
 													rel="noopener noreferrer">Optimizations Development</a>
 												<ul>
 													<li>In-depth on-page development for users, and in turn,
 														search engines</li>
 												</ul>
 											</li>
-											<li><a href="../services/seo-content-writing.html"
+											<li><a href="{{ route('seo-content-writing') }}"
 													rel="noopener noreferrer">Content Planning and
 													Updating</a>
 												<ul>
@@ -294,11 +294,11 @@
 												</ul>
 											</li>
 											<li>Link Building<ul>
-													<li><a href="../services/link-building-services.html"
+													<li><a href="{{ route('service') }}"
 															rel="noopener noreferrer">Contextual link
 															building services</a> were employed to drive
 														targeted traffic to key, high converting pages, and
-														a <a href="../services/how-to-get-edu-backlinks.html"
+														a <a href="{{ route('how-to-get-edu-backlinks') }}"
 															rel="noopener noreferrer">scholarship backlink
 															strategy</a> was used to improve the overall
 														domain authority of the website</li>
@@ -548,7 +548,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('strategy-call') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -606,7 +606,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

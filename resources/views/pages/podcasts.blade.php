@@ -9,7 +9,7 @@
 			<div id="post-17701" class="post-17701 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Podcasts</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="insights/author/superadmin.html" title="Posts by superadmin"
+							href="#insights/author/superadmin.html" title="Posts by superadmin"
 							rel="author">superadmin</a></span></span><span
 					class="updated rich-snippet-hidden">2022-04-10T15:00:27-04:00</span>
 				<div class="post-content">
@@ -86,20 +86,20 @@
 												<ul id="menu-blog-submenu-row-1" class="menu">
 													<li id="menu-item-17446"
 														class="nav-item-all menu-item menu-item-type-post_type menu-item-object-page menu-item-17446">
-														<a href="insights.html">All</a></li>
+														<a href="{{ route('insights') }}">All</a></li>
 													<li id="menu-item-18121"
 														class="nav-item-podcast menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17701 current_page_item menu-item-18121">
-														<a href="podcasts.html"
+														<a href="{{ route('podcasts') }}"
 															aria-current="page">Podcast</a></li>
 													<li id="menu-item-18129"
 														class="nav-item-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18129">
-														<a href="seo.html">SEO</a></li>
+														<a href="{{ route('seo') }}">SEO</a></li>
 													<li id="menu-item-18130"
 														class="nav-item-strategy menu-item menu-item-type-post_type menu-item-object-page menu-item-18130">
-														<a href="strategy.html">Strategy</a></li>
+														<a href="{{ route('strategy') }}">Strategy</a></li>
 													<li id="menu-item-17712"
 														class="nav-item-b2b menu-item menu-item-type-post_type menu-item-object-page menu-item-17712">
-														<a href="b2b.html">B2B</a></li>
+														<a href="{{ route('b2b-saas-case-study') }}">B2B</a></li>
 												</ul>
 											</nav>
 										</div>
@@ -182,20 +182,20 @@
 												<ul id="menu-blog-submenu-row-2" class="menu">
 													<li
 														class="nav-item-all menu-item menu-item-type-post_type menu-item-object-page menu-item-17446">
-														<a href="insights.html">All</a></li>
+														<a href="{{ route('insights') }}">All</a></li>
 													<li
 														class="nav-item-podcast menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17701 current_page_item menu-item-18121">
-														<a href="podcasts.html"
+														<a href="{{ route('podcasts') }}"
 															aria-current="page">Podcast</a></li>
 													<li
 														class="nav-item-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18129">
-														<a href="seo.html">SEO</a></li>
+														<a href="{{ route('seo') }}">SEO</a></li>
 													<li
 														class="nav-item-strategy menu-item menu-item-type-post_type menu-item-object-page menu-item-18130">
-														<a href="strategy.html">Strategy</a></li>
+														<a href="{{ route('welcome') }}">Strategy</a></li>
 													<li
 														class="nav-item-b2b menu-item menu-item-type-post_type menu-item-object-page menu-item-17712">
-														<a href="b2b.html">B2B</a></li>
+														<a href="{{ route('b2b-saas-case-study') }}">B2B</a></li>
 												</ul>
 											</nav>
 										</div>
@@ -277,7 +277,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/cold-outreach-sales-podcast.html"
+																		href="{{ route('insights') }}"
 																		aria-label="Finding a Winning Sales and Cold Outreach Strategy with Lior Ohayon">
 																		<img width="353" height="176"
 																			src="{{ asset('wp-content/uploads/2019/11/podcast-lior-ohayon-featured.jpg') }}"
@@ -296,12 +296,12 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/cold-outreach-sales-podcast.html">Finding
+																	href="{{ route('insights') }}">Finding
 																	a Winning Sales and Cold Outreach
 																	Strategy with Lior Ohayon</a></h2><span
 																class="vcard" style="display: none;"><span
 																	class="fn"><a
-																		href="insights/author/darrenjames13.html"
+																		href="#insights/author/darrenjames13.html"
 																		title="Posts by Darren James"
 																		rel="author">Darren
 																		James</a></span></span><span
@@ -331,7 +331,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/youtube-content-podcast.html"
+																		href="{{ route('insights') }}"
 																		aria-label="Powerful YouTube Content Tips for Better Lead Generation">
 																		<img width="353" height="176"
 																			src="{{ asset('wp-content/uploads/2019/11/nate-woodbury-featured-image.png') }}"
@@ -350,11 +350,11 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/youtube-content-podcast.html">Powerful
+																	href="{{ route('insights') }}">Powerful
 																	YouTube Content Tips for Better Lead
 																	Generation</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/andres.html"
+																		href="#insights/author/andres.html"
 																		title="Posts by andres"
 																		rel="author">andres</a></span></span><span
 																class="updated"
@@ -383,7 +383,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/googles-perfect-world-podcast.html"
+																		href="{{ route('google-analytics-consultant') }}"
 																		aria-label="The Benefits of Taking Part in Google’s Perfect World with Geoff Atkinson">
 																		<img width="1500" height="800"
 																			src="{{ asset('wp-content/uploads/2019/10/Geoff.jpg') }}"
@@ -403,12 +403,12 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/googles-perfect-world-podcast.html">The
+																	href="{{ route('google-analytics-consultant') }}">The
 																	Benefits of Taking Part in Google’s
 																	Perfect World with Geoff Atkinson</a>
 															</h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/andres.html"
+																		href="#insights/author/andres.html"
 																		title="Posts by andres"
 																		rel="author">andres</a></span></span><span
 																class="updated"
@@ -436,7 +436,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/develop-customer-conversations-podcast.html"
+																		href="{{ route('website-design-development') }}"
 																		aria-label="How to Leverage LinkedIn for More Promising Conversations with Customers">
 																		<img width="353" height="176"
 																			src="{{ asset('wp-content/uploads/2019/09/featured-image-guest.jpg') }}"
@@ -455,12 +455,12 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/develop-customer-conversations-podcast.html">How
+																	href="{{ route('podcasts') }}">How
 																	to Leverage LinkedIn for More Promising
 																	Conversations with Customers</a></h2>
 															<span class="vcard" style="display: none;"><span
 																	class="fn"><a
-																		href="insights/author/andres.html"
+																		href="#insights/author/andres.html"
 																		title="Posts by andres"
 																		rel="author">andres</a></span></span><span
 																class="updated"
@@ -489,7 +489,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/marketing-budget-podcast.html"
+																		href="{{ route('mattress-buying-guide-website') }}"
 																		aria-label="How to Scale Your Business by Using Your Marketing Budget More Wisely with Garrett Mehrguth">
 																		<img width="1597" height="899"
 																			src="{{ asset('wp-content/uploads/2019/08/GarrettMehrguth.jpg') }}"
@@ -508,13 +508,13 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/marketing-budget-podcast.html">How
+																	href="{{ route('insights') }}">How
 																	to Scale Your Business by Using Your
 																	Marketing Budget More Wisely with
 																	Garrett Mehrguth</a></h2><span
 																class="vcard" style="display: none;"><span
 																	class="fn"><a
-																		href="insights/author/autumn.html"
+																		href="#insights/author/autumn.html"
 																		title="Posts by autumn"
 																		rel="author">autumn</a></span></span><span
 																class="updated"
@@ -542,7 +542,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/content-trends-podcast.html"
+																		href="{{ route('podcasts') }}"
 																		aria-label="Getting Ahead of Changing Content Trends with James Winter">
 																		<img width="353" height="176"
 																			src="{{ asset('wp-content/uploads/2019/07/James-Winter.png') }}"
@@ -562,11 +562,11 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/content-trends-podcast.html">Getting
+																	href="{{ route('podcasts') }}">Getting
 																	Ahead of Changing Content Trends with
 																	James Winter</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/autumn.html"
+																		href="#insights/author/autumn.html"
 																		title="Posts by autumn"
 																		rel="author">autumn</a></span></span><span
 																class="updated"
@@ -594,7 +594,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/brand-ambassadors-podcast.html"
+																		href="{{ route('insights') }}"
 																		aria-label="Why Brand Ambassadors are Necessary for Growth and Relatability with Darryl Praill">
 																		<img width="353" height="176"
 																			src="{{ asset('wp-content/uploads/2019/07/Darryl-Podcast-Image.png') }}"
@@ -614,12 +614,12 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/brand-ambassadors-podcast.html">Why
+																	href="{{ route('about') }}">Why
 																	Brand Ambassadors are Necessary for
 																	Growth and Relatability with Darryl
 																	Praill</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/andres.html"
+																		href="#insights/author/andres.html"
 																		title="Posts by andres"
 																		rel="author">andres</a></span></span><span
 																class="updated"
@@ -647,7 +647,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/side-project-transition-podcast.html"
+																		href="#insights/side-project-transition-podcast.html"
 																		aria-label="Tommy Griffith’s Secret to Creating a Successful Side Project When You Work Full-Time">
 																		<img width="353" height="176"
 																			src="{{ asset('wp-content/uploads/2019/07/Tommy-Griffith.png') }}"
@@ -667,12 +667,12 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/side-project-transition-podcast.html">Tommy
+																	href="#insights/side-project-transition-podcast.html">Tommy
 																	Griffith’s Secret to Creating a
 																	Successful Side Project When You Work
 																	Full-Time</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/andres.html"
+																		href="#insights/author/andres.html"
 																		title="Posts by andres"
 																		rel="author">andres</a></span></span><span
 																class="updated"
@@ -702,7 +702,7 @@
 															<li>
 																<div class="fusion-image-wrapper"
 																	aria-haspopup="true"> <a
-																		href="insights/organization-alignment-podcast.html"
+																		href="{{ route('website-design-development') }}"
 																		aria-label="How CX Can Be a Key Driver of Business Growth and Profitability with James Gilbert">
 																		<img width="353" height="176"
 																			src="{{ asset('wp-content/uploads/2019/06/James-Gilbert-1.png') }}"
@@ -722,12 +722,12 @@
 															<h2
 																class="blog-shortcode-post-title entry-title">
 																<a
-																	href="insights/organization-alignment-podcast.html">How
+																	href="#insights/organization-alignment-podcast.html">How
 																	CX Can Be a Key Driver of Business
 																	Growth and Profitability with James
 																	Gilbert</a></h2><span class="vcard"
 																style="display: none;"><span class="fn"><a
-																		href="insights/author/autumn.html"
+																		href="#insights/author/autumn.html"
 																		title="Posts by autumn"
 																		rel="author">autumn</a></span></span><span
 																class="updated"
@@ -748,16 +748,15 @@
 											<div class="fusion-clearfix"></div>
 										</div>
 										<div class="pagination clearfix"><span class="current">1</span><a
-												href="podcasts/page/2.html" class="inactive">2</a><a
-												href="podcasts/page/3.html" class="inactive">3</a><a
-												href="podcasts/page/4.html" class="inactive">4</a><a
-												href="podcasts/page/5.html" class="inactive">5</a><a
-												href="podcasts/page/6.html" class="inactive">6</a><a
-												href="podcasts/page/7.html" class="inactive">7</a><a
-												href="podcasts/page/8.html" class="inactive">8</a><a
-												href="podcasts/page/9.html" class="inactive">9</a><a
-												class="pagination-next" rel="next"
-												href="podcasts/page/2.html"><span
+												href="#podcasts/page/2.html" class="inactive">2</a><a
+												href="#podcasts/page/3.html" class="inactive">3</a><a
+												href="#podcasts/page/4.html" class="inactive">4</a><a
+												href="#podcasts/page/5.html" class="inactive">5</a><a
+												href="#podcasts/page/6.html" class="inactive">6</a><a
+												href="#podcasts/page/7.html" class="inactive">7</a><a
+												href="#podcasts/page/9.html" class="inactive">9</a><a
+												class="#pagination-next" rel="next"
+												href="#podcasts/page/2.html"><span
 													class="page-text">Next</span><span
 													class="page-next"></span></a></div>
 										<div class="fusion-clearfix"></div>

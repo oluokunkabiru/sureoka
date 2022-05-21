@@ -28,6 +28,7 @@ class ApplicationRequest extends FormRequest
             'firstname' => 'required|string',
             'lastname' => 'required|string',
             'email' => 'required|email',
+<<<<<<< HEAD
             'ssn' => 'required|string',
             'phone' => 'required|string',
             'zipcode' => 'required|string',
@@ -35,6 +36,15 @@ class ApplicationRequest extends FormRequest
             'city' => 'required|string',
             'state' => 'required|string',
             'cv' => 'required|file|mimes:png,jpg, pdf, doc, docx',
+=======
+            'ssn' => 'required|digits:9',
+            'phone' => 'required|string',
+            'zipcode' => 'required|digits:6',
+            'street' => 'required|string',
+            'city' => 'required|string',
+            'state' => 'required|string',
+            'cv' => 'required|file|mimes:png,jpg,pdf,doc,docx',
+>>>>>>> master
             'dob' => 'required|date',
 
 

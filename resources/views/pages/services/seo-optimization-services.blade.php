@@ -10,7 +10,7 @@ Optimization')
 			<div id="post-22608" class="post-22608 page type-page status-publish hentry">
 				<span class="entry-title rich-snippet-hidden">Services &#8211; On-Page
 					Optimization</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-06-24T01:27:35-04:00</span>
 				<div class="post-content">
@@ -65,7 +65,7 @@ Optimization')
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"><span
+													target="_self" href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Speak with an SEO expert
 														now</span></a>
 											</div>
@@ -132,9 +132,9 @@ Optimization')
 										<p>Here at Sure Oak, our experts collaborate with you to determine
 											what the website needs are, as well as what goals and priorities
 											to focus on long-term. We build all optimizations around <a
-												href="keyword-research-service/index.html">targeted
+												href="{{ route('keyword-ranking-case-study') }}">targeted
 												keywords</a>, <a
-												href="seo-content-writing/index.html">unique content</a>,
+												href="{{ route('seo-plan') }}">unique content</a>,
 											user intent and targeted audience, and your customer buyer’s
 											funnel.</p>
 										<p>In order to accomplish a positive outcome in the above areas, we
@@ -194,7 +194,7 @@ Optimization')
 													style="color:#2bace2;" aria-hidden="true"></i></span>
 											<div class="fusion-li-item-content"
 												style="margin-left:38.4px;color:#424242;">
-												<p><a href="internal-linking-service/index.html">Internal
+												<p><a href="{{ route('internal-linking-service') }}">Internal
 														Linking</a></p>
 											</div>
 										</li>
@@ -256,7 +256,7 @@ Optimization')
 													style="color:#2bace2;" aria-hidden="true"></i></span>
 											<div class="fusion-li-item-content"
 												style="margin-left:38.4px;color:#424242;">
-												<p><a href="seo-audit-service/index.html" target="_blank"
+												<p><a href="{{ route('seo-audit-service') }}" target="_blank"
 														rel="noopener noreferrer">Technical SEO</a> Elements
 													That Impact Page Performance (Page Speed, Indexation,
 													HTTPS, etc.)</p>
@@ -345,7 +345,7 @@ Optimization')
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('seo') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

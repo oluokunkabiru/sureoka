@@ -9,7 +9,7 @@
 			<div id="post-26067" class="post-26067 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Local SEO Case Studies</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2020-09-05T00:35:11-04:00</span>
 				<div class="post-content">
@@ -134,7 +134,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="organic-seo-case-study.html"><span
+										href="{{ route('organic-seo-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>

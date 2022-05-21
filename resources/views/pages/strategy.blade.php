@@ -86,11 +86,12 @@
 												<ul id="menu-blog-submenu-row-1" class="menu">
 													<li id="menu-item-17446"
 														class="nav-item-all menu-item menu-item-type-post_type menu-item-object-page menu-item-17446">
-														<a href="insights.html">All</a></li>
+														<a href="{{ route('service') }}">All</a></li>
 													<li id="menu-item-18121"
 														class="nav-item-podcast menu-item menu-item-type-post_type menu-item-object-page menu-item-18121">
-														<a href="podcasts.html">Podcast</a></li>
-													<li id="menu-item-18129"
+														<a href="#">Podcast</a></li>
+														
+														<li id="menu-item-18129"
 														class="nav-item-seo menu-item menu-item-type-post_type menu-item-object-page menu-item-18129">
 														<a href="seo.html">SEO</a></li>
 													<li id="menu-item-18130"

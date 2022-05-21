@@ -9,7 +9,7 @@
 			<div id="post-28125" class="post-28125 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Throughline Group Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2022-02-01T00:15:40-05:00</span>
 				<div class="post-content">
@@ -597,7 +597,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html" id="ctaButton"><span
+											target="_self" href="{{ route('strategy-call') }}" id="ctaButton"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>
@@ -653,7 +653,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Book a Free SEO Strategy
 												Session</span></a>
 									</div>

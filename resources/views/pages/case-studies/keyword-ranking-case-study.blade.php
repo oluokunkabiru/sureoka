@@ -9,7 +9,7 @@
 			<div id="post-16595" class="post-16595 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Keyword Ranking Case Study</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/andres.html" title="Posts by andres"
+							href="#" title="Posts by andres"
 							rel="author">andres</a></span></span><span
 					class="updated rich-snippet-hidden">2020-11-15T10:52:15-05:00</span>
 				<div class="post-content">
@@ -174,14 +174,14 @@
 											through the improvement of targeted keyword rankings with a high
 											conversion rate, as well as increase relevant traffic to the
 											website.<br /> <strong>Services Provided: &#8211;</strong> <a
-												href="../services/seo-optimization-services/index.html"
+												href="{{ route('seo-optimization-services') }}"
 												target="_blank" rel="noopener noreferrer">On-site SEO</a>,
-											<a href="../services/seo-content-writing/index.html"
+											<a href="{{ route('seo-optimization-services') }}"
 												target="_blank" rel="noopener noreferrer">content
 												creation</a>, <a
-												href="../services/link-building-services.html"
+												href="{{ route('link-building-services') }}"
 												target="_blank" rel="noopener noreferrer">link building</a>,
-											<a href="../services/seo-audit-service/index.html"
+											<a href="{{ route('how-to-get-edu-backlinks') }}"
 												target="_blank" rel="noopener noreferrer">technical
 												auditing</a><br /> <strong>Duration: &#8211; </strong>12
 											months</p>
@@ -215,14 +215,14 @@
 											keywords having high competition, so they needed an in-depth
 											content strategy paired with on-site optimization and off-site
 											link building techniques. (Discover your rank with our <a
-												href="../seo-tools/keyword-rank-checker.html"
+												href="{{ route('keyword-research-service') }}"
 												target="_blank" rel="noopener noreferrer">free Google
 												Ranking Tool</a>.)</p>
 										<p>Sure Oak partnered with Cellwaves to determine the biggest
 											content opportunities, and we developed five targeted pages that
 											would provide strategic benefit, as well as deliver
 											high-converting traffic to the website overall. Additionally, we
-											focused on <a href="../services/how-to-get-edu-backlinks.html"
+											focused on <a href="{{ route('how-to-get-edu-backlinks') }}"
 												target="_blank" rel="noopener noreferrer">a .EDU scholarship
 												link building campaign</a> to secure highly-authoritative
 											backlinks to the Cellwaves website.</p>
@@ -752,7 +752,7 @@
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>

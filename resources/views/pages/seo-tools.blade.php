@@ -23,7 +23,7 @@
 				<div id="post-19213" class="post-19213 page type-page status-publish hentry"> <span
 						class="entry-title rich-snippet-hidden">Sure Oak&#8217;s Free SEO Tools: The Best
 						Online SEO Tools for Google</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-								href="insights/author/superadmin.html" title="Posts by superadmin"
+								href="#insights/author/superadmin.html" title="Posts by superadmin"
 								rel="author">superadmin</a></span></span><span
 						class="updated rich-snippet-hidden">2021-05-06T02:02:21-04:00</span>
 					<div class="post-content">
@@ -76,7 +76,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/seo-checker-analysis-tool.html"><span
+											href="{{ route('seo-tools') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -99,7 +99,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/seo-website-crawler-tool/index.html"><span
+											href="{{ route('website-design-development') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -121,7 +121,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/domain-authority-checker/index.html"><span
+											href="{{ route('seo-tools') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -143,7 +143,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/301-redirect-checker/index.html"><span
+											href="{{ route('seo-tools') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -165,7 +165,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/http-headers-checker/index.html"><span
+											href="#seo-tools/http-headers-checker/index.html"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -186,7 +186,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/keyword-rank-checker/index.html"><span
+											href="{{ route('keyword-ranking-case-study') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -208,7 +208,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/keyword-density-checker/index.html"><span
+											href="{{ route('keyword-ranking-case-study') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -230,7 +230,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/google-xml-sitemap-generator/index.html"><span
+											href="{{ route('google-analytics-consultant') }}"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -252,7 +252,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/robots-txt-generator/index.html"><span
+											href="#seo-tools/robots-txt-generator/index.html"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -274,7 +274,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/meta-tag-generator/index.html"><span
+											href="#seo-tools/meta-tag-generator/index.html"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -295,7 +295,7 @@
 										<div class="fusion-clearfix"></div>
 									</div><span class="fusion-column-inner-bg hover-type-liftup"><a
 											class="fusion-column-anchor"
-											href="seo-tools/url-utm-builder/index.html"><span
+											href="#seo-tools/url-utm-builder/index.html"><span
 												class="fusion-column-inner-bg-image"
 												style="background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 1px 1px 1px 1px;border-color:#ffffff;border-style:solid;box-shadow:2px 2px 4px 0px #808080;;"></span></a></span>
 								</div>
@@ -333,10 +333,10 @@
 												different aspect of your domain’s performance on the web. We
 												say, leave no stone unturned by accessing ALL of them. Why
 												not?</p>
-											<p>Start with our <a href="seo-tools/seo-checker-analysis-tool.html"
+											<p>Start with our <a href="#seo-tools/seo-checker-analysis-tool.html"
 													target="_blank" rel="noopener noreferrer">SEO Score
 													Checker</a> and <a
-													href="seo-tools/seo-website-crawler-tool/index.html" target="_blank"
+													href="#seo-tools/seo-website-crawler-tool/index.html" target="_blank"
 													rel="noopener noreferrer">Crawler/Site
 													Report</a> to give you a comprehensive overview of how
 												your site’s ranking power is measured from the perspective
@@ -354,67 +354,67 @@
 											</p>
 											<h2>How to Use Our Free SEO Tools</h2>
 											<ul>
-												<li><a href="seo-tools/seo-checker-analysis-tool.html" target="_blank"
+												<li><a href="#seo-tools/seo-checker-analysis-tool.html" target="_blank"
 														rel="noopener noreferrer">SEO Score
 														Checker</a>:  <span style="font-weight: 400;">Find
 														out your comprehensive SEO score based on Google’s
 														five major ranking factors.</span></li>
-												<li><a href="seo-tools/seo-website-crawler-tool/index.html"
+												<li><a href="#seo-tools/seo-website-crawler-tool/index.html"
 														target="_blank" rel="noopener noreferrer">Crawler/
 														“Site Report”</a>: <span style="font-weight: 400;">Get a
 														breakdown of each of
 														your website’s pages with this SEO tool that will
 														show you just how Google-friendly your site is (or
 														isn’t).</span></li>
-												<li><a href="seo-tools/301-redirect-checker/index.html" target="_blank"
+												<li><a href="#seo-tools/301-redirect-checker/index.html" target="_blank"
 														rel="noopener noreferrer">Redirect
 														Checker</a>: <span style="font-weight: 400;">Test
 														your URLs and make sure the people searching for you
 														online can actually find you.</span></li>
-												<li><a href="seo-tools/http-headers-checker/index.html" target="_blank"
+												<li><a href="#seo-tools/http-headers-checker/index.html" target="_blank"
 														rel="noopener noreferrer">HTTP
 														Header Checker</a>: <span style="font-weight: 400;">Protect your
 														site
 														navigation from dead links and lagging load times
 														with our HTTP Header Checker that shows you what’s
 														happening behind the scenes.</span></li>
-												<li><a href="seo-tools/url-utm-builder/index.html" target="_blank"
+												<li><a href="#seo-tools/url-utm-builder/index.html" target="_blank"
 														rel="noopener noreferrer">UTM
 														Builder</a>: <span style="font-weight: 400;">Create
 														your own customized URLs complete with UTM code to
 														will help you track all your campaigns
 														seamlessly.</span></li>
-												<li><a href="seo-tools/domain-authority-checker/index.html"
+												<li><a href="#seo-tools/domain-authority-checker/index.html"
 														target="_blank" rel="noopener noreferrer">Domain
 														Authority Checker</a>: <span style="font-weight: 400;">Check
 														your Domain
 														Authority by adding this SEO analyzer to your
 														toolkit that generates a score between 1 and
 														100.</span></li>
-												<li><a href="seo-tools/meta-tag-generator/index.html" target="_blank"
+												<li><a href="#seo-tools/meta-tag-generator/index.html" target="_blank"
 														rel="noopener noreferrer">Meta Tag
 														Generator</a>: <span style="font-weight: 400;">Take
 														a load off. Streamline and optimize all your metas
 														for Google quickly and easily.</span></li>
-												<li><a href="seo-tools/robots-txt-generator/index.html" target="_blank"
+												<li><a href="#seo-tools/robots-txt-generator/index.html" target="_blank"
 														rel="noopener noreferrer">Robots.txt
 														Generator</a>: Generate your own robots.txt file to
 													tell search engine crawlers, like Google, how to <a
-														href="difference-crawling-vs-indexing/index.html"
+														href="#difference-crawling-vs-indexing/index.html"
 														target="_blank" rel="noopener noreferrer">crawl and
 														index</a> your website.</li>
-												<li><a href="seo-tools/google-xml-sitemap-generator/index.html"
+												<li><a href="#seo-tools/google-xml-sitemap-generator/index.html"
 														target="_blank" rel="noopener noreferrer">XML
 														Sitemap Generator</a>: Create a properly formatted
 													XML sitemap to give search engines advanced instructions
 													as to which pages have recently changed, or are most
 													likely to, or are top priorities.</li>
-												<li><a href="seo-tools/keyword-density-checker/index.html"
+												<li><a href="#seo-tools/keyword-density-checker/index.html"
 														target="_blank" rel="noopener noreferrer">Keyword
 														Density Checker</a>: Analyze keyword usage of any of
 													existing webpages on any website so you can optimize
 													webpage for your SEO.</li>
-												<li><a href="seo-tools/keyword-rank-checker/index.html" target="_blank"
+												<li><a href="#seo-tools/keyword-rank-checker/index.html" target="_blank"
 														rel="noopener noreferrer">Keyword
 														Rank Checker</a>: Check the position your website on
 													Google when a user searches for your targeted keywords.
@@ -512,7 +512,7 @@
 								}
 							</style><a
 								class="fusion-button button-flat fusion-button-round button-large button-custom button-1"
-								target="_self" href="strategy-call.html" id="toolsButton"><span
+								target="_self" href="{{ route('strategy') }}" id="toolsButton"><span
 									class="fusion-button-text">Request my SEO strategy session</span></a>
 						</div>
 						<div class="fusion-clearfix"></div>
@@ -526,30 +526,28 @@
 					<div class="collapse-menu" title="Hide Menu"></div>
 					<div class="textwidget custom-html-widget">
 						<ul class="seotools-sidebar-navi" id="scoreLinks">
-							<li class="icon da-checker"><a href="seo-toolsd384.html?websiteId=0">SEO
+							<li class="icon da-checker"><a href="#seo-toolsd384.html?websiteId=0">SEO
 									Tools</a>
 								<ul>
-									<li><a href="seo-tools/seo-checker-analysis-toold384.html?websiteId=0"
+									<li><a href="#seo-tools/seo-checker-analysis-toold384.html?websiteId=0"
 											id="goToSiteBacklinks">SEO Score Checker</a></li>
-									<li><a href="seo-tools/seo-website-crawler-tool.html?websiteId=0"
+									<li><a href="#seo-tools/seo-website-crawler-tool.html?websiteId=0"
 											id="goToSiteReportNavLink">SEO Crawler Tool</a></li>
-									<li><a href="seo-tools/domain-authority-checkerd384.html?websiteId=0">Domain
+									<li><a href="#seo-tools/domain-authority-checkerd384.html?websiteId=0">Domain
 											Authority Checker</a></li>
-									<li><a href="seo-tools/301-redirect-checkerd384.html?websiteId=0">Redirect
-											Checker</a></li>
-									<li><a href="seo-tools/http-headers-checkerd384.html?websiteId=0">Header
+									<li><a href="#seo-tools/http-headers-checkerd384.html?websiteId=0">Header
 											Status Checker</a></li>
-									<li><a href="seo-tools/keyword-rank-checkerd384.html?websiteId=0">Keyword
+									<li><a href="#seo-tools/keyword-rank-checkerd384.html?websiteId=0">Keyword
 											Rank Checker</a></li>
-									<li><a href="seo-tools/keyword-density-checkerd384.html?websiteId=0">Keyword
+									<li><a href="#seo-tools/keyword-density-checkerd384.html?websiteId=0">Keyword
 											Density Checker</a></li>
-									<li><a href="seo-tools/google-xml-sitemap-generator.html">Sitemap
+									<li><a href="#seo-tools/google-xml-sitemap-generator.html">Sitemap
 											Generator</a></li>
-									<li><a href="seo-tools/robots-txt-generatord384.html?websiteId=0">Robots.txt
+									<li><a href="#seo-tools/robots-txt-generatord384.html?websiteId=0">Robots.txt
 											Generator</a></li>
-									<li><a href="seo-tools/meta-tag-generatord384.html?websiteId=0">Meta Tag
+									<li><a href="#seo-tools/meta-tag-generatord384.html?websiteId=0">Meta Tag
 											Generator</a></li>
-									<li><a href="seo-tools/url-utm-builderd384.html?websiteId=0">UTM
+									<li><a href="#seo-tools/url-utm-builderd384.html?websiteId=0">UTM
 											Builder</a></li>
 								</ul>
 							</li>

@@ -8,7 +8,7 @@
 		<section id="content" class="full-width">
 			<div id="post-14351" class="post-14351 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Subscribe to the Podcast</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/andres.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#insights/author/andres.html"
 							title="Posts by andres" rel="author">andres</a></span></span><span
 					class="updated rich-snippet-hidden">2022-02-22T10:06:35-05:00</span>
 				<div class="post-content">
@@ -22,7 +22,7 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"
 										style="margin-right:25px;float:left;max-width:200px;"><a
-											class="fusion-no-lightbox" href="index.html" target="_self"
+											class="fusion-no-lightbox" href="{{ route('welcome') }}" target="_self"
 											aria-label="Sure Oak"><img width="448" height="126"
 												alt="Sure Oak"
 												src="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
@@ -42,7 +42,7 @@
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"
 											style="max-width:200px;"><a class="fusion-no-lightbox"
-												href="index.html" target="_self" aria-label="Sure Oak"><img
+												href="{{ route('welcome') }}" target="_self" aria-label="Sure Oak"><img
 													width="448" height="126" alt="Sure Oak"
 													src="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"
 													data-orig-src="{{ asset('wp-content/uploads/2018/11/sureoak_logo_2x-1.png') }}"

@@ -103,7 +103,11 @@
 												target="_blank" aria-label="2021-best-seo-firm-new-york"
 												rel="noopener noreferrer"><img width="250" height="250"
 													alt="2021 Best SEO Firms in New York City"
+<<<<<<< HEAD
 													src="../wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png') }}"
+=======
+													src="{{ asset('wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png') }}"
+>>>>>>> master
 													data-orig-src="{{ asset('wp-content/uploads/2020/12/2021-best-seo-firm-new-york.png') }}"
 													class="lazyload img-responsive wp-image-27242"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -125,7 +129,11 @@
 												aria-label="award-top-seo-company-2021"
 												rel="noopener noreferrer"><img width="250" height="250"
 													alt="Clutch Top SEO Company 2021"
+<<<<<<< HEAD
 													src="../wp-content/uploads/2021/03/award-top-seo-company-2021.png') }}"
+=======
+													src="{{ asset('wp-content/uploads/2021/03/award-top-seo-company-2021.png') }}"
+>>>>>>> master
 													data-orig-src="{{ asset('wp-content/uploads/2021/03/award-top-seo-company-2021.png') }}"
 													class="lazyload img-responsive wp-image-27680"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -147,7 +155,11 @@
 												target="_blank" aria-label="enterprise-seo-company"
 												rel="noopener noreferrer"><img width="250" height="250"
 													alt="Top 10 Enterprise SEO Company"
+<<<<<<< HEAD
 													src="../wp-content/uploads/2020/09/enterprise-seo-company.png') }}"
+=======
+													src="{{ asset('wp-content/uploads/2020/09/enterprise-seo-company.png') }}"
+>>>>>>> master
 													data-orig-src="{{ asset('wp-content/uploads/2020/09/enterprise-seo-company.png') }}"
 													class="lazyload img-responsive wp-image-26813"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -169,7 +181,11 @@
 												aria-label="goodfirms-top-seo-services-company"
 												rel="noopener noreferrer"><img width="250" height="250"
 													alt="Goodfirms Top SEO Services Company"
+<<<<<<< HEAD
 													src="../wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png') }}"
+=======
+													src="{{ asset('wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png') }}"
+>>>>>>> master
 													data-orig-src="{{ asset('wp-content/uploads/2020/09/goodfirms-top-seo-services-company.png') }}"
 													class="lazyload img-responsive wp-image-26816"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -188,7 +204,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img
 												width="250" height="250" alt="Top Rated SEO Agency"
 												title="top-rated-seo-agency"
+<<<<<<< HEAD
 												src="../wp-content/uploads/2020/09/top-rated-seo-agency.jpg') }}"
+=======
+												src="{{ asset('wp-content/uploads/2020/09/top-rated-seo-agency.jpg') }}"
+>>>>>>> master
 												data-orig-src="{{ asset('wp-content/uploads/2020/09/top-rated-seo-agency.jpg') }}"
 												class="lazyload img-responsive wp-image-26819"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -242,7 +262,11 @@
 														style="max-width:152px;"><img width="250"
 															height="250" alt="Best SEM Company"
 															title="best-sem-company"
+<<<<<<< HEAD
 															src="../wp-content/uploads/2020/12/best-sem-company.png') }}"
+=======
+															src="{{ asset('wp-content/uploads/2020/12/best-sem-company.png') }}"
+>>>>>>> master
 															data-orig-src="{{ asset('wp-content/uploads/2020/12/best-sem-company.png') }}"
 															class="lazyload img-responsive wp-image-27261"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -268,7 +292,11 @@
 															height="250"
 															alt="Best Search Engine Marketing Agency - New York"
 															title="best-sem-agency-new-york"
+<<<<<<< HEAD
 															src="../wp-content/uploads/2021/09/best-sem-agency-new-york.png') }}"
+=======
+															src="{{ asset('wp-content/uploads/2021/09/best-sem-agency-new-york.png') }}"
+>>>>>>> master
 															data-orig-src="{{ asset('wp-content/uploads/2021/09/best-sem-agency-new-york.png') }}"
 															class="lazyload img-responsive wp-image-28085"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -303,11 +331,15 @@
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-9 hover-type-none"
 											style="max-width:192px;"><a class="fusion-no-lightbox"
-												href="../insights/sure-oak-awarded-top-b2b-company.html"
+												href="{{ route('insights') }}"
 												target="_self" aria-label="clutch-top-seo-consultants"><img
 													width="250" height="250"
 													alt="Clutch Top SEO Consultants"
+<<<<<<< HEAD
 													src="../wp-content/uploads/2020/09/clutch-top-seo-consultants.png') }}"
+=======
+													src="{{ asset('wp-content/uploads/2020/09/clutch-top-seo-consultants.png') }}"
+>>>>>>> master
 													data-orig-src="{{ asset('wp-content/uploads/2020/09/clutch-top-seo-consultants.png') }}"
 													class="lazyload img-responsive wp-image-26812"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -333,11 +365,15 @@
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"
 											style="max-width:192px;"><a class="fusion-no-lightbox"
-												href="../insights/sure-oak-awarded-top-b2b-company.html"
+												href="{{ route('insights') }}"
 												target="_self" aria-label="clutch-top-b2b-company"><img
 													width="250" height="250"
 													alt="Clutch Top B2B Company New York"
+<<<<<<< HEAD
 													src="../wp-content/uploads/2020/10/clutch-top-b2b-company.png') }}"
+=======
+													src="{{ asset('wp-content/uploads/2020/10/clutch-top-b2b-company.png') }}"
+>>>>>>> master
 													data-orig-src="{{ asset('wp-content/uploads/2020/10/clutch-top-b2b-company.png') }}"
 													class="lazyload img-responsive wp-image-27089"
 													srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -386,7 +422,11 @@
 															height="250"
 															alt="Clutch Top Digital Marketing Agency 2020"
 															title="awards-badges_17"
+<<<<<<< HEAD
 															src="../wp-content/uploads/2020/09/awards-badges_17.png') }}"
+=======
+															src="{{ asset('wp-content/uploads/2020/09/awards-badges_17.png') }}"
+>>>>>>> master
 															data-orig-src="{{ asset('wp-content/uploads/2020/09/awards-badges_17.png') }}"
 															class="lazyload img-responsive wp-image-26810"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -407,7 +447,11 @@
 															height="250"
 															alt="Goodfirms Top Digital Marketing Company"
 															title="goodfirms-top-digital-marketing-company"
+<<<<<<< HEAD
 															src="../wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png') }}"
+=======
+															src="{{ asset('wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png') }}"
+>>>>>>> master
 															data-orig-src="{{ asset('wp-content/uploads/2020/09/goodfirms-top-digital-marketing-company.png') }}"
 															class="lazyload img-responsive wp-image-26815"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%27250%27%20viewBox%3D%270%200%20250%20250%27%3E%3Crect%20width%3D%27250%27%20height%3D%27250%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -475,7 +519,11 @@
 														target="_blank" aria-label="featured-upcity"
 														rel="noopener noreferrer"><img width="448"
 															height="115" alt="Featured on UpCity"
+<<<<<<< HEAD
 															src="../wp-content/uploads/2020/09/featured-upcity.png') }}"
+=======
+															src="{{ asset('wp-content/uploads/2020/09/featured-upcity.png') }}"
+>>>>>>> master
 															data-orig-src="{{ asset('wp-content/uploads/2020/09/featured-upcity.png') }}"
 															class="lazyload img-responsive wp-image-26814"
 															srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27448%27%20height%3D%27115%27%20viewBox%3D%270%200%20448%20115%27%3E%3Crect%20width%3D%27448%27%20height%3D%27115%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -520,7 +568,11 @@
 														width="385" height="115"
 														alt="Sortlist Verified Agency"
 														title="sl-verified-agency"
+<<<<<<< HEAD
 														src="../wp-content/uploads/2020/09/sl-verified-agency.png') }}"
+=======
+														src="{{ asset('wp-content/uploads/2020/09/sl-verified-agency.png') }}"
+>>>>>>> master
 														data-orig-src="{{ asset('wp-content/uploads/2020/09/sl-verified-agency.png') }}"
 														class="lazyload img-responsive wp-image-26818"
 														srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27385%27%20height%3D%27115%27%20viewBox%3D%270%200%20385%20115%27%3E%3Crect%20width%3D%27385%27%20height%3D%27115%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -537,7 +589,11 @@
 					</div>
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns lazyload"
 						style="background-color: #145a84;background-position: center center;background-repeat: no-repeat;padding-top:40px;padding-right:15%;padding-bottom:20px;padding-left:15%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
+<<<<<<< HEAD
 						data-bg="../wp-content/uploads/2020/09/awards-featured-in-bg.png') }}">
+=======
+						data-bg="{{ asset('wp-content/uploads/2020/09/awards-featured-in-bg.png') }}">
+>>>>>>> master
 						<div class="fusion-builder-row fusion-row">
 							<div class="fusion-layout-column fusion_builder_column fusion-builder-column-21 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height"
 								style="margin-top:0px;margin-bottom:0px;">
@@ -560,7 +616,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-17 hover-type-none"><img
 												width="250" height="90" alt="SEMRush logo"
 												title="icon_semrush"
+<<<<<<< HEAD
 												src="../wp-content/uploads/2020/09/icon_semrush.png') }}"
+=======
+												src="{{ asset('wp-content/uploads/2020/09/icon_semrush.png') }}"
+>>>>>>> master
 												data-orig-src="{{ asset('wp-content/uploads/2020/09/icon_semrush.png') }}"
 												class="lazyload img-responsive wp-image-26806"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%2790%27%20viewBox%3D%270%200%20250%2090%27%3E%3Crect%20width%3D%27250%27%20height%3D%2790%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -595,7 +655,11 @@
 									<div class="imageframe-align-center"><span
 											class=" fusion-imageframe imageframe-none imageframe-18 hover-type-none"><img
 												width="250" height="90" alt="Moz logo" title="icon_moz"
+<<<<<<< HEAD
 												src="../wp-content/uploads/2020/09/icon_moz.png') }}"
+=======
+												src="{{ asset('wp-content/uploads/2020/09/icon_moz.png') }}"
+>>>>>>> master
 												data-orig-src="{{ asset('wp-content/uploads/2020/09/icon_moz.png') }}"
 												class="lazyload img-responsive wp-image-26804"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%2790%27%20viewBox%3D%270%200%20250%2090%27%3E%3Crect%20width%3D%27250%27%20height%3D%2790%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -632,7 +696,11 @@
 												width="250" height="90"
 												alt="Growth Marketing Conference logo"
 												title="icon_gmc-conference"
+<<<<<<< HEAD
 												src="../wp-content/uploads/2020/09/icon_gmc-conference.png') }}"
+=======
+												src="{{ asset('wp-content/uploads/2020/09/icon_gmc-conference.png') }}"
+>>>>>>> master
 												data-orig-src="{{ asset('wp-content/uploads/2020/09/icon_gmc-conference.png') }}"
 												class="lazyload img-responsive wp-image-26803"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%2790%27%20viewBox%3D%270%200%20250%2090%27%3E%3Crect%20width%3D%27250%27%20height%3D%2790%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -668,7 +736,11 @@
 											class=" fusion-imageframe imageframe-none imageframe-20 hover-type-none"><img
 												width="250" height="90" alt="Search Engine Watch logo"
 												title="icon_search-engine-watch"
+<<<<<<< HEAD
 												src="../wp-content/uploads/2020/09/icon_search-engine-watch.png') }}"
+=======
+												src="{{ asset('wp-content/uploads/2020/09/icon_search-engine-watch.png') }}"
+>>>>>>> master
 												data-orig-src="{{ asset('wp-content/uploads/2020/09/icon_search-engine-watch.png') }}"
 												class="lazyload img-responsive wp-image-26805"
 												srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27250%27%20height%3D%2790%27%20viewBox%3D%270%200%20250%2090%27%3E%3Crect%20width%3D%27250%27%20height%3D%2790%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
@@ -882,7 +954,7 @@
 											class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type fusion-animated giant-button"
 											data-animationType="shake" data-animationDuration="0.5"
 											data-animationOffset="bottom-in-view" target="_self"
-											href="testimonials.html"><span class="fusion-button-text">Read
+											href="{{ route('testimonials') }}"><span class="fusion-button-text">Read
 												more testimonials</span></a>
 									</div>
 									<div class="fusion-clearfix"></div>

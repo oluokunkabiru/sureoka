@@ -10,7 +10,7 @@ Advertising')
 			<div id="post-27878" class="post-27878 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Services &#8211; Social Media
 					Advertising</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/darrenjames13.html" title="Posts by Darren James"
+							href="#" title="Posts by Darren James"
 							rel="author">Darren James</a></span></span><span
 					class="updated rich-snippet-hidden">2021-06-24T01:14:06-04:00</span>
 				<div class="post-content">
@@ -65,7 +65,7 @@ Advertising')
 													}
 												</style><a
 													class="fusion-button button-flat button-xlarge button-custom button-1 fusion-button-default-span fusion-button-default-type"
-													target="_self" href="../strategy-call.html"><span
+													target="_self" href="{{ route('strategy-call') }}"><span
 														class="fusion-button-text">Schedule a FREE social
 														media advertising consultation</span></a>
 											</div>
@@ -265,7 +265,7 @@ Advertising')
 													style="color:#2bace2;" aria-hidden="true"></i></span>
 											<div class="fusion-li-item-content"
 												style="margin-left:38.4px;color:#424242;">
-												<p><a href="seo-content-writing.html">Advertising content
+												<p><a href="{{ route('seo-content-writing') }}">Advertising content
 														creation</a> (from ebooks to infographics and
 													quizzes)</p>
 											</div>
@@ -702,7 +702,7 @@ Advertising')
 											}
 										</style><a
 											class="fusion-button button-flat button-xlarge button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy-call') }}"><span
 												class="fusion-button-text">Schedule a FREE consultation
 												now!</span></a>
 									</div>

@@ -8,7 +8,7 @@
 		<section id="content" style="width: 100%;">
 			<div id="post-14598" class="post-14598 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Scholarship</span><span
-					class="vcard rich-snippet-hidden"><span class="fn"><a href="insights/author/andres.html"
+					class="vcard rich-snippet-hidden"><span class="fn"><a href="#insights/author/andres.html"
 							title="Posts by andres" rel="author">andres</a></span></span><span
 					class="updated rich-snippet-hidden">2021-11-14T11:13:19-05:00</span>
 				<div class="post-content">
@@ -79,7 +79,11 @@
 									<span
 										class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 											src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+<<<<<<< HEAD
 											data-orig-src="{{ asset('wp-content/uploads/2018/08/teamwork-600x419.jpeg"
+=======
+											data-orig-src="{{ asset('wp-content/uploads/2018/08/teamwork-600x419.jpeg')}}"
+>>>>>>> master
 											alt class="lazyload img-responsive" /></span>
 									<div class="fusion-clearfix"></div>
 								</div>
@@ -181,7 +185,7 @@
 											<li style="font-weight: 400;"><span
 													style="font-weight: 400;">Any questions about the Sure
 													Oak Scholarship can be directed to: <a
-														href="cdn-cgi/l/email-protection.html"
+														href="#cdn-cgi/l/email-protection.html"
 														class="__cf_email__"
 														data-cfemail="c1ada0b3a081b2b4b3a4aea0aaefa2aeac">[email&#160;protected]</a></span>
 											</li>
@@ -257,10 +261,10 @@
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-text fusion-text-5">
 										<h1>The 2021 Scholarship Winner</h1>
-										<p><a href="2021-scholarship-winner.html"
+										<p><a href="#2021-scholarship-winner.html"
 												rel="noopener noreferrer">Read Carneal&#8217;s Winning Essay
 												Here</a></p>
-										<p><a href="2021-scholarship-winner.html"><img
+										<p><a href="#2021-scholarship-winner.html"><img
 													class="lazyload alignleft" style="width: 150px;"
 													src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 													data-orig-src="/wp-content/uploads/2021/08/carneal-owens-scholarship-winner-2021.jpg') }}"
@@ -295,7 +299,7 @@
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-text fusion-text-7">
 										<h1>The 2020 Scholarship Winner</h1>
-										<p><a href="2020-scholarship-winner/index.html" target="_blank"
+										<p><a href="#2020-scholarship-winner/index.html" target="_blank"
 												rel="noopener noreferrer">Read Akeena&#8217;s Winning Essay
 												Here</a></p>
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"
@@ -334,7 +338,7 @@
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-text fusion-text-9">
 										<h1>The 2019 Scholarship Winner</h1>
-										<p><a href="2019-scholarship-winner/index.html" target="_blank"
+										<p><a href="#2019-scholarship-winner/index.html" target="_blank"
 												rel="noopener noreferrer">Read Tanner&#8217;s Winning Essay
 												Here</a></p>
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"
@@ -373,7 +377,7 @@
 									<div class="fusion-sep-clear"></div>
 									<div class="fusion-text fusion-text-11">
 										<h1>The 2018 Scholarship Winner</h1>
-										<p><a href="2018-scholarship-winner/index.html" target="_blank"
+										<p><a href="#2018-scholarship-winner/index.html" target="_blank"
 												rel="noopener noreferrer">Read Darren’s Winning Essay
 												Here</a></p>
 										<p><img class="lazyload alignleft size-thumbnail wp-image-16084"

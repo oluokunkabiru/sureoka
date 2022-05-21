@@ -10,7 +10,7 @@ Scholarship')
 			<div id="post-17189" class="post-17189 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">How to Get .EDU Backlinks with a
 					Scholarship</span><span class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="../insights/author/andres.html" title="Posts by andres"
+							href="#" title="Posts by andres"
 							rel="author">andres</a></span></span><span
 					class="updated rich-snippet-hidden">2019-08-01T13:52:23-04:00</span>
 				<div class="post-content">
@@ -24,7 +24,7 @@ Scholarship')
 									<div class="fusion-text fusion-text-1">
 										<h1 style="text-align: center;">How to Get .EDU Backlinks with a
 											Scholarship</h1>
-										<p>If you want to <a href="../keyword-ranking-case-study/index.html"
+										<p>If you want to <a href="{{ route('keyword-ranking-case-study') }}"
 												target="_blank" rel="noopener noreferrer">rank higher and
 												drive more organic traffic</a> to your website, then you
 											need to get more authoritative and trustworthy backlinks.</p>
@@ -32,7 +32,7 @@ Scholarship')
 											mysterious endeavor for most companies.</p>
 										<p>After all, how can you get a significant number of these
 											high-quality links in a legitimate and effective way?</p>
-										<p><a href="../scholarship-edu-backlink-case-studies/index.html"
+										<p><a href="{{ route('scholarship-edu-backlink-case-studies') }}"
 												target="_blank" rel="noopener noreferrer">Scholarship link
 												building is a highly effective strategy</a> for this, and
 											will help your site rank higher and get more traffic.</p>
@@ -54,7 +54,7 @@ Scholarship')
 											several months, and perform heavy outreach for it to be
 											effective.  But it will pay dividends in the long term.</p>
 										<p>If you want your company to rank higher and <a
-												href="../featured-scholarship-case-study/index.html"
+												href="{{ route('featured-scholarship-case-study') }}"
 												target="_blank" rel="noopener noreferrer">get more traffic
 												with a white hat link building strategy</a>, you might be a
 											good fit for a scholarship link building campaign.</p>
@@ -76,7 +76,7 @@ Scholarship')
 										<p>As mentioned before, backlinks from high DA, authoritative .EDU
 											sites will increase your website’s authority to Google. Even a
 											handful of links from .EDU sites will <a
-												href="../seo-tools/domain-authority-checker.html"
+												href="{{ route('seo-tools') }}"
 												target="_blank" rel="noopener noreferrer">boost your domain
 												authority</a>, your domain rating, and your Trust Flow.</p>
 										<h3>Backlinks stay active for long periods of time</h3>
@@ -144,7 +144,7 @@ Scholarship')
 											Google).</p>
 										<p>To note: if localized marketing is a priority for your business,
 											Sure Oak offers additional,<a
-												href="local-seo-services/index.html" target="_blank"
+												href="{{ route('seo-plan') }}" target="_blank"
 												rel="noopener noreferrer"> specialized local SEO
 												services</a>.</p>
 										<h3>Giving back to the community</h3>
@@ -239,7 +239,7 @@ Scholarship')
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>
@@ -587,7 +587,7 @@ Scholarship')
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="../scholarship-edu-backlink-case-studies/index.html"><span
+										href="{{ route('strategy-call') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -613,7 +613,7 @@ Scholarship')
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="../featured-scholarship-case-study/index.html"><span
+										href="{{ route('featured-scholarship-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -683,7 +683,7 @@ Scholarship')
 											}
 										</style><a
 											class="fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type"
-											target="_self" href="../strategy-call.html"><span
+											target="_self" href="{{ route('strategy') }}"><span
 												class="fusion-button-text">Request my SEO strategy session
 												now</span></a>
 									</div>
@@ -703,7 +703,7 @@ Scholarship')
 										<div class="awb-image-frame awb-image-frame-5 imageframe-liftup"
 											style="max-width:600px;"><span
 												class=" fusion-imageframe imageframe-none imageframe-5"><a
-													class="fusion-no-lightbox" href="../strategy-call.html"
+													class="fusion-no-lightbox" href="{{ route('strategy-call') }}"
 													target="_self"
 													aria-label="scholarship-link-building-edu"><img
 														width="800" height="2000"

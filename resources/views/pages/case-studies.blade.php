@@ -9,7 +9,7 @@
 			<div id="post-19026" class="post-19026 page type-page status-publish hentry"> <span
 					class="entry-title rich-snippet-hidden">Case Studies</span><span
 					class="vcard rich-snippet-hidden"><span class="fn"><a
-							href="insights/author/superadmin.html" title="Posts by superadmin"
+							href="#" title="Posts by superadmin"
 							rel="author">superadmin</a></span></span><span
 					class="updated rich-snippet-hidden">2022-02-01T00:34:31-05:00</span>
 				<div class="post-content">
@@ -76,7 +76,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/public-speaking-training-company-seo-case-study.html"><span
+										href="{{ route('public-speaking-training-company-seo-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -101,7 +101,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/digital-publication-seo-case-study.html"><span
+										href="{{ route('digital-public-relations') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -126,7 +126,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/e-commerce-seo-game-plan-case-study.html"><span
+										href="{{ route('e-commerce-seo-game-plan-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -151,7 +151,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/mattress-buying-guide-website.html"><span
+										href="{{ route('mattress-buying-guide-website') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -178,7 +178,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/insurance-seo-case-study.html"><span
+										href="{{ route('insurance-seo-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -205,7 +205,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/organic-seo-case-study.html"><span
+										href="{{ route('organic-seo-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -231,7 +231,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/financial-services-seo-case-study.html"><span
+										href="{{ route('financial-services-seo-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -256,7 +256,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/integrated-seo-case-study.html"><span
+										href="{{ route('integrated-seo-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -282,7 +282,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/b2b-saas-case-study.html"><span
+										href="{{ route('b2b-saas-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -307,7 +307,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/link-building-case-study.html"><span
+										href="{{ route('link-building') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -331,7 +331,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/scholarship-edu-backlink-case-studies.html"><span
+										href="{{ route('scholarship-edu-backlink-case-studies') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -357,7 +357,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/keyword-ranking-case-study.html"><span
+										href="{{ route('keyword-ranking-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -383,7 +383,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/multi-strategy-approach-case-study.html"><span
+										href="{{ route('multi-strategy-approach-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
@@ -409,7 +409,7 @@
 									<div class="fusion-clearfix"></div>
 								</div><span class="fusion-column-inner-bg hover-type-none"><a
 										class="fusion-column-anchor"
-										href="case-studies/featured-scholarship-case-study.html"><span
+										href="{{ route('featured-scholarship-case-study') }}"><span
 											class="fusion-column-inner-bg-image"
 											style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a></span>
 							</div>
