@@ -520,7 +520,7 @@
 <style type="text/css" id="wp-custom-css">
     /*
 * Use child theme!!
-* https://surelyoak.com/wp-admin/theme-editor.php
+* https:https://surelyoak.com/wp-admin/theme-editor.php
 */
 </style>
 <style type="text/css" title="dynamic-css" class="options-output">

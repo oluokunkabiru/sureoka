@@ -26,7 +26,7 @@
 										<h3>I. Terms</h3>
 										
 										<p>By accessing the website at <a href="{{ route('welcome') }}" target="_blank"
-												rel="nofollow noopener noreferrer">https://surelyoak.com/</a>,
+												rel="nofollow noopener noreferrer">https:https://surelyoak.com/</a>,
 											you are agreeing to be bound by these terms of service, all
 											applicable laws and regulations, and agree that you are
 											responsible for compliance with any applicable local laws. If
