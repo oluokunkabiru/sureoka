@@ -7,12 +7,22 @@
     <div class="fusion-row" style="max-width:100%;">
         <section id="content" class="full-width">
             <div id="post-16946" class="post-16946 page type-page status-publish hentry">
-                 {{-- <span
-                    class="entry-title rich-snippet-hidden">[Remote] Expert SEO Strategist For
-                    Mission-Driven SEO Agency</span><span class="vcard rich-snippet-hidden"><span
+                 <span
+                    class="entry-title rich-snippet-hidden">{{$job->title}}</span><span class="vcard rich-snippet-hidden"><span
                         class="fn"><a href="{{ route('welcome') }}" title="Posts by andres"
                             rel="author">andres</a></span></span><span
-                    class="updated rich-snippet-hidden">2021-09-17T09:07:47-04:00</span> --}}
+                    class="updated rich-snippet-hidden">{{ $job->created_at }}</span>
+                    <style>
+                        ul.special-icons li {
+    display: inline-block;
+    font-size: 22px;
+    color: #267399;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+}
+                    </style>
                 <div class="post-content">
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"
                         style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:2%;padding-right:20%;padding-bottom:2%;padding-left:20%;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"
@@ -56,13 +66,13 @@
                                 <div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
                                     style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 10% 0px 10%;">
                                     <style type="text/css"></style>
-                                    {{-- <div class="fusion-title title fusion-title-3 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-two"
+                                    <div class="fusion-title title fusion-title-3 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-two"
                                         style="font-size:30px;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;">
                                         <h2 class="title-heading-center"
                                             style="margin:0;font-size:1em;color:#267399;line-height:44px;">
-                                            Expert SEO Strategist For Mission-Driven SEO Agency (Remote)
+                                            {{ $job->title }}
                                         </h2>
-                                    </div> --}}
+                                    </div>
                                     <ul class="special-icons">
                                         <li>
                                             <i
@@ -163,15 +173,17 @@
                                     <div class="fusion-clearfix"></div>
                                 </div>
                             </div>
-                            {{-- <div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
+                            <div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
                                 style="margin-top:0px;margin-bottom:20px;">
                                 <div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"
                                     style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 30px 0px 0px 0px;">
                                     <div class="fusion-text fusion-text-1">
                                         <p>{{ $job->excerpt }}</p>
-                                        <p><a href="{{ route('careers') }}">Learn more about what a career at Sure Oak
-                                                is like here</a>.</p>
-                                        <h3>Our Ideal Candidate:</h3>
+                                        <p><a href="{{ route('careers') }}">
+                                            Learn more about what a career at Sure Oak
+                                                is like here</a>.
+                                            </p>
+                                    {{-- <h3>Our Ideal Candidate:</h3>
                                     </div>
                                     <ul class="fusion-checklist fusion-checklist-1"
                                         style="font-size:16px;line-height:27.2px;">
@@ -422,9 +434,10 @@
                                                 style="margin-left:38.4px;color:#424242;">Opportunities for
                                                 promotion</div>
                                         </li>
-                                    </ul>
+                                    </ul> --}}
+                                     {!! $job->description !!}
+
                                     <div class="fusion-text fusion-text-5">
-                                       {!! $job->description !!}
                                     </div>
                                     <div class="fusion-aligncenter">
                                         <style>
@@ -461,9 +474,9 @@
                                     </div>
                                     <div class="fusion-clearfix"></div>
                                 </div>
-                            </div> --}}
+                            </div>
 
-                            {!! $job->description !!}
+                            {{-- {!! $job->description !!} --}}
                         </div>
                     </div>
                     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none reduce-padding-mobile nonhundred-percent-fullwidth non-hundred-percent-height-scrolling lazyload"

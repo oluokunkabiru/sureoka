@@ -36,7 +36,7 @@
                                                     href="https://www.youtube.com/watch?v=40b5toeZo7M?rel=0&amp;autoplay=1"
                                                     data-rel="iLightbox" id="home-play-button"><img class="lazyload"
                                                         src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27150%27%20height%3D%27150%27%20viewBox%3D%270%200%20150%20150%27%3E%3Crect%20width%3D%27150%27%20height%3D%27150%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E"
-                                                        data-orig-src={{ asset('wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png') }}"></a>
+                                                        data-orig-src="{{ asset('wp-content/uploads/2019/03/Asset-1%402x-1-150x150.png') }}"></a>
                                                 <div class="fusion-clearfix"></div>
                                             </div>
                                         </div>
