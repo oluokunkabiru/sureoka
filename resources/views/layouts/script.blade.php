@@ -53,49 +53,6 @@ _hsq.push(["setContentId", "standard-page"]);</script>
 <script
 type="text/javascript">function powerpress_pinw(pinw_url) { window.open(pinw_url, 'PowerPressPlayer', 'toolbar=0,status=0,resizable=1,width=460,height=320'); return false; }</script>
 
-{{-- <script type="application/ld+json">{
-"@context": "https://schema.org",
-"@type": "ProfessionalService",
-"name": "Sure Oak",
-"image": "https://www.surelyoak.com/wp-content/uploads/2018/12/sure-oak-office-2.png",
-"@id": "",
-"url": "https://www.surelyoak.com/",
-"telephone": "(646) 883-5625",
-"priceRange": "$$",
-"address": {
-"@type": "PostalAddress",
-"streetAddress": "115 E 23rd St 3rd Floor",
-"addressLocality": "New York",
-"addressRegion": "NY",
-"postalCode": "10010",
-"addressCountry": "US"
-},
-"geo": {
-"@type": "GeoCoordinates",
-"latitude": 40.740093,
-"longitude": -73.9854925
-},
-"openingHoursSpecification": {
-"@type": "OpeningHoursSpecification",
-"dayOfWeek": [
-"Monday",
-"Tuesday",
-"Wednesday",
-"Thursday",
-"Friday"
-],
-"opens": "09:00",
-"closes": "17:00"
-},
-"sameAs": [
-"https://www.facebook.com/SureOak/",
-"https://twitter.com/sureoak/",
-"https://www.instagram.com/sureoak/",
-"https://www.linkedin.com/company/sureoak/",
-"https://www.youtube.com/channel/UCcy9FeggFN5OZqlStSOccZA/"
-]
-}</script> --}}
-
 
 <script>(function (w, d, s, l, i) {
     w[l] = w[l] || []; w[l].push({
@@ -138,5 +95,5 @@ doc.setAttribute('data-useragent', navigator.userAgent);</script>
     id='fusion-scripts-js'></script>
 
 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 

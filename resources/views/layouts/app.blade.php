@@ -46,6 +46,7 @@
 
 <!-- Mirrored from www.sureoak.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 May 2022 19:52:21 GMT -->
 @include('layouts.script')
+@yield('script')
 </body>
 
 </html>

@@ -183,9 +183,9 @@
                                             Learn more about what a career at Sure Oak
                                                 is like here</a>.
                                             </p>
-                                    {{-- <h3>Our Ideal Candidate:</h3>
+                                    <h3>Our Ideal Candidate:</h3>
                                     </div>
-                                    <ul class="fusion-checklist fusion-checklist-1"
+                                    {{-- <ul class="fusion-checklist fusion-checklist-1"
                                         style="font-size:16px;line-height:27.2px;">
                                         <li style="background-color:rgba(255,255,255,0);"
                                             class="fusion-li-item"><span
@@ -395,11 +395,10 @@
                                             </div>
                                         </li>
                                         <li style="background-color:rgba(255,255,255,0);"
-                                            class="fusion-li-item"><span
-                                                style="height:27.2px;width:27.2px;margin-right:11.2px;"
-                                                class="icon-wrapper circle-no"><i
-                                                    class="fusion-li-icon fa-check fas"
-                                                    style="color:#267399;" aria-hidden="true"></i></span>
+                                            class="fusion-li-item">
+                                            <span style="height:27.2px;width:27.2px;margin-right:11.2px;" class="icon-wrapper circle-no">
+                                                <i class="fusion-li-icon fa-check fas" style="color:#267399;" aria-hidden="true"></i>
+                                            </span>
                                             <div class="fusion-li-item-content"
                                                 style="margin-left:38.4px;color:#424242;">Flexible hours
                                                 (needs to be available during normal business hours)</div>
@@ -537,4 +536,14 @@
     </div>
 </main>
 
+@endsection
+
+@section('script')
+    <script>
+        $(document).ready(function(){
+            $(".fusion-li-item").append('<span style="height:27.2px;width:27.2px;margin-right:11.2px;" class="icon-wrapper circle-no">'
+                                         +       '<i class="fusion-li-icon fa-check fas" style="color:#267399;" aria-hidden="true"></i>'
+                                            +'</span>');
+        })
+    </script>
 @endsection
