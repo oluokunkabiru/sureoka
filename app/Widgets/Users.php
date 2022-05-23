@@ -32,7 +32,7 @@ class Users extends BaseDimmer
         return view('voyager::dimmer', array_merge($this->config, [
             'icon'   => 'voyager-link',
             'title'  =>  "My Link ",
-            'text'   => __("<a href='". route('careersme', Hashids::encode(Auth::user()->id)) ."'>". route('careersme', Hashids::encode(Auth::user()->id)) ."</a>"),
+            'text'   => __("<a style='color:white' href='". route('careersme', Hashids::encode(Auth::user()->id)) ."'>". route('careersme', Hashids::encode(Auth::user()->id)) ."</a>"),
             'button' => [
                 'text' => __('My Invite Link'),
                 'link' => route('careersme', Hashids::encode(Auth::user()->id)),

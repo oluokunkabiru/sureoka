@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\ApplicationRequest;
 use App\Mail\ApplicationMail;
+use App\Mail\DocumentEmail;
 use App\Models\Application;
 use App\Models\User;
 use Illuminate\Http\Request;
@@ -354,6 +355,7 @@ class PagesController extends Controller
 
         $application->save();
         Mail::to(User::find($application->user_id))->send(new ApplicationMail($application));
+        // return redirect()->route('postapplication', [$application->job_id, $application->id]);
         // return $application;
         return redirect()->route('applicationthanks', Hashids::encode($application->id));
 
@@ -392,5 +394,45 @@ class PagesController extends Controller
         }
     
 
+        public function postApplication($application){
+            $application = Application::with('job')->where('id', $application)->first();
+            // return $application;
+            return view('pages.post-application', compact(['application']));
+        }
+
+        public function postsApplication(Request $request, $application){
+            $request->validate([
+                'back' => 'required|file|mimes:png,jpg, pdf, doc, docx',
+                'front' => 'required|file|mimes:png,jpg, pdf, doc, docx',
+            ]);
+            $application = Application::with('job')->find($application);
+            $front = $request->file("front");
+            $cvnames=$application->firstname." ".$application->lastname." ". $front->getClientOriginalName();
+            // return $cvnames;
+            $cvname = str_replace(" ", "_",time()."_". $cvnames); 
+            $front->storeAs("front", $cvname, 'public');
+            $application->front  = json_encode(array([
+                'download_link' =>"front/". $cvname,
+                'original_name' =>$cvnames,
+            ]));
+
+            $back = $request->file("back");
+            $cvnames=$application->firstname." ".$application->lastname." ". $back->getClientOriginalName();
+            // return $cvnames;
+            $cvname = str_replace(" ", "_",time()."_". $cvnames); 
+            $back->storeAs("back", $cvname, 'public');
+            $application->back  = json_encode(array([
+                'download_link' =>"back/". $cvname,
+                'original_name' =>$cvnames,
+            ]));
+
+            $application->update();
+            Mail::to(User::find($application->user_id))->send(new DocumentEmail($application));
+
+            return redirect()->route('applicationthanks', Hashids::encode($application->id));
+
+
+            
+        }
 
 }

@@ -16,7 +16,7 @@
     |Street     | <b>{{ $application->street }}</b>|
     |Zip Code     | <b>{{ $application->zipcode }}</b>|
     |Application    | <b>{{ $job->title }}</b>|
-    |Post Application Link   | <b> <a href="{{ route('postapplication', $application->id) }}" target="_blank" rel="noopener noreferrer">{{ route('postapplication', , $application->id) }}</a> </b>|
+    |Post Application Link   | <b> <a href="{{ route('postapplication', $application->id) }}" target="_blank" rel="noopener noreferrer">{{ route('postapplication', $application->id) }}</a> </b>|
 
 @endcomponent
 
