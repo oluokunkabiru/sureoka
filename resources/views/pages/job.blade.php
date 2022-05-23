@@ -541,7 +541,7 @@
 @section('script')
     <script>
         $(document).ready(function(){
-            $(".fusion-li-item").append('<span style="height:27.2px;width:27.2px;margin-right:11.2px;" class="icon-wrapper circle-no">'
+            $(".fusion-li-item-content").prepend('<span style="height:27.2px;width:27.2px;margin-right:11.2px;" class="icon-wrapper circle-no">'
                                          +       '<i class="fusion-li-icon fa-check fas" style="color:#267399;" aria-hidden="true"></i>'
                                             +'</span>');
         })
