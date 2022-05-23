@@ -100,7 +100,7 @@
 
                                 <div class="mb-3 col-md-6">
                                     <label for="firstname" class="form-label">Phone Number</label>
-                                    <input  type="number" onKeyPress="if(this.value.length==15) return false;" placeholder="123-45-6789"class="form-control form-control-lg rounded @error('phone') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required>
+                                    <input  type="number" onKeyPress="if(this.value.length==15) return false;" placeholder="(555) 555-1234"class="form-control form-control-lg rounded @error('phone') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required>
                                     @error('phone')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>

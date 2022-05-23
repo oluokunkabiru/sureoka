@@ -435,7 +435,7 @@
                                                 promotion</div>
                                         </li>
                                     </ul> --}}
-                                     {!! $job->description !!}
+                                     {{ $job->description }}
 
                                     <div class="fusion-text fusion-text-5">
                                     </div>
